@@ -3,78 +3,78 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:magenta_terracotta",
+      "id": "minecraft:magenta_terracotta",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:magenta_terracotta_bricks",
+    "id": "chipped:magenta_terracotta_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:magenta_terracotta_tile",
+      "id": "chipped:magenta_terracotta_tile",
       "count": 1
     },
     {
-      "item": "chipped:magenta_terracotta_tiles",
+      "id": "chipped:magenta_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:chiseled_magenta_terracotta",
+      "id": "chipped:chiseled_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:crossed_magenta_terracotta",
+      "id": "chipped:crossed_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:cut_magenta_terracotta",
+      "id": "chipped:cut_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:decorated_magenta_terracotta",
+      "id": "chipped:decorated_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:layered_magenta_terracotta",
+      "id": "chipped:layered_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:triangular_magenta_terracotta",
+      "id": "chipped:triangular_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:magenta_terracotta_column",
+      "id": "chipped:magenta_terracotta_column",
       "count": 1
     },
     {
-      "item": "chipped:magenta_terracotta_pillar",
+      "id": "chipped:magenta_terracotta_pillar",
       "count": 1
     },
     {
-      "item": "chipped:small_magenta_terracotta_tiles",
+      "id": "chipped:small_magenta_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:curled_magenta_terracotta",
+      "id": "chipped:curled_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:hexagonical_magenta_terracotta",
+      "id": "chipped:hexagonical_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:circular_magenta_terracotta",
+      "id": "chipped:circular_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_magenta_terracotta",
+      "id": "chipped:inscribed_magenta_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:starry_magenta_terracotta",
+      "id": "chipped:starry_magenta_terracotta",
       "count": 1
     }
   ]

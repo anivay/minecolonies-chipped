@@ -3,78 +3,78 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:shroomlight",
+      "id": "minecraft:shroomlight",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:broken_shroomlight",
+    "id": "chipped:broken_shroomlight",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:cracked_shroomlight",
+      "id": "chipped:cracked_shroomlight",
       "count": 1
     },
     {
-      "item": "chipped:double_inlayed_shroomlight",
+      "id": "chipped:double_inlayed_shroomlight",
       "count": 1
     },
     {
-      "item": "chipped:edged_shroomlight_lantern",
+      "id": "chipped:edged_shroomlight_lantern",
       "count": 1
     },
     {
-      "item": "chipped:fancy_shroomlight_lantern",
+      "id": "chipped:fancy_shroomlight_lantern",
       "count": 1
     },
     {
-      "item": "chipped:framed_shroomlight_lantern",
+      "id": "chipped:framed_shroomlight_lantern",
       "count": 1
     },
     {
-      "item": "chipped:hived_shroomlight",
+      "id": "chipped:hived_shroomlight",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_shroomlight",
+      "id": "chipped:inlayed_shroomlight",
       "count": 1
     },
     {
-      "item": "chipped:ornate_shroomlight_lantern",
+      "id": "chipped:ornate_shroomlight_lantern",
       "count": 1
     },
     {
-      "item": "chipped:polished_shroomlight",
+      "id": "chipped:polished_shroomlight",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_shroomlight",
+      "id": "chipped:reinforced_shroomlight",
       "count": 1
     },
     {
-      "item": "chipped:shimmering_shroomlight",
+      "id": "chipped:shimmering_shroomlight",
       "count": 1
     },
     {
-      "item": "chipped:shroomlight_lantern",
+      "id": "chipped:shroomlight_lantern",
       "count": 1
     },
     {
-      "item": "chipped:shroomlight_lodestone_side",
+      "id": "chipped:shroomlight_lodestone_side",
       "count": 1
     },
     {
-      "item": "chipped:smooth_shroomlight",
+      "id": "chipped:smooth_shroomlight",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_shroomlight",
+      "id": "chipped:thick_inlayed_shroomlight",
       "count": 1
     },
     {
-      "item": "chipped:tiled_shroomlight_pillar",
+      "id": "chipped:tiled_shroomlight_pillar",
       "count": 1
     }
   ]

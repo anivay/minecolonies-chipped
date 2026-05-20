@@ -3,162 +3,162 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:oak_planks",
+      "id": "minecraft:oak_planks",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:oak_planks_mosaic",
+    "id": "chipped:oak_planks_mosaic",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:oak_planks_shavings",
+      "id": "chipped:oak_planks_shavings",
       "count": 1
     },
     {
-      "item": "chipped:basket_woven_oak_planks",
+      "id": "chipped:basket_woven_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:boxed_oak_planks",
+      "id": "chipped:boxed_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:brick_bond_oak_planks",
+      "id": "chipped:brick_bond_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:bricky_oak_planks",
+      "id": "chipped:bricky_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:cross_laced_oak_planks",
+      "id": "chipped:cross_laced_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:crossed_oak_planks",
+      "id": "chipped:crossed_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:detailed_oak_planks",
+      "id": "chipped:detailed_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:diagonal_oak_planks",
+      "id": "chipped:diagonal_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:diamond_oak_planks",
+      "id": "chipped:diamond_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:double_herringbone_oak_planks",
+      "id": "chipped:double_herringbone_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_oak_planks",
+      "id": "chipped:fine_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_vertical_oak_planks",
+      "id": "chipped:fine_vertical_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:herringbone_oak_planks",
+      "id": "chipped:herringbone_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:hewn_oak_planks",
+      "id": "chipped:hewn_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:laced_oak_planks",
+      "id": "chipped:laced_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:nailed_oak_planks",
+      "id": "chipped:nailed_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:polished_oak_planks",
+      "id": "chipped:polished_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:railed_oak_planks",
+      "id": "chipped:railed_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:shifted_oak_planks",
+      "id": "chipped:shifted_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:slanted_oak_planks",
+      "id": "chipped:slanted_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_oak_planks",
+      "id": "chipped:smooth_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:stacked_oak_planks",
+      "id": "chipped:stacked_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:thin_oak_planks",
+      "id": "chipped:thin_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_oak_planks",
+      "id": "chipped:tiled_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:versailles_oak_planks",
+      "id": "chipped:versailles_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_oak_planks",
+      "id": "chipped:vertical_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertically_railed_oak_planks",
+      "id": "chipped:vertically_railed_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:wickered_oak_planks",
+      "id": "chipped:wickered_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:oak_planks_panel",
+      "id": "chipped:oak_planks_panel",
       "count": 1
     },
     {
-      "item": "chipped:cornered_oak_planks",
+      "id": "chipped:cornered_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:crated_oak_planks",
+      "id": "chipped:crated_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:enclosed_oak_planks",
+      "id": "chipped:enclosed_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:framed_oak_planks",
+      "id": "chipped:framed_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:natural_oak_planks",
+      "id": "chipped:natural_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:pegged_oak_planks",
+      "id": "chipped:pegged_oak_planks",
       "count": 1
     },
     {
-      "item": "chipped:whirlwind_oak_planks",
+      "id": "chipped:whirlwind_oak_planks",
       "count": 1
     }
   ]

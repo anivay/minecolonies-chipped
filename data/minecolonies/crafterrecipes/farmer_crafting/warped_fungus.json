@@ -3,62 +3,62 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:warped_fungus",
+      "id": "minecraft:warped_fungus",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bulbed_warped_fungus",
+    "id": "chipped:bulbed_warped_fungus",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:button_warped_fungus",
+      "id": "chipped:button_warped_fungus",
       "count": 1
     },
     {
-      "item": "chipped:double_warped_fungus",
+      "id": "chipped:double_warped_fungus",
       "count": 1
     },
     {
-      "item": "chipped:franken_warped_fungus",
+      "id": "chipped:franken_warped_fungus",
       "count": 1
     },
     {
-      "item": "chipped:hooded_warped_fungus",
+      "id": "chipped:hooded_warped_fungus",
       "count": 1
     },
     {
-      "item": "chipped:micro_warped_fungus",
+      "id": "chipped:micro_warped_fungus",
       "count": 1
     },
     {
-      "item": "chipped:mini_warped_fungus",
+      "id": "chipped:mini_warped_fungus",
       "count": 1
     },
     {
-      "item": "chipped:warped_fungus_bulb",
+      "id": "chipped:warped_fungus_bulb",
       "count": 1
     },
     {
-      "item": "chipped:warped_fungus_bushel",
+      "id": "chipped:warped_fungus_bushel",
       "count": 1
     },
     {
-      "item": "chipped:warped_fungus_cluster",
+      "id": "chipped:warped_fungus_cluster",
       "count": 1
     },
     {
-      "item": "chipped:warped_fungus_trio",
+      "id": "chipped:warped_fungus_trio",
       "count": 1
     },
     {
-      "item": "chipped:umbrella_warped_fungus",
+      "id": "chipped:umbrella_warped_fungus",
       "count": 1
     },
     {
-      "item": "chipped:wicked_warped_fungus",
+      "id": "chipped:wicked_warped_fungus",
       "count": 1
     }
   ]

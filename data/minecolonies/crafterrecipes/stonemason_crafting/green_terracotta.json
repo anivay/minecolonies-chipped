@@ -3,78 +3,78 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:green_terracotta",
+      "id": "minecraft:green_terracotta",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:green_terracotta_bricks",
+    "id": "chipped:green_terracotta_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:green_terracotta_tile",
+      "id": "chipped:green_terracotta_tile",
       "count": 1
     },
     {
-      "item": "chipped:green_terracotta_tiles",
+      "id": "chipped:green_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:chiseled_green_terracotta",
+      "id": "chipped:chiseled_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:crossed_green_terracotta",
+      "id": "chipped:crossed_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:cut_green_terracotta",
+      "id": "chipped:cut_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:decorated_green_terracotta",
+      "id": "chipped:decorated_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:layered_green_terracotta",
+      "id": "chipped:layered_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:triangular_green_terracotta",
+      "id": "chipped:triangular_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:green_terracotta_column",
+      "id": "chipped:green_terracotta_column",
       "count": 1
     },
     {
-      "item": "chipped:green_terracotta_pillar",
+      "id": "chipped:green_terracotta_pillar",
       "count": 1
     },
     {
-      "item": "chipped:small_green_terracotta_tiles",
+      "id": "chipped:small_green_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:curled_green_terracotta",
+      "id": "chipped:curled_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:hexagonical_green_terracotta",
+      "id": "chipped:hexagonical_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:circular_green_terracotta",
+      "id": "chipped:circular_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_green_terracotta",
+      "id": "chipped:inscribed_green_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:starry_green_terracotta",
+      "id": "chipped:starry_green_terracotta",
       "count": 1
     }
   ]

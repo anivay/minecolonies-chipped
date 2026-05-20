@@ -3,98 +3,98 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:brown_mushroom_block",
+      "id": "minecraft:brown_mushroom_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:dark_dusted_brown_mushroom_block",
+    "id": "chipped:dark_dusted_brown_mushroom_block",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:dark_freckled_brown_mushroom_block",
+      "id": "chipped:dark_freckled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dark_scaled_brown_mushroom_block",
+      "id": "chipped:dark_scaled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dark_smooth_brown_mushroom_block",
+      "id": "chipped:dark_smooth_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dark_spotted_brown_mushroom_block",
+      "id": "chipped:dark_spotted_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dark_sprinkled_brown_mushroom_block",
+      "id": "chipped:dark_sprinkled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dusted_brown_mushroom_block",
+      "id": "chipped:dusted_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:freckled_brown_mushroom_block",
+      "id": "chipped:freckled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_dusted_brown_mushroom_block",
+      "id": "chipped:light_dusted_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_freckled_brown_mushroom_block",
+      "id": "chipped:light_freckled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_scaled_brown_mushroom_block",
+      "id": "chipped:light_scaled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_smooth_brown_mushroom_block",
+      "id": "chipped:light_smooth_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_spotted_brown_mushroom_block",
+      "id": "chipped:light_spotted_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_sprinkled_brown_mushroom_block",
+      "id": "chipped:light_sprinkled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:scaled_brown_mushroom_block",
+      "id": "chipped:scaled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:smooth_brown_mushroom_block",
+      "id": "chipped:smooth_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:spotted_brown_mushroom_block",
+      "id": "chipped:spotted_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:sprinkled_brown_mushroom_block",
+      "id": "chipped:sprinkled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:white_dusted_brown_mushroom_block",
+      "id": "chipped:white_dusted_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:white_freckled_brown_mushroom_block",
+      "id": "chipped:white_freckled_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:white_spotted_brown_mushroom_block",
+      "id": "chipped:white_spotted_brown_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:white_sprinkled_brown_mushroom_block",
+      "id": "chipped:white_sprinkled_brown_mushroom_block",
       "count": 1
     }
   ]

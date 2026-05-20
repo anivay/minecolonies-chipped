@@ -3,90 +3,90 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:purple_carpet",
+      "id": "minecraft:purple_carpet",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barky_purple_carpet",
+    "id": "chipped:barky_purple_carpet",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blocky_purple_carpet",
+      "id": "chipped:blocky_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:bundled_purple_carpet",
+      "id": "chipped:bundled_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cross_haired_purple_carpet",
+      "id": "chipped:cross_haired_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cubed_purple_carpet",
+      "id": "chipped:cubed_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:knitted_purple_carpet",
+      "id": "chipped:knitted_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:patched_purple_carpet",
+      "id": "chipped:patched_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:rectangle_purple_carpet",
+      "id": "chipped:rectangle_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:ribbled_purple_carpet",
+      "id": "chipped:ribbled_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:scaled_purple_carpet",
+      "id": "chipped:scaled_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:soft_purple_carpet",
+      "id": "chipped:soft_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:stringed_purple_carpet",
+      "id": "chipped:stringed_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tiled_purple_carpet",
+      "id": "chipped:tiled_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tripped_purple_carpet",
+      "id": "chipped:tripped_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:wickered_purple_carpet",
+      "id": "chipped:wickered_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:windmill_purple_carpet",
+      "id": "chipped:windmill_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:woved_purple_carpet",
+      "id": "chipped:woved_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cornered_purple_carpet",
+      "id": "chipped:cornered_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:crafted_purple_carpet",
+      "id": "chipped:crafted_purple_carpet",
       "count": 1
     },
     {
-      "item": "chipped:harsh_quilted_purple_carpet",
+      "id": "chipped:harsh_quilted_purple_carpet",
       "count": 1
     }
   ]

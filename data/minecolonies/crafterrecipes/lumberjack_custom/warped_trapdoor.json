@@ -3,94 +3,94 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:warped_trapdoor",
+      "id": "minecraft:warped_trapdoor",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:airy_warped_trapdoor",
+    "id": "chipped:airy_warped_trapdoor",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:barred_warped_trapdoor",
+      "id": "chipped:barred_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:checkered_warped_trapdoor",
+      "id": "chipped:checkered_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:classic_warped_trapdoor",
+      "id": "chipped:classic_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:classic_windowed_warped_trapdoor",
+      "id": "chipped:classic_windowed_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:cobweb_warped_trapdoor",
+      "id": "chipped:cobweb_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:golden_barred_warped_trapdoor",
+      "id": "chipped:golden_barred_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:heavy_warped_trapdoor",
+      "id": "chipped:heavy_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:iron_barred_warped_trapdoor",
+      "id": "chipped:iron_barred_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:leafy_warped_trapdoor",
+      "id": "chipped:leafy_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:meshed_warped_trapdoor",
+      "id": "chipped:meshed_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_warped_trapdoor",
+      "id": "chipped:overgrown_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:pointless_warped_trapdoor",
+      "id": "chipped:pointless_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:slotted_warped_trapdoor",
+      "id": "chipped:slotted_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:solid_warped_trapdoor",
+      "id": "chipped:solid_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:suspicious_warped_trapdoor",
+      "id": "chipped:suspicious_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:twisted_warped_trapdoor",
+      "id": "chipped:twisted_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:vined_warped_trapdoor",
+      "id": "chipped:vined_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:warted_warped_trapdoor",
+      "id": "chipped:warted_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:windowed_warped_trapdoor",
+      "id": "chipped:windowed_warped_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:woven_warped_trapdoor",
+      "id": "chipped:woven_warped_trapdoor",
       "count": 1
     }
   ]

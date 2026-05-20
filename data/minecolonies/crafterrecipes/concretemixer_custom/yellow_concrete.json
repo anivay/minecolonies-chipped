@@ -3,90 +3,90 @@
   "crafter": "concretemixer_custom",
   "inputs": [
     {
-      "item": "minecraft:yellow_concrete",
+      "id": "minecraft:yellow_concrete",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:yellow_concrete_bricks",
+    "id": "chipped:yellow_concrete_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:yellow_concrete_tiles",
+      "id": "chipped:yellow_concrete_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_yellow_concrete",
+      "id": "chipped:creeper_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grid_yellow_concrete",
+      "id": "chipped:grid_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:mosaic_yellow_concrete",
+      "id": "chipped:mosaic_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stacked_yellow_concrete",
+      "id": "chipped:stacked_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stop_yellow_concrete",
+      "id": "chipped:stop_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grill_yellow_concrete",
+      "id": "chipped:grill_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:yellow_concrete_panel",
+      "id": "chipped:yellow_concrete_panel",
       "count": 1
     },
     {
-      "item": "chipped:pegged_yellow_concrete",
+      "id": "chipped:pegged_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:smooth_yellow_concrete",
+      "id": "chipped:smooth_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:striped_yellow_concrete",
+      "id": "chipped:striped_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:wired_yellow_concrete",
+      "id": "chipped:wired_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:yellow_concrete_pillar",
+      "id": "chipped:yellow_concrete_pillar",
       "count": 1
     },
     {
-      "item": "chipped:bolted_yellow_concrete",
+      "id": "chipped:bolted_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:hazard_yellow_concrete",
+      "id": "chipped:hazard_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:railed_yellow_concrete",
+      "id": "chipped:railed_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_yellow_concrete",
+      "id": "chipped:reinforced_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:rusted_yellow_concrete",
+      "id": "chipped:rusted_yellow_concrete",
       "count": 1
     },
     {
-      "item": "chipped:warning_yellow_concrete",
+      "id": "chipped:warning_yellow_concrete",
       "count": 1
     }
   ]

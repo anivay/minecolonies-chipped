@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:crying_obsidian",
+      "id": "minecraft:crying_obsidian",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:crying_obsidian_bricks",
+    "id": "chipped:crying_obsidian_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:crying_obsidian_mini_tiles",
+      "id": "chipped:crying_obsidian_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:crying_obsidian_pillar",
+      "id": "chipped:crying_obsidian_pillar",
       "count": 1
     },
     {
-      "item": "chipped:crying_obsidian_pillar_top",
+      "id": "chipped:crying_obsidian_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:crying_obsidian_scales",
+      "id": "chipped:crying_obsidian_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_crying_obsidian",
+      "id": "chipped:angry_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:blank_crying_obsidian_carving",
+      "id": "chipped:blank_crying_obsidian_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_crying_obsidian",
+      "id": "chipped:carved_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:checkered_crying_obsidian_tiles",
+      "id": "chipped:checkered_crying_obsidian_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_crying_obsidian",
+      "id": "chipped:cobbled_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:cracked_crying_obsidian_bricks",
+      "id": "chipped:cracked_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_crying_obsidian_bricks",
+      "id": "chipped:cracked_disordered_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_crying_obsidian_tiles",
+      "id": "chipped:cracked_flat_crying_obsidian_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_crying_obsidian_carving",
+      "id": "chipped:creeper_crying_obsidian_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_crying_obsidian",
+      "id": "chipped:crying_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_crying_obsidian",
+      "id": "chipped:cut_blank_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:glad_crying_obsidian",
+      "id": "chipped:glad_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:duh_crying_obsidian",
+      "id": "chipped:duh_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:engraved_crying_obsidian",
+      "id": "chipped:engraved_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:eroded_crying_obsidian",
+      "id": "chipped:eroded_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:etched_crying_obsidian_bricks",
+      "id": "chipped:etched_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_crying_obsidian_tiles",
+      "id": "chipped:flat_crying_obsidian_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_crying_obsidian",
+      "id": "chipped:inlayed_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_crying_obsidian",
+      "id": "chipped:inscribed_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:layed_crying_obsidian_bricks",
+      "id": "chipped:layed_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_crying_obsidian",
+      "id": "chipped:loded_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:offset_crying_obsidian_bricks",
+      "id": "chipped:offset_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_crying_obsidian_bricks",
+      "id": "chipped:pillar_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_crying_obsidian_remnants",
+      "id": "chipped:prismal_crying_obsidian_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_crying_obsidian",
+      "id": "chipped:rough_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:rounded_crying_obsidian_bricks",
+      "id": "chipped:rounded_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_crying_obsidian",
+      "id": "chipped:runic_carved_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:sad_crying_obsidian",
+      "id": "chipped:sad_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:sanded_crying_obsidian",
+      "id": "chipped:sanded_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:small_crying_obsidian_bricks",
+      "id": "chipped:small_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_crying_obsidian",
+      "id": "chipped:smooth_inlayed_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_crying_obsidian",
+      "id": "chipped:smooth_ringed_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_crying_obsidian",
+      "id": "chipped:smoothed_double_inlayed_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:spider_crying_obsidian_carving",
+      "id": "chipped:spider_crying_obsidian_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_crying_obsidian",
+      "id": "chipped:spiraled_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:stacked_crying_obsidian_bricks",
+      "id": "chipped:stacked_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_crying_obsidian",
+      "id": "chipped:tiled_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:tiny_crying_obsidian_bricks",
+      "id": "chipped:tiny_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_crying_obsidian_bricks",
+      "id": "chipped:tiny_layered_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_crying_obsidian_slabs",
+      "id": "chipped:tiny_layered_crying_obsidian_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_crying_obsidian",
+      "id": "chipped:trodden_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:unamused_crying_obsidian",
+      "id": "chipped:unamused_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_crying_obsidian",
+      "id": "chipped:vertical_cut_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_crying_obsidian_bricks",
+      "id": "chipped:vertical_disordered_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_crying_obsidian",
+      "id": "chipped:weathered_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:bordered_crying_obsidian",
+      "id": "chipped:bordered_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_crying_obsidian",
+      "id": "chipped:brick_bordered_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:cut_crying_obsidian_column",
+      "id": "chipped:cut_crying_obsidian_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_crying_obsidian_bricks",
+      "id": "chipped:edged_crying_obsidian_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_crying_obsidian_tiles",
+      "id": "chipped:overlapping_crying_obsidian_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_crying_obsidian",
+      "id": "chipped:polished_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:smooth_crying_obsidian_column",
+      "id": "chipped:smooth_crying_obsidian_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_crying_obsidian",
+      "id": "chipped:thick_inlayed_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:tiled_crying_obsidian_column",
+      "id": "chipped:tiled_crying_obsidian_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_crying_obsidian",
+      "id": "chipped:tiled_bordered_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_crying_obsidian",
+      "id": "chipped:tiny_brick_bordered_crying_obsidian",
       "count": 1
     },
     {
-      "item": "chipped:curly_crying_obsidian_pillar",
+      "id": "chipped:curly_crying_obsidian_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_crying_obsidian_pillar",
+      "id": "chipped:fine_crying_obsidian_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_crying_obsidian_pillar",
+      "id": "chipped:ornate_crying_obsidian_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_crying_obsidian_pillar",
+      "id": "chipped:simple_crying_obsidian_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_crying_obsidian_bricks",
+      "id": "chipped:massive_crying_obsidian_bricks",
       "count": 1
     }
   ]

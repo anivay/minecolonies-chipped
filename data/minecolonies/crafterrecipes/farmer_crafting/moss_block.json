@@ -3,50 +3,50 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:moss_block",
+      "id": "minecraft:moss_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:blobby_moss_block",
+    "id": "chipped:blobby_moss_block",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blue_moss_block",
+      "id": "chipped:blue_moss_block",
       "count": 1
     },
     {
-      "item": "chipped:crunchy_moss_block",
+      "id": "chipped:crunchy_moss_block",
       "count": 1
     },
     {
-      "item": "chipped:lime_moss_block",
+      "id": "chipped:lime_moss_block",
       "count": 1
     },
     {
-      "item": "chipped:old_moss_block",
+      "id": "chipped:old_moss_block",
       "count": 1
     },
     {
-      "item": "chipped:red_moss_block",
+      "id": "chipped:red_moss_block",
       "count": 1
     },
     {
-      "item": "chipped:smooth_moss_block",
+      "id": "chipped:smooth_moss_block",
       "count": 1
     },
     {
-      "item": "chipped:spongy_moss_block",
+      "id": "chipped:spongy_moss_block",
       "count": 1
     },
     {
-      "item": "chipped:sprinkled_moss_block",
+      "id": "chipped:sprinkled_moss_block",
       "count": 1
     },
     {
-      "item": "chipped:yellow_moss_block",
+      "id": "chipped:yellow_moss_block",
       "count": 1
     }
   ]

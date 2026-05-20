@@ -3,54 +3,54 @@
   "crafter": "glassblower_crafting",
   "inputs": [
     {
-      "item": "minecraft:white_stained_glass",
+      "id": "minecraft:white_stained_glass",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:circular_white_stained_glass",
+    "id": "chipped:circular_white_stained_glass",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:large_diamond_white_stained_glass",
+      "id": "chipped:large_diamond_white_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:square_white_stained_glass",
+      "id": "chipped:square_white_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:vertical_stiped_white_stained_glass",
+      "id": "chipped:vertical_stiped_white_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:woven_white_stained_glass",
+      "id": "chipped:woven_white_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:arched_white_stained_glass_pillar",
+      "id": "chipped:arched_white_stained_glass_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_white_stained_glass",
+      "id": "chipped:fancy_white_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:ornate_white_stained_glass",
+      "id": "chipped:ornate_white_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:raster_white_stained_glass",
+      "id": "chipped:raster_white_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:small_white_stained_glass",
+      "id": "chipped:small_white_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:tiled_white_stained_glass",
+      "id": "chipped:tiled_white_stained_glass",
       "count": 1
     }
   ]

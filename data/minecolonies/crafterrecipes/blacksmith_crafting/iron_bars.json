@@ -3,94 +3,94 @@
   "crafter": "blacksmith_crafting",
   "inputs": [
     {
-      "item": "minecraft:iron_bars",
+      "id": "minecraft:iron_bars",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:iron_bars_top",
+    "id": "chipped:iron_bars_top",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:barbed_iron_bars",
+      "id": "chipped:barbed_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:bolted_iron_bars",
+      "id": "chipped:bolted_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:chained_iron_bars",
+      "id": "chipped:chained_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:crossbolted_iron_bars",
+      "id": "chipped:crossbolted_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:crossed_iron_bars",
+      "id": "chipped:crossed_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:floral_iron_bars",
+      "id": "chipped:floral_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:harp_iron_bars",
+      "id": "chipped:harp_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:linked_iron_bars",
+      "id": "chipped:linked_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:loose_iron_bars",
+      "id": "chipped:loose_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:piked_iron_bars",
+      "id": "chipped:piked_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:railed_iron_bars",
+      "id": "chipped:railed_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:sighthole_iron_bars",
+      "id": "chipped:sighthole_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:stepped_iron_bars",
+      "id": "chipped:stepped_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:sturdy_iron_bars",
+      "id": "chipped:sturdy_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:supported_iron_bars",
+      "id": "chipped:supported_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:thorned_iron_bars",
+      "id": "chipped:thorned_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:victorian_iron_bars_pikes",
+      "id": "chipped:victorian_iron_bars_pikes",
       "count": 1
     },
     {
-      "item": "chipped:vined_iron_bars",
+      "id": "chipped:vined_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:woven_iron_bars",
+      "id": "chipped:woven_iron_bars",
       "count": 1
     },
     {
-      "item": "chipped:zippered_iron_bars",
+      "id": "chipped:zippered_iron_bars",
       "count": 1
     }
   ]

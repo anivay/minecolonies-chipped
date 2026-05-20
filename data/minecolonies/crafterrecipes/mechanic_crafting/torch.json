@@ -3,46 +3,46 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:torch",
+      "id": "minecraft:torch",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:acacia_torch",
+    "id": "chipped:acacia_torch",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:birch_torch",
+      "id": "chipped:birch_torch",
       "count": 1
     },
     {
-      "item": "chipped:crimson_torch",
+      "id": "chipped:crimson_torch",
       "count": 1
     },
     {
-      "item": "chipped:dark_oak_torch",
+      "id": "chipped:dark_oak_torch",
       "count": 1
     },
     {
-      "item": "chipped:glow_torch",
+      "id": "chipped:glow_torch",
       "count": 1
     },
     {
-      "item": "chipped:iron_torch",
+      "id": "chipped:iron_torch",
       "count": 1
     },
     {
-      "item": "chipped:jungle_torch",
+      "id": "chipped:jungle_torch",
       "count": 1
     },
     {
-      "item": "chipped:spruce_torch",
+      "id": "chipped:spruce_torch",
       "count": 1
     },
     {
-      "item": "chipped:warped_torch",
+      "id": "chipped:warped_torch",
       "count": 1
     }
   ]

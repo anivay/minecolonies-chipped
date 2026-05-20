@@ -3,54 +3,54 @@
   "crafter": "glassblower_crafting",
   "inputs": [
     {
-      "item": "minecraft:black_stained_glass",
+      "id": "minecraft:black_stained_glass",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:circular_black_stained_glass",
+    "id": "chipped:circular_black_stained_glass",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:large_diamond_black_stained_glass",
+      "id": "chipped:large_diamond_black_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:square_black_stained_glass",
+      "id": "chipped:square_black_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:vertical_stiped_black_stained_glass",
+      "id": "chipped:vertical_stiped_black_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:woven_black_stained_glass",
+      "id": "chipped:woven_black_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:arched_black_stained_glass_pillar",
+      "id": "chipped:arched_black_stained_glass_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_black_stained_glass",
+      "id": "chipped:fancy_black_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:ornate_black_stained_glass",
+      "id": "chipped:ornate_black_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:raster_black_stained_glass",
+      "id": "chipped:raster_black_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:small_black_stained_glass",
+      "id": "chipped:small_black_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:tiled_black_stained_glass",
+      "id": "chipped:tiled_black_stained_glass",
       "count": 1
     }
   ]

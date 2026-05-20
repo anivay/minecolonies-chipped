@@ -3,54 +3,54 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:cherry_log",
+      "id": "minecraft:cherry_log",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bundled_cherry_log",
+    "id": "chipped:bundled_cherry_log",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:center_cut_cherry_log",
+      "id": "chipped:center_cut_cherry_log",
       "count": 1
     },
     {
-      "item": "chipped:damaged_cherry_log",
+      "id": "chipped:damaged_cherry_log",
       "count": 1
     },
     {
-      "item": "chipped:edge_cut_cherry_log",
+      "id": "chipped:edge_cut_cherry_log",
       "count": 1
     },
     {
-      "item": "chipped:firewood_cherry_log",
+      "id": "chipped:firewood_cherry_log",
       "count": 1
     },
     {
-      "item": "chipped:flowering_cherry_log",
+      "id": "chipped:flowering_cherry_log",
       "count": 1
     },
     {
-      "item": "chipped:mixed_cherry_log",
+      "id": "chipped:mixed_cherry_log",
       "count": 1
     },
     {
-      "item": "chipped:nailed_cherry_log",
+      "id": "chipped:nailed_cherry_log",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_cherry_log",
+      "id": "chipped:overgrown_cherry_log",
       "count": 1
     },
     {
-      "item": "chipped:planked_cherry_log",
+      "id": "chipped:planked_cherry_log",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_cherry_log",
+      "id": "chipped:reinforced_cherry_log",
       "count": 1
     }
   ]

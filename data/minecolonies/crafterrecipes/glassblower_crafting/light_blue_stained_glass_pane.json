@@ -3,54 +3,54 @@
   "crafter": "glassblower_crafting",
   "inputs": [
     {
-      "item": "minecraft:light_blue_stained_glass_pane",
+      "id": "minecraft:light_blue_stained_glass_pane",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:circular_light_blue_stained_glass_pane",
+    "id": "chipped:circular_light_blue_stained_glass_pane",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:large_diamond_light_blue_stained_glass_pane",
+      "id": "chipped:large_diamond_light_blue_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:square_light_blue_stained_glass_pane",
+      "id": "chipped:square_light_blue_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:vertical_stiped_light_blue_stained_glass_pane",
+      "id": "chipped:vertical_stiped_light_blue_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:woven_light_blue_stained_glass_pane",
+      "id": "chipped:woven_light_blue_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:arched_light_blue_stained_glass_pane_pillar",
+      "id": "chipped:arched_light_blue_stained_glass_pane_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_light_blue_stained_glass_pane",
+      "id": "chipped:fancy_light_blue_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:ornate_light_blue_stained_glass_pane",
+      "id": "chipped:ornate_light_blue_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:raster_light_blue_stained_glass_pane",
+      "id": "chipped:raster_light_blue_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:small_light_blue_stained_glass_pane",
+      "id": "chipped:small_light_blue_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:tiled_light_blue_stained_glass_pane",
+      "id": "chipped:tiled_light_blue_stained_glass_pane",
       "count": 1
     }
   ]

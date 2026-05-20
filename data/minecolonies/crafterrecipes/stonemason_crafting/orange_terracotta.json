@@ -3,78 +3,78 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:orange_terracotta",
+      "id": "minecraft:orange_terracotta",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:orange_terracotta_bricks",
+    "id": "chipped:orange_terracotta_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:orange_terracotta_tile",
+      "id": "chipped:orange_terracotta_tile",
       "count": 1
     },
     {
-      "item": "chipped:orange_terracotta_tiles",
+      "id": "chipped:orange_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:chiseled_orange_terracotta",
+      "id": "chipped:chiseled_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:crossed_orange_terracotta",
+      "id": "chipped:crossed_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:cut_orange_terracotta",
+      "id": "chipped:cut_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:decorated_orange_terracotta",
+      "id": "chipped:decorated_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:layered_orange_terracotta",
+      "id": "chipped:layered_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:triangular_orange_terracotta",
+      "id": "chipped:triangular_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:orange_terracotta_column",
+      "id": "chipped:orange_terracotta_column",
       "count": 1
     },
     {
-      "item": "chipped:orange_terracotta_pillar",
+      "id": "chipped:orange_terracotta_pillar",
       "count": 1
     },
     {
-      "item": "chipped:small_orange_terracotta_tiles",
+      "id": "chipped:small_orange_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:curled_orange_terracotta",
+      "id": "chipped:curled_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:hexagonical_orange_terracotta",
+      "id": "chipped:hexagonical_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:circular_orange_terracotta",
+      "id": "chipped:circular_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_orange_terracotta",
+      "id": "chipped:inscribed_orange_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:starry_orange_terracotta",
+      "id": "chipped:starry_orange_terracotta",
       "count": 1
     }
   ]

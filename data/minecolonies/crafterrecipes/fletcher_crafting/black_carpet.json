@@ -3,90 +3,90 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:black_carpet",
+      "id": "minecraft:black_carpet",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barky_black_carpet",
+    "id": "chipped:barky_black_carpet",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blocky_black_carpet",
+      "id": "chipped:blocky_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:bundled_black_carpet",
+      "id": "chipped:bundled_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cross_haired_black_carpet",
+      "id": "chipped:cross_haired_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cubed_black_carpet",
+      "id": "chipped:cubed_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:knitted_black_carpet",
+      "id": "chipped:knitted_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:patched_black_carpet",
+      "id": "chipped:patched_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:rectangle_black_carpet",
+      "id": "chipped:rectangle_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:ribbled_black_carpet",
+      "id": "chipped:ribbled_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:scaled_black_carpet",
+      "id": "chipped:scaled_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:soft_black_carpet",
+      "id": "chipped:soft_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:stringed_black_carpet",
+      "id": "chipped:stringed_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tiled_black_carpet",
+      "id": "chipped:tiled_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tripped_black_carpet",
+      "id": "chipped:tripped_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:wickered_black_carpet",
+      "id": "chipped:wickered_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:windmill_black_carpet",
+      "id": "chipped:windmill_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:woved_black_carpet",
+      "id": "chipped:woved_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cornered_black_carpet",
+      "id": "chipped:cornered_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:crafted_black_carpet",
+      "id": "chipped:crafted_black_carpet",
       "count": 1
     },
     {
-      "item": "chipped:harsh_quilted_black_carpet",
+      "id": "chipped:harsh_quilted_black_carpet",
       "count": 1
     }
   ]

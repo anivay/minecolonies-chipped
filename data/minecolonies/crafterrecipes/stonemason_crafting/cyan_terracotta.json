@@ -3,78 +3,78 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:cyan_terracotta",
+      "id": "minecraft:cyan_terracotta",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:cyan_terracotta_bricks",
+    "id": "chipped:cyan_terracotta_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:cyan_terracotta_tile",
+      "id": "chipped:cyan_terracotta_tile",
       "count": 1
     },
     {
-      "item": "chipped:cyan_terracotta_tiles",
+      "id": "chipped:cyan_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:chiseled_cyan_terracotta",
+      "id": "chipped:chiseled_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:crossed_cyan_terracotta",
+      "id": "chipped:crossed_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:cut_cyan_terracotta",
+      "id": "chipped:cut_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:decorated_cyan_terracotta",
+      "id": "chipped:decorated_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:layered_cyan_terracotta",
+      "id": "chipped:layered_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:triangular_cyan_terracotta",
+      "id": "chipped:triangular_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:cyan_terracotta_column",
+      "id": "chipped:cyan_terracotta_column",
       "count": 1
     },
     {
-      "item": "chipped:cyan_terracotta_pillar",
+      "id": "chipped:cyan_terracotta_pillar",
       "count": 1
     },
     {
-      "item": "chipped:small_cyan_terracotta_tiles",
+      "id": "chipped:small_cyan_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:curled_cyan_terracotta",
+      "id": "chipped:curled_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:hexagonical_cyan_terracotta",
+      "id": "chipped:hexagonical_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:circular_cyan_terracotta",
+      "id": "chipped:circular_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_cyan_terracotta",
+      "id": "chipped:inscribed_cyan_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:starry_cyan_terracotta",
+      "id": "chipped:starry_cyan_terracotta",
       "count": 1
     }
   ]

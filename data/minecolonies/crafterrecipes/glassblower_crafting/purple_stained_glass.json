@@ -3,54 +3,54 @@
   "crafter": "glassblower_crafting",
   "inputs": [
     {
-      "item": "minecraft:purple_stained_glass",
+      "id": "minecraft:purple_stained_glass",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:circular_purple_stained_glass",
+    "id": "chipped:circular_purple_stained_glass",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:large_diamond_purple_stained_glass",
+      "id": "chipped:large_diamond_purple_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:square_purple_stained_glass",
+      "id": "chipped:square_purple_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:vertical_stiped_purple_stained_glass",
+      "id": "chipped:vertical_stiped_purple_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:woven_purple_stained_glass",
+      "id": "chipped:woven_purple_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:arched_purple_stained_glass_pillar",
+      "id": "chipped:arched_purple_stained_glass_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_purple_stained_glass",
+      "id": "chipped:fancy_purple_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:ornate_purple_stained_glass",
+      "id": "chipped:ornate_purple_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:raster_purple_stained_glass",
+      "id": "chipped:raster_purple_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:small_purple_stained_glass",
+      "id": "chipped:small_purple_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:tiled_purple_stained_glass",
+      "id": "chipped:tiled_purple_stained_glass",
       "count": 1
     }
   ]

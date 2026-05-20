@@ -3,90 +3,90 @@
   "crafter": "concretemixer_custom",
   "inputs": [
     {
-      "item": "minecraft:gray_concrete",
+      "id": "minecraft:gray_concrete",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:gray_concrete_bricks",
+    "id": "chipped:gray_concrete_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:gray_concrete_tiles",
+      "id": "chipped:gray_concrete_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_gray_concrete",
+      "id": "chipped:creeper_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grid_gray_concrete",
+      "id": "chipped:grid_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:mosaic_gray_concrete",
+      "id": "chipped:mosaic_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stacked_gray_concrete",
+      "id": "chipped:stacked_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stop_gray_concrete",
+      "id": "chipped:stop_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grill_gray_concrete",
+      "id": "chipped:grill_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:gray_concrete_panel",
+      "id": "chipped:gray_concrete_panel",
       "count": 1
     },
     {
-      "item": "chipped:pegged_gray_concrete",
+      "id": "chipped:pegged_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:smooth_gray_concrete",
+      "id": "chipped:smooth_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:striped_gray_concrete",
+      "id": "chipped:striped_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:wired_gray_concrete",
+      "id": "chipped:wired_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:gray_concrete_pillar",
+      "id": "chipped:gray_concrete_pillar",
       "count": 1
     },
     {
-      "item": "chipped:bolted_gray_concrete",
+      "id": "chipped:bolted_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:hazard_gray_concrete",
+      "id": "chipped:hazard_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:railed_gray_concrete",
+      "id": "chipped:railed_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_gray_concrete",
+      "id": "chipped:reinforced_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:rusted_gray_concrete",
+      "id": "chipped:rusted_gray_concrete",
       "count": 1
     },
     {
-      "item": "chipped:warning_gray_concrete",
+      "id": "chipped:warning_gray_concrete",
       "count": 1
     }
   ]

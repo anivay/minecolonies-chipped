@@ -3,86 +3,86 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:crimson_door",
+      "id": "minecraft:crimson_door",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barred_crimson_door",
+    "id": "chipped:barred_crimson_door",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:beach_crimson_door",
+      "id": "chipped:beach_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:boarded_crimson_door",
+      "id": "chipped:boarded_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:dual_paneled_crimson_door",
+      "id": "chipped:dual_paneled_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:fortified_crimson_door",
+      "id": "chipped:fortified_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:gated_crimson_door",
+      "id": "chipped:gated_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:glass_crimson_door",
+      "id": "chipped:glass_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:heavy_crimson_door",
+      "id": "chipped:heavy_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_crimson_door",
+      "id": "chipped:overgrown_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:paneled_crimson_door",
+      "id": "chipped:paneled_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:paper_crimson_door",
+      "id": "chipped:paper_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:pressed_crimson_door",
+      "id": "chipped:pressed_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:screen_crimson_door",
+      "id": "chipped:screen_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:secret_crimson_door",
+      "id": "chipped:secret_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:shack_crimson_door",
+      "id": "chipped:shack_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:sliding_crimson_door",
+      "id": "chipped:sliding_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:tile_windowed_crimson_door",
+      "id": "chipped:tile_windowed_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:tiled_crimson_door",
+      "id": "chipped:tiled_crimson_door",
       "count": 1
     },
     {
-      "item": "chipped:windowed_crimson_door",
+      "id": "chipped:windowed_crimson_door",
       "count": 1
     }
   ]

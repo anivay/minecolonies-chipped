@@ -3,70 +3,70 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:red_mushroom_block",
+      "id": "minecraft:red_mushroom_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:dark_dotted_red_mushroom_block",
+    "id": "chipped:dark_dotted_red_mushroom_block",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:dark_dusted_red_mushroom_block",
+      "id": "chipped:dark_dusted_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dark_freckled_red_mushroom_block",
+      "id": "chipped:dark_freckled_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dark_smooth_red_mushroom_block",
+      "id": "chipped:dark_smooth_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dark_spotted_red_mushroom_block",
+      "id": "chipped:dark_spotted_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dotted_red_mushroom_block",
+      "id": "chipped:dotted_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:dusted_red_mushroom_block",
+      "id": "chipped:dusted_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:freckled_red_mushroom_block",
+      "id": "chipped:freckled_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_dotted_red_mushroom_block",
+      "id": "chipped:light_dotted_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_dusted_red_mushroom_block",
+      "id": "chipped:light_dusted_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_freckled_red_mushroom_block",
+      "id": "chipped:light_freckled_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_smooth_red_mushroom_block",
+      "id": "chipped:light_smooth_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:light_spotted_red_mushroom_block",
+      "id": "chipped:light_spotted_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:smooth_red_mushroom_block",
+      "id": "chipped:smooth_red_mushroom_block",
       "count": 1
     },
     {
-      "item": "chipped:spotted_red_mushroom_block",
+      "id": "chipped:spotted_red_mushroom_block",
       "count": 1
     }
   ]

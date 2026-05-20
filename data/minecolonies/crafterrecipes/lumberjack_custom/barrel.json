@@ -3,158 +3,158 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:barrel",
+      "id": "minecraft:barrel",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:acacia_barrel",
+    "id": "chipped:acacia_barrel",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:acacia_crate",
+      "id": "chipped:acacia_crate",
       "count": 1
     },
     {
-      "item": "chipped:bamboo_barrel",
+      "id": "chipped:bamboo_barrel",
       "count": 1
     },
     {
-      "item": "chipped:birch_barrel",
+      "id": "chipped:birch_barrel",
       "count": 1
     },
     {
-      "item": "chipped:birch_crate",
+      "id": "chipped:birch_crate",
       "count": 1
     },
     {
-      "item": "chipped:coal_barrel",
+      "id": "chipped:coal_barrel",
       "count": 1
     },
     {
-      "item": "chipped:copper_barrel",
+      "id": "chipped:copper_barrel",
       "count": 1
     },
     {
-      "item": "chipped:crimson_barrel",
+      "id": "chipped:crimson_barrel",
       "count": 1
     },
     {
-      "item": "chipped:crimson_crate",
+      "id": "chipped:crimson_crate",
       "count": 1
     },
     {
-      "item": "chipped:dark_oak_crate",
+      "id": "chipped:dark_oak_crate",
       "count": 1
     },
     {
-      "item": "chipped:fish_barrel",
+      "id": "chipped:fish_barrel",
       "count": 1
     },
     {
-      "item": "chipped:fruit_barrel",
+      "id": "chipped:fruit_barrel",
       "count": 1
     },
     {
-      "item": "chipped:gilded_barrel",
+      "id": "chipped:gilded_barrel",
       "count": 1
     },
     {
-      "item": "chipped:gold_barrel",
+      "id": "chipped:gold_barrel",
       "count": 1
     },
     {
-      "item": "chipped:iron_barrel",
+      "id": "chipped:iron_barrel",
       "count": 1
     },
     {
-      "item": "chipped:jungle_crate",
+      "id": "chipped:jungle_crate",
       "count": 1
     },
     {
-      "item": "chipped:mangrove_brick_barrel",
+      "id": "chipped:mangrove_brick_barrel",
       "count": 1
     },
     {
-      "item": "chipped:mangrove_crate",
+      "id": "chipped:mangrove_crate",
       "count": 1
     },
     {
-      "item": "chipped:mangrove_tile_barrel",
+      "id": "chipped:mangrove_tile_barrel",
       "count": 1
     },
     {
-      "item": "chipped:metal_barrel",
+      "id": "chipped:metal_barrel",
       "count": 1
     },
     {
-      "item": "chipped:mushroom_barrel",
+      "id": "chipped:mushroom_barrel",
       "count": 1
     },
     {
-      "item": "chipped:netherite_safe",
+      "id": "chipped:netherite_safe",
       "count": 1
     },
     {
-      "item": "chipped:oak_barrel",
+      "id": "chipped:oak_barrel",
       "count": 1
     },
     {
-      "item": "chipped:oak_crate",
+      "id": "chipped:oak_crate",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_acacia_crate",
+      "id": "chipped:reinforced_acacia_crate",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_birch_crate",
+      "id": "chipped:reinforced_birch_crate",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_crimson_crate",
+      "id": "chipped:reinforced_crimson_crate",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_dark_oak_crate",
+      "id": "chipped:reinforced_dark_oak_crate",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_jungle_crate",
+      "id": "chipped:reinforced_jungle_crate",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_mangrove_crate",
+      "id": "chipped:reinforced_mangrove_crate",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_oak_crate",
+      "id": "chipped:reinforced_oak_crate",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_spruce_crate",
+      "id": "chipped:reinforced_spruce_crate",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_warped_crate",
+      "id": "chipped:reinforced_warped_crate",
       "count": 1
     },
     {
-      "item": "chipped:spruce_barrel",
+      "id": "chipped:spruce_barrel",
       "count": 1
     },
     {
-      "item": "chipped:spruce_crate",
+      "id": "chipped:spruce_crate",
       "count": 1
     },
     {
-      "item": "chipped:varnished_barrel",
+      "id": "chipped:varnished_barrel",
       "count": 1
     },
     {
-      "item": "chipped:warped_crate",
+      "id": "chipped:warped_crate",
       "count": 1
     }
   ]

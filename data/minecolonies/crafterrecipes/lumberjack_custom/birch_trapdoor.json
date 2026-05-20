@@ -3,102 +3,102 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:birch_trapdoor",
+      "id": "minecraft:birch_trapdoor",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:airy_birch_trapdoor",
+    "id": "chipped:airy_birch_trapdoor",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:barred_birch_trapdoor",
+      "id": "chipped:barred_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:checkered_birch_trapdoor",
+      "id": "chipped:checkered_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:classic_birch_trapdoor",
+      "id": "chipped:classic_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:classic_windowed_birch_trapdoor",
+      "id": "chipped:classic_windowed_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:cobweb_birch_trapdoor",
+      "id": "chipped:cobweb_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:distorted_birch_trapdoor",
+      "id": "chipped:distorted_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:fancy_birch_trapdoor",
+      "id": "chipped:fancy_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:golden_barred_birch_trapdoor",
+      "id": "chipped:golden_barred_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:heavy_birch_trapdoor",
+      "id": "chipped:heavy_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:iron_barred_birch_trapdoor",
+      "id": "chipped:iron_barred_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:leafy_birch_trapdoor",
+      "id": "chipped:leafy_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:meshed_birch_trapdoor",
+      "id": "chipped:meshed_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_birch_trapdoor",
+      "id": "chipped:overgrown_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:pointless_birch_trapdoor",
+      "id": "chipped:pointless_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:slotted_birch_trapdoor",
+      "id": "chipped:slotted_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:solid_birch_trapdoor",
+      "id": "chipped:solid_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:suspicious_birch_trapdoor",
+      "id": "chipped:suspicious_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:twisted_birch_trapdoor",
+      "id": "chipped:twisted_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:vined_birch_trapdoor",
+      "id": "chipped:vined_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:warted_birch_trapdoor",
+      "id": "chipped:warted_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:windowed_birch_trapdoor",
+      "id": "chipped:windowed_birch_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:woven_birch_trapdoor",
+      "id": "chipped:woven_birch_trapdoor",
       "count": 1
     }
   ]

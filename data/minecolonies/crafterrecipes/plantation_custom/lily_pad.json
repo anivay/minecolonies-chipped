@@ -3,98 +3,98 @@
   "crafter": "plantation_custom",
   "inputs": [
     {
-      "item": "minecraft:lily_pad",
+      "id": "minecraft:lily_pad",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:big_flower_lily_pad",
+    "id": "chipped:big_flower_lily_pad",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:broken_lily_pad",
+      "id": "chipped:broken_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:dark_broken_lily_pad",
+      "id": "chipped:dark_broken_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:dark_flowering_lily_pad",
+      "id": "chipped:dark_flowering_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:dark_large_lily_pad",
+      "id": "chipped:dark_large_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:dark_leaf_lily_pad",
+      "id": "chipped:dark_leaf_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:dark_micro_lily_pads",
+      "id": "chipped:dark_micro_lily_pads",
       "count": 1
     },
     {
-      "item": "chipped:dark_paddle_lily_pad",
+      "id": "chipped:dark_paddle_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:dark_rough_lily_pad",
+      "id": "chipped:dark_rough_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:dark_smol_lily_pad",
+      "id": "chipped:dark_smol_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:dark_smooth_lily_pad",
+      "id": "chipped:dark_smooth_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:flowering_lily_pad",
+      "id": "chipped:flowering_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:large_lily_pad",
+      "id": "chipped:large_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:leaf_lily_pad",
+      "id": "chipped:leaf_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:light_leaf_lily_pad",
+      "id": "chipped:light_leaf_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:light_rough_lily_pad",
+      "id": "chipped:light_rough_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:micro_lily_pads",
+      "id": "chipped:micro_lily_pads",
       "count": 1
     },
     {
-      "item": "chipped:pacman_lily_pad",
+      "id": "chipped:pacman_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:paddle_lily_pad",
+      "id": "chipped:paddle_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:rough_lily_pad",
+      "id": "chipped:rough_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:smol_lily_pad",
+      "id": "chipped:smol_lily_pad",
       "count": 1
     },
     {
-      "item": "chipped:smooth_lily_pad",
+      "id": "chipped:smooth_lily_pad",
       "count": 1
     }
   ]

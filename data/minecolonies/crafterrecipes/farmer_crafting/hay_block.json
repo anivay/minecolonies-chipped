@@ -3,42 +3,42 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:hay_block",
+      "id": "minecraft:hay_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:antique_hay_block",
+    "id": "chipped:antique_hay_block",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:bundled_hay_block",
+      "id": "chipped:bundled_hay_block",
       "count": 1
     },
     {
-      "item": "chipped:detailed_hay_block",
+      "id": "chipped:detailed_hay_block",
       "count": 1
     },
     {
-      "item": "chipped:fertile_hay_block",
+      "id": "chipped:fertile_hay_block",
       "count": 1
     },
     {
-      "item": "chipped:jungle_hay_block",
+      "id": "chipped:jungle_hay_block",
       "count": 1
     },
     {
-      "item": "chipped:pale_hay_block",
+      "id": "chipped:pale_hay_block",
       "count": 1
     },
     {
-      "item": "chipped:rich_hay_block",
+      "id": "chipped:rich_hay_block",
       "count": 1
     },
     {
-      "item": "chipped:swampy_hay_block",
+      "id": "chipped:swampy_hay_block",
       "count": 1
     }
   ]

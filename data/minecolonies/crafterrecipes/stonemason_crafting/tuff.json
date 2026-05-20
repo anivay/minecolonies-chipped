@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:tuff",
+      "id": "minecraft:tuff",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:tuff_bricks",
+    "id": "chipped:tuff_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:tuff_mini_tiles",
+      "id": "chipped:tuff_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:tuff_pillar",
+      "id": "chipped:tuff_pillar",
       "count": 1
     },
     {
-      "item": "chipped:tuff_pillar_top",
+      "id": "chipped:tuff_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:tuff_scales",
+      "id": "chipped:tuff_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_tuff",
+      "id": "chipped:angry_tuff",
       "count": 1
     },
     {
-      "item": "chipped:blank_tuff_carving",
+      "id": "chipped:blank_tuff_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_tuff",
+      "id": "chipped:carved_tuff",
       "count": 1
     },
     {
-      "item": "chipped:checkered_tuff_tiles",
+      "id": "chipped:checkered_tuff_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_tuff",
+      "id": "chipped:cobbled_tuff",
       "count": 1
     },
     {
-      "item": "chipped:cracked_tuff_bricks",
+      "id": "chipped:cracked_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_tuff_bricks",
+      "id": "chipped:cracked_disordered_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_tuff_tiles",
+      "id": "chipped:cracked_flat_tuff_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_tuff_carving",
+      "id": "chipped:creeper_tuff_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_tuff",
+      "id": "chipped:crying_tuff",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_tuff",
+      "id": "chipped:cut_blank_tuff",
       "count": 1
     },
     {
-      "item": "chipped:glad_tuff",
+      "id": "chipped:glad_tuff",
       "count": 1
     },
     {
-      "item": "chipped:duh_tuff",
+      "id": "chipped:duh_tuff",
       "count": 1
     },
     {
-      "item": "chipped:engraved_tuff",
+      "id": "chipped:engraved_tuff",
       "count": 1
     },
     {
-      "item": "chipped:eroded_tuff",
+      "id": "chipped:eroded_tuff",
       "count": 1
     },
     {
-      "item": "chipped:etched_tuff_bricks",
+      "id": "chipped:etched_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_tuff_tiles",
+      "id": "chipped:flat_tuff_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_tuff",
+      "id": "chipped:inlayed_tuff",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_tuff",
+      "id": "chipped:inscribed_tuff",
       "count": 1
     },
     {
-      "item": "chipped:layed_tuff_bricks",
+      "id": "chipped:layed_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_tuff",
+      "id": "chipped:loded_tuff",
       "count": 1
     },
     {
-      "item": "chipped:offset_tuff_bricks",
+      "id": "chipped:offset_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_tuff_bricks",
+      "id": "chipped:pillar_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_tuff_remnants",
+      "id": "chipped:prismal_tuff_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_tuff",
+      "id": "chipped:rough_tuff",
       "count": 1
     },
     {
-      "item": "chipped:rounded_tuff_bricks",
+      "id": "chipped:rounded_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_tuff",
+      "id": "chipped:runic_carved_tuff",
       "count": 1
     },
     {
-      "item": "chipped:sad_tuff",
+      "id": "chipped:sad_tuff",
       "count": 1
     },
     {
-      "item": "chipped:sanded_tuff",
+      "id": "chipped:sanded_tuff",
       "count": 1
     },
     {
-      "item": "chipped:small_tuff_bricks",
+      "id": "chipped:small_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_tuff",
+      "id": "chipped:smooth_inlayed_tuff",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_tuff",
+      "id": "chipped:smooth_ringed_tuff",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_tuff",
+      "id": "chipped:smoothed_double_inlayed_tuff",
       "count": 1
     },
     {
-      "item": "chipped:spider_tuff_carving",
+      "id": "chipped:spider_tuff_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_tuff",
+      "id": "chipped:spiraled_tuff",
       "count": 1
     },
     {
-      "item": "chipped:stacked_tuff_bricks",
+      "id": "chipped:stacked_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_tuff",
+      "id": "chipped:tiled_tuff",
       "count": 1
     },
     {
-      "item": "chipped:tiny_tuff_bricks",
+      "id": "chipped:tiny_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_tuff_bricks",
+      "id": "chipped:tiny_layered_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_tuff_slabs",
+      "id": "chipped:tiny_layered_tuff_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_tuff",
+      "id": "chipped:trodden_tuff",
       "count": 1
     },
     {
-      "item": "chipped:unamused_tuff",
+      "id": "chipped:unamused_tuff",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_tuff",
+      "id": "chipped:vertical_cut_tuff",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_tuff_bricks",
+      "id": "chipped:vertical_disordered_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_tuff",
+      "id": "chipped:weathered_tuff",
       "count": 1
     },
     {
-      "item": "chipped:bordered_tuff",
+      "id": "chipped:bordered_tuff",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_tuff",
+      "id": "chipped:brick_bordered_tuff",
       "count": 1
     },
     {
-      "item": "chipped:cut_tuff_column",
+      "id": "chipped:cut_tuff_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_tuff_bricks",
+      "id": "chipped:edged_tuff_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_tuff_tiles",
+      "id": "chipped:overlapping_tuff_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_tuff",
+      "id": "chipped:polished_tuff",
       "count": 1
     },
     {
-      "item": "chipped:smooth_tuff_column",
+      "id": "chipped:smooth_tuff_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_tuff",
+      "id": "chipped:thick_inlayed_tuff",
       "count": 1
     },
     {
-      "item": "chipped:tiled_tuff_column",
+      "id": "chipped:tiled_tuff_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_tuff",
+      "id": "chipped:tiled_bordered_tuff",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_tuff",
+      "id": "chipped:tiny_brick_bordered_tuff",
       "count": 1
     },
     {
-      "item": "chipped:curly_tuff_pillar",
+      "id": "chipped:curly_tuff_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_tuff_pillar",
+      "id": "chipped:fine_tuff_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_tuff_pillar",
+      "id": "chipped:ornate_tuff_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_tuff_pillar",
+      "id": "chipped:simple_tuff_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_tuff_bricks",
+      "id": "chipped:massive_tuff_bricks",
       "count": 1
     }
   ]

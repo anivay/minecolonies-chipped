@@ -3,78 +3,78 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:stripped_acacia_log",
+      "id": "minecraft:stripped_acacia_log",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:carved_stripped_acacia_log",
+    "id": "chipped:carved_stripped_acacia_log",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:chipped_stripped_acacia_log",
+      "id": "chipped:chipped_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:d_sign_stripped_acacia_log",
+      "id": "chipped:d_sign_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:edged_stripped_acacia_log",
+      "id": "chipped:edged_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:f_sign_stripped_acacia_log",
+      "id": "chipped:f_sign_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:i_sign_stripped_acacia_log",
+      "id": "chipped:i_sign_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:k_sign_stripped_acacia_log",
+      "id": "chipped:k_sign_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:knotted_stripped_acacia_log",
+      "id": "chipped:knotted_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:l_sign_stripped_acacia_log",
+      "id": "chipped:l_sign_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:layered_stripped_acacia_log",
+      "id": "chipped:layered_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:lumpy_stripped_acacia_log",
+      "id": "chipped:lumpy_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:m_sign_stripped_acacia_log",
+      "id": "chipped:m_sign_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:patient_stripped_acacia_log",
+      "id": "chipped:patient_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_stripped_acacia_log",
+      "id": "chipped:reinforced_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:sign_stripped_acacia_log",
+      "id": "chipped:sign_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:stern_stripped_acacia_log",
+      "id": "chipped:stern_stripped_acacia_log",
       "count": 1
     },
     {
-      "item": "chipped:wise_stripped_acacia_log",
+      "id": "chipped:wise_stripped_acacia_log",
       "count": 1
     }
   ]

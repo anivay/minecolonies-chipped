@@ -3,262 +3,262 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:blackstone",
+      "id": "minecraft:blackstone",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:blackstone_mini_tiles",
+    "id": "chipped:blackstone_mini_tiles",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blackstone_pillar",
+      "id": "chipped:blackstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:blackstone_pillar_top",
+      "id": "chipped:blackstone_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:blackstone_scales",
+      "id": "chipped:blackstone_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_blackstone",
+      "id": "chipped:angry_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:blank_blackstone_carving",
+      "id": "chipped:blank_blackstone_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_blackstone",
+      "id": "chipped:carved_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:checkered_blackstone_tiles",
+      "id": "chipped:checkered_blackstone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_blackstone",
+      "id": "chipped:cobbled_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_blackstone_bricks",
+      "id": "chipped:cracked_disordered_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_blackstone_tiles",
+      "id": "chipped:cracked_flat_blackstone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_blackstone_carving",
+      "id": "chipped:creeper_blackstone_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_blackstone",
+      "id": "chipped:crying_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_blackstone",
+      "id": "chipped:cut_blank_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:glad_blackstone",
+      "id": "chipped:glad_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:duh_blackstone",
+      "id": "chipped:duh_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:engraved_blackstone",
+      "id": "chipped:engraved_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:eroded_blackstone",
+      "id": "chipped:eroded_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:etched_blackstone_bricks",
+      "id": "chipped:etched_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_blackstone_tiles",
+      "id": "chipped:flat_blackstone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_blackstone",
+      "id": "chipped:inlayed_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_blackstone",
+      "id": "chipped:inscribed_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:layed_blackstone_bricks",
+      "id": "chipped:layed_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_blackstone",
+      "id": "chipped:loded_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:offset_blackstone_bricks",
+      "id": "chipped:offset_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_blackstone_bricks",
+      "id": "chipped:pillar_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_blackstone_remnants",
+      "id": "chipped:prismal_blackstone_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rounded_blackstone_bricks",
+      "id": "chipped:rounded_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_blackstone",
+      "id": "chipped:runic_carved_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:sad_blackstone",
+      "id": "chipped:sad_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:sanded_blackstone",
+      "id": "chipped:sanded_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:small_blackstone_bricks",
+      "id": "chipped:small_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_blackstone",
+      "id": "chipped:smooth_inlayed_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_blackstone",
+      "id": "chipped:smooth_ringed_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_blackstone",
+      "id": "chipped:smoothed_double_inlayed_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:spider_blackstone_carving",
+      "id": "chipped:spider_blackstone_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_blackstone",
+      "id": "chipped:spiraled_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:stacked_blackstone_bricks",
+      "id": "chipped:stacked_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_blackstone",
+      "id": "chipped:tiled_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_blackstone_bricks",
+      "id": "chipped:tiny_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_blackstone_bricks",
+      "id": "chipped:tiny_layered_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_blackstone_slabs",
+      "id": "chipped:tiny_layered_blackstone_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_blackstone",
+      "id": "chipped:trodden_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:unamused_blackstone",
+      "id": "chipped:unamused_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_blackstone",
+      "id": "chipped:vertical_cut_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_blackstone_bricks",
+      "id": "chipped:vertical_disordered_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:bordered_blackstone",
+      "id": "chipped:bordered_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_blackstone",
+      "id": "chipped:brick_bordered_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:cut_blackstone_column",
+      "id": "chipped:cut_blackstone_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_blackstone_bricks",
+      "id": "chipped:edged_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_blackstone_tiles",
+      "id": "chipped:overlapping_blackstone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_blackstone",
+      "id": "chipped:polished_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_blackstone_column",
+      "id": "chipped:smooth_blackstone_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_blackstone",
+      "id": "chipped:thick_inlayed_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:tiled_blackstone_column",
+      "id": "chipped:tiled_blackstone_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_blackstone",
+      "id": "chipped:tiled_bordered_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_blackstone",
+      "id": "chipped:tiny_brick_bordered_blackstone",
       "count": 1
     },
     {
-      "item": "chipped:curly_blackstone_pillar",
+      "id": "chipped:curly_blackstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_blackstone_pillar",
+      "id": "chipped:fine_blackstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_blackstone_pillar",
+      "id": "chipped:ornate_blackstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_blackstone_pillar",
+      "id": "chipped:simple_blackstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_blackstone_bricks",
+      "id": "chipped:massive_blackstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_blackstone_bricks",
+      "id": "chipped:smooth_blackstone_bricks",
       "count": 1
     }
   ]

@@ -3,42 +3,42 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:verdant_froglight",
+      "id": "minecraft:verdant_froglight",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:ad_astra_verdant_froglight",
+    "id": "chipped:ad_astra_verdant_froglight",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:ancient_verdant_froglight",
+      "id": "chipped:ancient_verdant_froglight",
       "count": 1
     },
     {
-      "item": "chipped:barred_verdant_froglight",
+      "id": "chipped:barred_verdant_froglight",
       "count": 1
     },
     {
-      "item": "chipped:elemental_verdant_froglight",
+      "id": "chipped:elemental_verdant_froglight",
       "count": 1
     },
     {
-      "item": "chipped:exposed_verdant_froglight",
+      "id": "chipped:exposed_verdant_froglight",
       "count": 1
     },
     {
-      "item": "chipped:glass_verdant_froglight",
+      "id": "chipped:glass_verdant_froglight",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_verdant_froglight",
+      "id": "chipped:reinforced_verdant_froglight",
       "count": 1
     },
     {
-      "item": "chipped:round_verdant_froglight",
+      "id": "chipped:round_verdant_froglight",
       "count": 1
     }
   ]

@@ -3,30 +3,30 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:redstone_torch",
+      "id": "minecraft:redstone_torch",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:blue_redstone_torch",
+    "id": "chipped:blue_redstone_torch",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:crimson_redstone_torch",
+      "id": "chipped:crimson_redstone_torch",
       "count": 1
     },
     {
-      "item": "chipped:green_redstone_torch",
+      "id": "chipped:green_redstone_torch",
       "count": 1
     },
     {
-      "item": "chipped:lightstick_redstone_torch",
+      "id": "chipped:lightstick_redstone_torch",
       "count": 1
     },
     {
-      "item": "chipped:yellow_redstone_torch",
+      "id": "chipped:yellow_redstone_torch",
       "count": 1
     }
   ]

@@ -3,54 +3,54 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:jungle_leaves",
+      "id": "minecraft:jungle_leaves",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:apple_jungle_leaves",
+    "id": "chipped:apple_jungle_leaves",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:cherry_jungle_leaves",
+      "id": "chipped:cherry_jungle_leaves",
       "count": 1
     },
     {
-      "item": "chipped:dead_jungle_leaves",
+      "id": "chipped:dead_jungle_leaves",
       "count": 1
     },
     {
-      "item": "chipped:frosted_jungle_leaves",
+      "id": "chipped:frosted_jungle_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_jungle_leaves",
+      "id": "chipped:golden_jungle_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_apple_jungle_leaves",
+      "id": "chipped:golden_apple_jungle_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_cherry_jungle_leaves",
+      "id": "chipped:golden_cherry_jungle_leaves",
       "count": 1
     },
     {
-      "item": "chipped:magenta_flower_jungle_leaves",
+      "id": "chipped:magenta_flower_jungle_leaves",
       "count": 1
     },
     {
-      "item": "chipped:orange_jungle_leaves",
+      "id": "chipped:orange_jungle_leaves",
       "count": 1
     },
     {
-      "item": "chipped:red_jungle_leaves",
+      "id": "chipped:red_jungle_leaves",
       "count": 1
     },
     {
-      "item": "chipped:white_flower_jungle_leaves",
+      "id": "chipped:white_flower_jungle_leaves",
       "count": 1
     }
   ]

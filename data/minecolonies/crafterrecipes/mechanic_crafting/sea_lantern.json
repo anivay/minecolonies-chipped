@@ -3,78 +3,78 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:sea_lantern",
+      "id": "minecraft:sea_lantern",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:broken_sea_lantern",
+    "id": "chipped:broken_sea_lantern",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:bulbed_sea_lantern",
+      "id": "chipped:bulbed_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:cracked_sea_lantern",
+      "id": "chipped:cracked_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:double_inlayed_sea_lantern",
+      "id": "chipped:double_inlayed_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:fancy_sea_lantern",
+      "id": "chipped:fancy_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:framed_sea_lantern",
+      "id": "chipped:framed_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:hived_sea_lantern",
+      "id": "chipped:hived_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_sea_lantern",
+      "id": "chipped:inlayed_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:ornate_sea_lantern",
+      "id": "chipped:ornate_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:polished_sea_lantern",
+      "id": "chipped:polished_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_sea_lantern",
+      "id": "chipped:reinforced_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:sea_lodestone_side",
+      "id": "chipped:sea_lodestone_side",
       "count": 1
     },
     {
-      "item": "chipped:shimmering_sea_lantern",
+      "id": "chipped:shimmering_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:smooth_sea_lantern",
+      "id": "chipped:smooth_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:special_sea_lantern",
+      "id": "chipped:special_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_sea_lantern",
+      "id": "chipped:thick_inlayed_sea_lantern",
       "count": 1
     },
     {
-      "item": "chipped:tiled_sea_lantern_pillar",
+      "id": "chipped:tiled_sea_lantern_pillar",
       "count": 1
     }
   ]

@@ -3,306 +3,306 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:lodestone",
+      "id": "minecraft:lodestone",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:lodestone_bricks",
+    "id": "chipped:lodestone_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:lodestone_mini_tiles",
+      "id": "chipped:lodestone_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:lodestone_pillar",
+      "id": "chipped:lodestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:lodestone_pillar_top",
+      "id": "chipped:lodestone_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:lodestone_scales",
+      "id": "chipped:lodestone_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_lodestone",
+      "id": "chipped:angry_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:blank_lodestone_carving",
+      "id": "chipped:blank_lodestone_carving",
       "count": 1
     },
     {
-      "item": "chipped:blank_lodestone_side",
+      "id": "chipped:blank_lodestone_side",
       "count": 1
     },
     {
-      "item": "chipped:carved_lodestone",
+      "id": "chipped:carved_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:checkered_lodestone_tiles",
+      "id": "chipped:checkered_lodestone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_lodestone",
+      "id": "chipped:cobbled_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:cracked_lodestone_bricks",
+      "id": "chipped:cracked_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_lodestone_bricks",
+      "id": "chipped:cracked_disordered_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_lodestone_tiles",
+      "id": "chipped:cracked_flat_lodestone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_lodestone_carving",
+      "id": "chipped:creeper_lodestone_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_lodestone",
+      "id": "chipped:crying_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_lodestone",
+      "id": "chipped:cut_blank_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:glad_lodestone",
+      "id": "chipped:glad_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:diamond_lodestone",
+      "id": "chipped:diamond_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:dot_lodestone",
+      "id": "chipped:dot_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:duh_lodestone",
+      "id": "chipped:duh_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:engraved_lodestone",
+      "id": "chipped:engraved_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:eroded_lodestone",
+      "id": "chipped:eroded_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:etched_lodestone_bricks",
+      "id": "chipped:etched_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_lodestone_tiles",
+      "id": "chipped:flat_lodestone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_lodestone",
+      "id": "chipped:inlayed_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_lodestone",
+      "id": "chipped:inscribed_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:layed_lodestone_bricks",
+      "id": "chipped:layed_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:offset_lodestone_bricks",
+      "id": "chipped:offset_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_lodestone_bricks",
+      "id": "chipped:pillar_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_lodestone_remnants",
+      "id": "chipped:prismal_lodestone_remnants",
       "count": 1
     },
     {
-      "item": "chipped:ring_lodestone",
+      "id": "chipped:ring_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:ring_lodestone_side",
+      "id": "chipped:ring_lodestone_side",
       "count": 1
     },
     {
-      "item": "chipped:rough_lodestone",
+      "id": "chipped:rough_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:rounded_lodestone_bricks",
+      "id": "chipped:rounded_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_lodestone",
+      "id": "chipped:runic_carved_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:sad_lodestone",
+      "id": "chipped:sad_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:sanded_lodestone",
+      "id": "chipped:sanded_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:sea_lantern_lodestone",
+      "id": "chipped:sea_lantern_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:small_lodestone_bricks",
+      "id": "chipped:small_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_lodestone",
+      "id": "chipped:smooth_ringed_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_lodestone",
+      "id": "chipped:smoothed_double_inlayed_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:spider_lodestone_carving",
+      "id": "chipped:spider_lodestone_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_lodestone",
+      "id": "chipped:spiraled_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:stacked_lodestone_bricks",
+      "id": "chipped:stacked_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_lodestone",
+      "id": "chipped:tiled_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_lodestone_bricks",
+      "id": "chipped:tiny_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_lodestone_bricks",
+      "id": "chipped:tiny_layered_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_lodestone_slabs",
+      "id": "chipped:tiny_layered_lodestone_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_lodestone",
+      "id": "chipped:trodden_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:unamused_lodestone",
+      "id": "chipped:unamused_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_lodestone",
+      "id": "chipped:vertical_cut_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_lodestone_bricks",
+      "id": "chipped:vertical_disordered_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:watching_lodestone",
+      "id": "chipped:watching_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:weathered_lodestone",
+      "id": "chipped:weathered_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:wider_diamond_lodestone",
+      "id": "chipped:wider_diamond_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:wider_ring_lodestone",
+      "id": "chipped:wider_ring_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:wider_watching_lodestone",
+      "id": "chipped:wider_watching_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:bordered_lodestone",
+      "id": "chipped:bordered_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_lodestone",
+      "id": "chipped:brick_bordered_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:cut_lodestone_column",
+      "id": "chipped:cut_lodestone_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_lodestone_bricks",
+      "id": "chipped:edged_lodestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_lodestone_tiles",
+      "id": "chipped:overlapping_lodestone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_lodestone",
+      "id": "chipped:polished_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_lodestone_column",
+      "id": "chipped:smooth_lodestone_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_lodestone",
+      "id": "chipped:thick_inlayed_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:tiled_lodestone_column",
+      "id": "chipped:tiled_lodestone_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_lodestone",
+      "id": "chipped:tiled_bordered_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_lodestone",
+      "id": "chipped:tiny_brick_bordered_lodestone",
       "count": 1
     },
     {
-      "item": "chipped:curly_lodestone_pillar",
+      "id": "chipped:curly_lodestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_lodestone_pillar",
+      "id": "chipped:fine_lodestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_lodestone_pillar",
+      "id": "chipped:ornate_lodestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_lodestone_pillar",
+      "id": "chipped:simple_lodestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_lodestone_bricks",
+      "id": "chipped:massive_lodestone_bricks",
       "count": 1
     }
   ]

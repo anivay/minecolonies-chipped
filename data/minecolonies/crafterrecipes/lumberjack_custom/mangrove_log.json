@@ -3,54 +3,54 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:mangrove_log",
+      "id": "minecraft:mangrove_log",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bundled_mangrove_log",
+    "id": "chipped:bundled_mangrove_log",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:center_cut_mangrove_log",
+      "id": "chipped:center_cut_mangrove_log",
       "count": 1
     },
     {
-      "item": "chipped:damaged_mangrove_log",
+      "id": "chipped:damaged_mangrove_log",
       "count": 1
     },
     {
-      "item": "chipped:edge_cut_mangrove_log",
+      "id": "chipped:edge_cut_mangrove_log",
       "count": 1
     },
     {
-      "item": "chipped:firewood_mangrove_log",
+      "id": "chipped:firewood_mangrove_log",
       "count": 1
     },
     {
-      "item": "chipped:flowering_mangrove_log",
+      "id": "chipped:flowering_mangrove_log",
       "count": 1
     },
     {
-      "item": "chipped:mixed_mangrove_log",
+      "id": "chipped:mixed_mangrove_log",
       "count": 1
     },
     {
-      "item": "chipped:nailed_mangrove_log",
+      "id": "chipped:nailed_mangrove_log",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_mangrove_log",
+      "id": "chipped:overgrown_mangrove_log",
       "count": 1
     },
     {
-      "item": "chipped:planked_mangrove_log",
+      "id": "chipped:planked_mangrove_log",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_mangrove_log",
+      "id": "chipped:reinforced_mangrove_log",
       "count": 1
     }
   ]

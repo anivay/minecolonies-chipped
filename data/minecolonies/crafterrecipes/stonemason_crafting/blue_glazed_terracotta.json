@@ -3,54 +3,54 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:blue_glazed_terracotta",
+      "id": "minecraft:blue_glazed_terracotta",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:blue_glazed_terracotta_pillar_sides",
+    "id": "chipped:blue_glazed_terracotta_pillar_sides",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blue_glazed_terracotta_pillar_top",
+      "id": "chipped:blue_glazed_terracotta_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:blue_glazed_terracotta_smooth_tiles",
+      "id": "chipped:blue_glazed_terracotta_smooth_tiles",
       "count": 1
     },
     {
-      "item": "chipped:blue_glazed_terracotta_tiles",
+      "id": "chipped:blue_glazed_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:decorated_blue_glazed_terracotta",
+      "id": "chipped:decorated_blue_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:hexagonical_blue_glazed_terracotta",
+      "id": "chipped:hexagonical_blue_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:minimized_blue_glazed_terracotta",
+      "id": "chipped:minimized_blue_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:paved_blue_glazed_terracotta",
+      "id": "chipped:paved_blue_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:shrunken_blue_glazed_terracotta",
+      "id": "chipped:shrunken_blue_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:starry_blue_glazed_terracotta",
+      "id": "chipped:starry_blue_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:waved_blue_glazed_terracotta",
+      "id": "chipped:waved_blue_glazed_terracotta",
       "count": 1
     }
   ]

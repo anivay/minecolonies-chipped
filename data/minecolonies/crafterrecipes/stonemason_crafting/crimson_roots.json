@@ -3,66 +3,66 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:crimson_roots",
+      "id": "minecraft:crimson_roots",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:budding_crimson_roots_bulb",
+    "id": "chipped:budding_crimson_roots_bulb",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:budding_crimson_roots",
+      "id": "chipped:budding_crimson_roots",
       "count": 1
     },
     {
-      "item": "chipped:crimson_roots_bloom",
+      "id": "chipped:crimson_roots_bloom",
       "count": 1
     },
     {
-      "item": "chipped:crimson_roots_bramble",
+      "id": "chipped:crimson_roots_bramble",
       "count": 1
     },
     {
-      "item": "chipped:crimson_roots_bud",
+      "id": "chipped:crimson_roots_bud",
       "count": 1
     },
     {
-      "item": "chipped:crimson_roots_bulb",
+      "id": "chipped:crimson_roots_bulb",
       "count": 1
     },
     {
-      "item": "chipped:crimson_roots_floret",
+      "id": "chipped:crimson_roots_floret",
       "count": 1
     },
     {
-      "item": "chipped:flowered_crimson_roots_bulb",
+      "id": "chipped:flowered_crimson_roots_bulb",
       "count": 1
     },
     {
-      "item": "chipped:flowered_crimson_roots",
+      "id": "chipped:flowered_crimson_roots",
       "count": 1
     },
     {
-      "item": "chipped:small_crimson_roots_bud",
+      "id": "chipped:small_crimson_roots_bud",
       "count": 1
     },
     {
-      "item": "chipped:sprouting_crimson_roots_bulb",
+      "id": "chipped:sprouting_crimson_roots_bulb",
       "count": 1
     },
     {
-      "item": "chipped:sprouting_crimson_roots",
+      "id": "chipped:sprouting_crimson_roots",
       "count": 1
     },
     {
-      "item": "chipped:wilted_crimson_roots_bud",
+      "id": "chipped:wilted_crimson_roots_bud",
       "count": 1
     },
     {
-      "item": "chipped:wilted_crimson_roots_bulb",
+      "id": "chipped:wilted_crimson_roots_bulb",
       "count": 1
     }
   ]

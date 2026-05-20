@@ -3,66 +3,66 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:crimson_fungus",
+      "id": "minecraft:crimson_fungus",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bulbed_crimson_fungus",
+    "id": "chipped:bulbed_crimson_fungus",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:button_crimson_fungus",
+      "id": "chipped:button_crimson_fungus",
       "count": 1
     },
     {
-      "item": "chipped:clustered_crimson_fungus",
+      "id": "chipped:clustered_crimson_fungus",
       "count": 1
     },
     {
-      "item": "chipped:double_crimson_fungus",
+      "id": "chipped:double_crimson_fungus",
       "count": 1
     },
     {
-      "item": "chipped:franken_crimson_fungus",
+      "id": "chipped:franken_crimson_fungus",
       "count": 1
     },
     {
-      "item": "chipped:hooded_crimson_fungus",
+      "id": "chipped:hooded_crimson_fungus",
       "count": 1
     },
     {
-      "item": "chipped:micro_crimson_fungus",
+      "id": "chipped:micro_crimson_fungus",
       "count": 1
     },
     {
-      "item": "chipped:mini_crimson_fungus",
+      "id": "chipped:mini_crimson_fungus",
       "count": 1
     },
     {
-      "item": "chipped:crimson_fungus_bulb",
+      "id": "chipped:crimson_fungus_bulb",
       "count": 1
     },
     {
-      "item": "chipped:crimson_fungus_bushel",
+      "id": "chipped:crimson_fungus_bushel",
       "count": 1
     },
     {
-      "item": "chipped:crimson_fungus_cluster",
+      "id": "chipped:crimson_fungus_cluster",
       "count": 1
     },
     {
-      "item": "chipped:crimson_fungus_trio",
+      "id": "chipped:crimson_fungus_trio",
       "count": 1
     },
     {
-      "item": "chipped:umbrella_crimson_fungus",
+      "id": "chipped:umbrella_crimson_fungus",
       "count": 1
     },
     {
-      "item": "chipped:wicked_crimson_fungus",
+      "id": "chipped:wicked_crimson_fungus",
       "count": 1
     }
   ]

@@ -3,54 +3,54 @@
   "crafter": "glassblower_crafting",
   "inputs": [
     {
-      "item": "minecraft:magenta_stained_glass",
+      "id": "minecraft:magenta_stained_glass",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:circular_magenta_stained_glass",
+    "id": "chipped:circular_magenta_stained_glass",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:large_diamond_magenta_stained_glass",
+      "id": "chipped:large_diamond_magenta_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:square_magenta_stained_glass",
+      "id": "chipped:square_magenta_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:vertical_stiped_magenta_stained_glass",
+      "id": "chipped:vertical_stiped_magenta_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:woven_magenta_stained_glass",
+      "id": "chipped:woven_magenta_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:arched_magenta_stained_glass_pillar",
+      "id": "chipped:arched_magenta_stained_glass_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_magenta_stained_glass",
+      "id": "chipped:fancy_magenta_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:ornate_magenta_stained_glass",
+      "id": "chipped:ornate_magenta_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:raster_magenta_stained_glass",
+      "id": "chipped:raster_magenta_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:small_magenta_stained_glass",
+      "id": "chipped:small_magenta_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:tiled_magenta_stained_glass",
+      "id": "chipped:tiled_magenta_stained_glass",
       "count": 1
     }
   ]

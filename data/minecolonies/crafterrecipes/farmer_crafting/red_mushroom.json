@@ -3,66 +3,66 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:red_mushroom",
+      "id": "minecraft:red_mushroom",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bulbed_red_mushroom",
+    "id": "chipped:bulbed_red_mushroom",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:button_red_mushroom",
+      "id": "chipped:button_red_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:clustered_red_mushroom",
+      "id": "chipped:clustered_red_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:double_red_mushroom",
+      "id": "chipped:double_red_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:franken_red_mushroom",
+      "id": "chipped:franken_red_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:hooded_red_mushroom",
+      "id": "chipped:hooded_red_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:micro_red_mushroom",
+      "id": "chipped:micro_red_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:mini_red_mushroom",
+      "id": "chipped:mini_red_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:red_mushroom_bulb",
+      "id": "chipped:red_mushroom_bulb",
       "count": 1
     },
     {
-      "item": "chipped:red_mushroom_bushel",
+      "id": "chipped:red_mushroom_bushel",
       "count": 1
     },
     {
-      "item": "chipped:red_mushroom_cluster",
+      "id": "chipped:red_mushroom_cluster",
       "count": 1
     },
     {
-      "item": "chipped:red_mushroom_trio",
+      "id": "chipped:red_mushroom_trio",
       "count": 1
     },
     {
-      "item": "chipped:umbrella_red_mushroom",
+      "id": "chipped:umbrella_red_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:wicked_red_mushroom",
+      "id": "chipped:wicked_red_mushroom",
       "count": 1
     }
   ]

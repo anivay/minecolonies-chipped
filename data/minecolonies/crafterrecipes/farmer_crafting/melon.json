@@ -3,50 +3,50 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:melon",
+      "id": "minecraft:melon",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bright_melon",
+    "id": "chipped:bright_melon",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:dark_melon",
+      "id": "chipped:dark_melon",
       "count": 1
     },
     {
-      "item": "chipped:golden_melon",
+      "id": "chipped:golden_melon",
       "count": 1
     },
     {
-      "item": "chipped:ripe_melon",
+      "id": "chipped:ripe_melon",
       "count": 1
     },
     {
-      "item": "chipped:rustic_melon",
+      "id": "chipped:rustic_melon",
       "count": 1
     },
     {
-      "item": "chipped:sticky_melon",
+      "id": "chipped:sticky_melon",
       "count": 1
     },
     {
-      "item": "chipped:sunny_melon",
+      "id": "chipped:sunny_melon",
       "count": 1
     },
     {
-      "item": "chipped:swampy_melon",
+      "id": "chipped:swampy_melon",
       "count": 1
     },
     {
-      "item": "chipped:sweet_melon",
+      "id": "chipped:sweet_melon",
       "count": 1
     },
     {
-      "item": "chipped:tropics_melon",
+      "id": "chipped:tropics_melon",
       "count": 1
     }
   ]

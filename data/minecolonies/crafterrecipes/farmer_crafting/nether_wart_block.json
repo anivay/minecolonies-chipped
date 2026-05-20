@@ -3,66 +3,66 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:nether_wart_block",
+      "id": "minecraft:nether_wart_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bubbling_nether_wart_block",
+    "id": "chipped:bubbling_nether_wart_block",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:crumbled_nether_wart_block",
+      "id": "chipped:crumbled_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:dried_nether_wart_block",
+      "id": "chipped:dried_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:erratic_nether_wart_block",
+      "id": "chipped:erratic_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:eyed_nether_wart_block",
+      "id": "chipped:eyed_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:patched_nether_wart_block",
+      "id": "chipped:patched_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:porous_nether_wart_block",
+      "id": "chipped:porous_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:rough_nether_wart_block",
+      "id": "chipped:rough_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:scabbed_nether_wart_block",
+      "id": "chipped:scabbed_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:scaled_nether_wart_block",
+      "id": "chipped:scaled_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:seared_nether_wart_block",
+      "id": "chipped:seared_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:semi_spongy_nether_wart_block",
+      "id": "chipped:semi_spongy_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:speckled_nether_wart_block",
+      "id": "chipped:speckled_nether_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:spongy_nether_wart_block",
+      "id": "chipped:spongy_nether_wart_block",
       "count": 1
     }
   ]

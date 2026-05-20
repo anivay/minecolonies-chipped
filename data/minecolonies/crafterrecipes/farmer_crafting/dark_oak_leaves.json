@@ -3,54 +3,54 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:dark_oak_leaves",
+      "id": "minecraft:dark_oak_leaves",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:apple_dark_oak_leaves",
+    "id": "chipped:apple_dark_oak_leaves",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:cherry_dark_oak_leaves",
+      "id": "chipped:cherry_dark_oak_leaves",
       "count": 1
     },
     {
-      "item": "chipped:dead_dark_oak_leaves",
+      "id": "chipped:dead_dark_oak_leaves",
       "count": 1
     },
     {
-      "item": "chipped:frosted_dark_oak_leaves",
+      "id": "chipped:frosted_dark_oak_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_dark_oak_leaves",
+      "id": "chipped:golden_dark_oak_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_apple_dark_oak_leaves",
+      "id": "chipped:golden_apple_dark_oak_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_cherry_dark_oak_leaves",
+      "id": "chipped:golden_cherry_dark_oak_leaves",
       "count": 1
     },
     {
-      "item": "chipped:magenta_flower_dark_oak_leaves",
+      "id": "chipped:magenta_flower_dark_oak_leaves",
       "count": 1
     },
     {
-      "item": "chipped:orange_dark_oak_leaves",
+      "id": "chipped:orange_dark_oak_leaves",
       "count": 1
     },
     {
-      "item": "chipped:red_dark_oak_leaves",
+      "id": "chipped:red_dark_oak_leaves",
       "count": 1
     },
     {
-      "item": "chipped:white_flower_dark_oak_leaves",
+      "id": "chipped:white_flower_dark_oak_leaves",
       "count": 1
     }
   ]

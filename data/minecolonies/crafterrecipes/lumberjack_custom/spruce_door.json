@@ -3,86 +3,86 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:spruce_door",
+      "id": "minecraft:spruce_door",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barred_spruce_door",
+    "id": "chipped:barred_spruce_door",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:beach_spruce_door",
+      "id": "chipped:beach_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:dual_paneled_spruce_door",
+      "id": "chipped:dual_paneled_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:fortified_spruce_door",
+      "id": "chipped:fortified_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:gated_spruce_door",
+      "id": "chipped:gated_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:glass_spruce_door",
+      "id": "chipped:glass_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:heavy_spruce_door",
+      "id": "chipped:heavy_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_spruce_door",
+      "id": "chipped:overgrown_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:paneled_spruce_door",
+      "id": "chipped:paneled_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:paper_spruce_door",
+      "id": "chipped:paper_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:pressed_spruce_door",
+      "id": "chipped:pressed_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:screen_spruce_door",
+      "id": "chipped:screen_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:secret_spruce_door",
+      "id": "chipped:secret_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:shack_spruce_door",
+      "id": "chipped:shack_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:sliding_spruce_door",
+      "id": "chipped:sliding_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:supported_spruce_door",
+      "id": "chipped:supported_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:tile_windowed_spruce_door",
+      "id": "chipped:tile_windowed_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:tiled_spruce_door",
+      "id": "chipped:tiled_spruce_door",
       "count": 1
     },
     {
-      "item": "chipped:windowed_spruce_door",
+      "id": "chipped:windowed_spruce_door",
       "count": 1
     }
   ]

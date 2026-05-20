@@ -3,66 +3,66 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:brown_mushroom",
+      "id": "minecraft:brown_mushroom",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bulbed_brown_mushroom",
+    "id": "chipped:bulbed_brown_mushroom",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:button_brown_mushroom",
+      "id": "chipped:button_brown_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:clustered_brown_mushroom",
+      "id": "chipped:clustered_brown_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:double_brown_mushroom",
+      "id": "chipped:double_brown_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:franken_brown_mushroom",
+      "id": "chipped:franken_brown_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:hooded_brown_mushroom",
+      "id": "chipped:hooded_brown_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:micro_brown_mushroom",
+      "id": "chipped:micro_brown_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:mini_brown_mushroom",
+      "id": "chipped:mini_brown_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:brown_mushroom_bulb",
+      "id": "chipped:brown_mushroom_bulb",
       "count": 1
     },
     {
-      "item": "chipped:brown_mushroom_bushel",
+      "id": "chipped:brown_mushroom_bushel",
       "count": 1
     },
     {
-      "item": "chipped:brown_mushroom_cluster",
+      "id": "chipped:brown_mushroom_cluster",
       "count": 1
     },
     {
-      "item": "chipped:brown_mushroom_trio",
+      "id": "chipped:brown_mushroom_trio",
       "count": 1
     },
     {
-      "item": "chipped:umbrella_brown_mushroom",
+      "id": "chipped:umbrella_brown_mushroom",
       "count": 1
     },
     {
-      "item": "chipped:wicked_brown_mushroom",
+      "id": "chipped:wicked_brown_mushroom",
       "count": 1
     }
   ]

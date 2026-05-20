@@ -3,62 +3,62 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:pointed_dripstone",
+      "id": "minecraft:pointed_dripstone",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:andesite_pointed_dripstone",
+    "id": "chipped:andesite_pointed_dripstone",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:calcite_pointed_dripstone",
+      "id": "chipped:calcite_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:deepslate_pointed_dripstone",
+      "id": "chipped:deepslate_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:diorite_pointed_dripstone",
+      "id": "chipped:diorite_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_basalt_pointed_dripstone",
+      "id": "chipped:smooth_basalt_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:granite_pointed_dripstone",
+      "id": "chipped:granite_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:stone_pointed_dripstone",
+      "id": "chipped:stone_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:tuff_pointed_dripstone",
+      "id": "chipped:tuff_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:basalt_pointed_dripstone",
+      "id": "chipped:basalt_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:blackstone_pointed_dripstone",
+      "id": "chipped:blackstone_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:endstone_pointed_dripstone",
+      "id": "chipped:endstone_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:netherrack_pointed_dripstone",
+      "id": "chipped:netherrack_pointed_dripstone",
       "count": 1
     },
     {
-      "item": "chipped:packed_ice_pointed_dripstone",
+      "id": "chipped:packed_ice_pointed_dripstone",
       "count": 1
     }
   ]

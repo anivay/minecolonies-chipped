@@ -3,90 +3,90 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:green_wool",
+      "id": "minecraft:green_wool",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barky_green_wool",
+    "id": "chipped:barky_green_wool",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blocky_green_wool",
+      "id": "chipped:blocky_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:bundled_green_wool",
+      "id": "chipped:bundled_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:cross_haired_green_wool",
+      "id": "chipped:cross_haired_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:cubed_green_wool",
+      "id": "chipped:cubed_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:knitted_green_wool",
+      "id": "chipped:knitted_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:patched_green_wool",
+      "id": "chipped:patched_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:rectangle_green_wool",
+      "id": "chipped:rectangle_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:ribbled_green_wool",
+      "id": "chipped:ribbled_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:scaled_green_wool",
+      "id": "chipped:scaled_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:soft_green_wool",
+      "id": "chipped:soft_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:stringed_green_wool",
+      "id": "chipped:stringed_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:tiled_green_wool",
+      "id": "chipped:tiled_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:tripped_green_wool",
+      "id": "chipped:tripped_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:wickered_green_wool",
+      "id": "chipped:wickered_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:windmill_green_wool",
+      "id": "chipped:windmill_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:woved_green_wool",
+      "id": "chipped:woved_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:cornered_green_wool",
+      "id": "chipped:cornered_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:crafted_green_wool",
+      "id": "chipped:crafted_green_wool",
       "count": 1
     },
     {
-      "item": "chipped:harsh_quilted_green_wool",
+      "id": "chipped:harsh_quilted_green_wool",
       "count": 1
     }
   ]

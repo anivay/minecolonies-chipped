@@ -3,54 +3,54 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:birch_leaves",
+      "id": "minecraft:birch_leaves",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:apple_birch_leaves",
+    "id": "chipped:apple_birch_leaves",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:cherry_birch_leaves",
+      "id": "chipped:cherry_birch_leaves",
       "count": 1
     },
     {
-      "item": "chipped:dead_birch_leaves",
+      "id": "chipped:dead_birch_leaves",
       "count": 1
     },
     {
-      "item": "chipped:frosted_birch_leaves",
+      "id": "chipped:frosted_birch_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_birch_leaves",
+      "id": "chipped:golden_birch_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_apple_birch_leaves",
+      "id": "chipped:golden_apple_birch_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_cherry_birch_leaves",
+      "id": "chipped:golden_cherry_birch_leaves",
       "count": 1
     },
     {
-      "item": "chipped:magenta_flower_birch_leaves",
+      "id": "chipped:magenta_flower_birch_leaves",
       "count": 1
     },
     {
-      "item": "chipped:orange_birch_leaves",
+      "id": "chipped:orange_birch_leaves",
       "count": 1
     },
     {
-      "item": "chipped:red_birch_leaves",
+      "id": "chipped:red_birch_leaves",
       "count": 1
     },
     {
-      "item": "chipped:white_flower_birch_leaves",
+      "id": "chipped:white_flower_birch_leaves",
       "count": 1
     }
   ]

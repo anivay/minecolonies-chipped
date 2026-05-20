@@ -3,54 +3,54 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:spruce_leaves",
+      "id": "minecraft:spruce_leaves",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:apple_spruce_leaves",
+    "id": "chipped:apple_spruce_leaves",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:cherry_spruce_leaves",
+      "id": "chipped:cherry_spruce_leaves",
       "count": 1
     },
     {
-      "item": "chipped:dead_spruce_leaves",
+      "id": "chipped:dead_spruce_leaves",
       "count": 1
     },
     {
-      "item": "chipped:frosted_spruce_leaves",
+      "id": "chipped:frosted_spruce_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_spruce_leaves",
+      "id": "chipped:golden_spruce_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_apple_spruce_leaves",
+      "id": "chipped:golden_apple_spruce_leaves",
       "count": 1
     },
     {
-      "item": "chipped:golden_cherry_spruce_leaves",
+      "id": "chipped:golden_cherry_spruce_leaves",
       "count": 1
     },
     {
-      "item": "chipped:magenta_flower_spruce_leaves",
+      "id": "chipped:magenta_flower_spruce_leaves",
       "count": 1
     },
     {
-      "item": "chipped:orange_spruce_leaves",
+      "id": "chipped:orange_spruce_leaves",
       "count": 1
     },
     {
-      "item": "chipped:red_spruce_leaves",
+      "id": "chipped:red_spruce_leaves",
       "count": 1
     },
     {
-      "item": "chipped:white_flower_spruce_leaves",
+      "id": "chipped:white_flower_spruce_leaves",
       "count": 1
     }
   ]

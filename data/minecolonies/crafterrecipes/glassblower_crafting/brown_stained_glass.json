@@ -3,54 +3,54 @@
   "crafter": "glassblower_crafting",
   "inputs": [
     {
-      "item": "minecraft:brown_stained_glass",
+      "id": "minecraft:brown_stained_glass",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:circular_brown_stained_glass",
+    "id": "chipped:circular_brown_stained_glass",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:large_diamond_brown_stained_glass",
+      "id": "chipped:large_diamond_brown_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:square_brown_stained_glass",
+      "id": "chipped:square_brown_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:vertical_stiped_brown_stained_glass",
+      "id": "chipped:vertical_stiped_brown_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:woven_brown_stained_glass",
+      "id": "chipped:woven_brown_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:arched_brown_stained_glass_pillar",
+      "id": "chipped:arched_brown_stained_glass_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_brown_stained_glass",
+      "id": "chipped:fancy_brown_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:ornate_brown_stained_glass",
+      "id": "chipped:ornate_brown_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:raster_brown_stained_glass",
+      "id": "chipped:raster_brown_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:small_brown_stained_glass",
+      "id": "chipped:small_brown_stained_glass",
       "count": 1
     },
     {
-      "item": "chipped:tiled_brown_stained_glass",
+      "id": "chipped:tiled_brown_stained_glass",
       "count": 1
     }
   ]

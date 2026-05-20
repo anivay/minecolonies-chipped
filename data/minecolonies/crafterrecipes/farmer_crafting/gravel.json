@@ -3,38 +3,38 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:gravel",
+      "id": "minecraft:gravel",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:andesite_gravel",
+    "id": "chipped:andesite_gravel",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:dirty_gravel",
+      "id": "chipped:dirty_gravel",
       "count": 1
     },
     {
-      "item": "chipped:dusty_gravel",
+      "id": "chipped:dusty_gravel",
       "count": 1
     },
     {
-      "item": "chipped:orange_gravel",
+      "id": "chipped:orange_gravel",
       "count": 1
     },
     {
-      "item": "chipped:rought_gravel",
+      "id": "chipped:rought_gravel",
       "count": 1
     },
     {
-      "item": "chipped:sandy_gravel",
+      "id": "chipped:sandy_gravel",
       "count": 1
     },
     {
-      "item": "chipped:sifted_gravel",
+      "id": "chipped:sifted_gravel",
       "count": 1
     }
   ]

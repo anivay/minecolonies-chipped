@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:smooth_stone",
+      "id": "minecraft:smooth_stone",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:smooth_stone_bricks",
+    "id": "chipped:smooth_stone_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:smooth_stone_mini_tiles",
+      "id": "chipped:smooth_stone_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:smooth_stone_pillar",
+      "id": "chipped:smooth_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:smooth_stone_pillar_top",
+      "id": "chipped:smooth_stone_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:smooth_stone_scales",
+      "id": "chipped:smooth_stone_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_smooth_stone",
+      "id": "chipped:angry_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:blank_smooth_stone_carving",
+      "id": "chipped:blank_smooth_stone_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_smooth_stone",
+      "id": "chipped:carved_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:checkered_smooth_stone_tiles",
+      "id": "chipped:checkered_smooth_stone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_smooth_stone",
+      "id": "chipped:cobbled_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:cracked_smooth_stone_bricks",
+      "id": "chipped:cracked_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_smooth_stone_bricks",
+      "id": "chipped:cracked_disordered_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_smooth_stone_tiles",
+      "id": "chipped:cracked_flat_smooth_stone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_smooth_stone_carving",
+      "id": "chipped:creeper_smooth_stone_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_smooth_stone",
+      "id": "chipped:crying_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_smooth_stone",
+      "id": "chipped:cut_blank_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:glad_smooth_stone",
+      "id": "chipped:glad_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:duh_smooth_stone",
+      "id": "chipped:duh_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:engraved_smooth_stone",
+      "id": "chipped:engraved_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:eroded_smooth_stone",
+      "id": "chipped:eroded_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:etched_smooth_stone_bricks",
+      "id": "chipped:etched_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_smooth_stone_tiles",
+      "id": "chipped:flat_smooth_stone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_smooth_stone",
+      "id": "chipped:inlayed_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_smooth_stone",
+      "id": "chipped:inscribed_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:layed_smooth_stone_bricks",
+      "id": "chipped:layed_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_smooth_stone",
+      "id": "chipped:loded_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:offset_smooth_stone_bricks",
+      "id": "chipped:offset_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_smooth_stone_bricks",
+      "id": "chipped:pillar_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_smooth_stone_remnants",
+      "id": "chipped:prismal_smooth_stone_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_smooth_stone",
+      "id": "chipped:rough_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:rounded_smooth_stone_bricks",
+      "id": "chipped:rounded_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_smooth_stone",
+      "id": "chipped:runic_carved_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:sad_smooth_stone",
+      "id": "chipped:sad_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:sanded_smooth_stone",
+      "id": "chipped:sanded_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:small_smooth_stone_bricks",
+      "id": "chipped:small_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_smooth_stone",
+      "id": "chipped:smooth_inlayed_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_smooth_stone",
+      "id": "chipped:smooth_ringed_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_smooth_stone",
+      "id": "chipped:smoothed_double_inlayed_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:spider_smooth_stone_carving",
+      "id": "chipped:spider_smooth_stone_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_smooth_stone",
+      "id": "chipped:spiraled_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:stacked_smooth_stone_bricks",
+      "id": "chipped:stacked_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_smooth_stone",
+      "id": "chipped:tiled_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_smooth_stone_bricks",
+      "id": "chipped:tiny_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_smooth_stone_bricks",
+      "id": "chipped:tiny_layered_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_smooth_stone_slabs",
+      "id": "chipped:tiny_layered_smooth_stone_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_smooth_stone",
+      "id": "chipped:trodden_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:unamused_smooth_stone",
+      "id": "chipped:unamused_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_smooth_stone",
+      "id": "chipped:vertical_cut_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_smooth_stone_bricks",
+      "id": "chipped:vertical_disordered_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_smooth_stone",
+      "id": "chipped:weathered_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:bordered_smooth_stone",
+      "id": "chipped:bordered_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_smooth_stone",
+      "id": "chipped:brick_bordered_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:cut_smooth_stone_column",
+      "id": "chipped:cut_smooth_stone_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_smooth_stone_bricks",
+      "id": "chipped:edged_smooth_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_smooth_stone_tiles",
+      "id": "chipped:overlapping_smooth_stone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_smooth_stone",
+      "id": "chipped:polished_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_smooth_stone_column",
+      "id": "chipped:smooth_smooth_stone_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_smooth_stone",
+      "id": "chipped:thick_inlayed_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:tiled_smooth_stone_column",
+      "id": "chipped:tiled_smooth_stone_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_smooth_stone",
+      "id": "chipped:tiled_bordered_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_smooth_stone",
+      "id": "chipped:tiny_brick_bordered_smooth_stone",
       "count": 1
     },
     {
-      "item": "chipped:curly_smooth_stone_pillar",
+      "id": "chipped:curly_smooth_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_smooth_stone_pillar",
+      "id": "chipped:fine_smooth_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_smooth_stone_pillar",
+      "id": "chipped:ornate_smooth_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_smooth_stone_pillar",
+      "id": "chipped:simple_smooth_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_smooth_stone_bricks",
+      "id": "chipped:massive_smooth_stone_bricks",
       "count": 1
     }
   ]

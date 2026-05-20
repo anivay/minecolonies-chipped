@@ -3,78 +3,78 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:terracotta",
+      "id": "minecraft:terracotta",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:terracotta_bricks",
+    "id": "chipped:terracotta_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:terracotta_tile",
+      "id": "chipped:terracotta_tile",
       "count": 1
     },
     {
-      "item": "chipped:terracotta_tiles",
+      "id": "chipped:terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:chiseled_terracotta",
+      "id": "chipped:chiseled_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:crossed_terracotta",
+      "id": "chipped:crossed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:cut_terracotta",
+      "id": "chipped:cut_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:decorated_terracotta",
+      "id": "chipped:decorated_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:layered_terracotta",
+      "id": "chipped:layered_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:triangular_terracotta",
+      "id": "chipped:triangular_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:terracotta_column",
+      "id": "chipped:terracotta_column",
       "count": 1
     },
     {
-      "item": "chipped:terracotta_pillar",
+      "id": "chipped:terracotta_pillar",
       "count": 1
     },
     {
-      "item": "chipped:small_terracotta_tiles",
+      "id": "chipped:small_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:curled_terracotta",
+      "id": "chipped:curled_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:hexagonical_terracotta",
+      "id": "chipped:hexagonical_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:circular_terracotta",
+      "id": "chipped:circular_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_terracotta",
+      "id": "chipped:inscribed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:starry_terracotta",
+      "id": "chipped:starry_terracotta",
       "count": 1
     }
   ]

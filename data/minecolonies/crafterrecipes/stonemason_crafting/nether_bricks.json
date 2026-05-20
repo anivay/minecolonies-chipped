@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:nether_bricks",
+      "id": "minecraft:nether_bricks",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:nether_bricks_bricks",
+    "id": "chipped:nether_bricks_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:nether_bricks_mini_tiles",
+      "id": "chipped:nether_bricks_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:nether_bricks_pillar",
+      "id": "chipped:nether_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:nether_bricks_pillar_top",
+      "id": "chipped:nether_bricks_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:nether_bricks_scales",
+      "id": "chipped:nether_bricks_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_nether_bricks",
+      "id": "chipped:angry_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:blank_nether_bricks_carving",
+      "id": "chipped:blank_nether_bricks_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_nether_bricks",
+      "id": "chipped:carved_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:checkered_nether_bricks_tiles",
+      "id": "chipped:checkered_nether_bricks_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_nether_bricks",
+      "id": "chipped:cobbled_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_nether_bricks_bricks",
+      "id": "chipped:cracked_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_nether_bricks_bricks",
+      "id": "chipped:cracked_disordered_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_nether_bricks_tiles",
+      "id": "chipped:cracked_flat_nether_bricks_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_nether_bricks_carving",
+      "id": "chipped:creeper_nether_bricks_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_nether_bricks",
+      "id": "chipped:crying_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_nether_bricks",
+      "id": "chipped:cut_blank_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:glad_nether_bricks",
+      "id": "chipped:glad_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:duh_nether_bricks",
+      "id": "chipped:duh_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:engraved_nether_bricks",
+      "id": "chipped:engraved_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:eroded_nether_bricks",
+      "id": "chipped:eroded_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:etched_nether_bricks_bricks",
+      "id": "chipped:etched_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_nether_bricks_tiles",
+      "id": "chipped:flat_nether_bricks_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_nether_bricks",
+      "id": "chipped:inlayed_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_nether_bricks",
+      "id": "chipped:inscribed_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:layed_nether_bricks_bricks",
+      "id": "chipped:layed_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_nether_bricks",
+      "id": "chipped:loded_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:offset_nether_bricks_bricks",
+      "id": "chipped:offset_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_nether_bricks_bricks",
+      "id": "chipped:pillar_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_nether_bricks_remnants",
+      "id": "chipped:prismal_nether_bricks_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_nether_bricks",
+      "id": "chipped:rough_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:rounded_nether_bricks_bricks",
+      "id": "chipped:rounded_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_nether_bricks",
+      "id": "chipped:runic_carved_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:sad_nether_bricks",
+      "id": "chipped:sad_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:sanded_nether_bricks",
+      "id": "chipped:sanded_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:small_nether_bricks_bricks",
+      "id": "chipped:small_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_nether_bricks",
+      "id": "chipped:smooth_inlayed_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_nether_bricks",
+      "id": "chipped:smooth_ringed_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_nether_bricks",
+      "id": "chipped:smoothed_double_inlayed_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:spider_nether_bricks_carving",
+      "id": "chipped:spider_nether_bricks_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_nether_bricks",
+      "id": "chipped:spiraled_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:stacked_nether_bricks_bricks",
+      "id": "chipped:stacked_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_nether_bricks",
+      "id": "chipped:tiled_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_nether_bricks_bricks",
+      "id": "chipped:tiny_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_nether_bricks_bricks",
+      "id": "chipped:tiny_layered_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_nether_bricks_slabs",
+      "id": "chipped:tiny_layered_nether_bricks_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_nether_bricks",
+      "id": "chipped:trodden_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:unamused_nether_bricks",
+      "id": "chipped:unamused_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_nether_bricks",
+      "id": "chipped:vertical_cut_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_nether_bricks_bricks",
+      "id": "chipped:vertical_disordered_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_nether_bricks",
+      "id": "chipped:weathered_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:bordered_nether_bricks",
+      "id": "chipped:bordered_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_nether_bricks",
+      "id": "chipped:brick_bordered_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cut_nether_bricks_column",
+      "id": "chipped:cut_nether_bricks_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_nether_bricks_bricks",
+      "id": "chipped:edged_nether_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_nether_bricks_tiles",
+      "id": "chipped:overlapping_nether_bricks_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_nether_bricks",
+      "id": "chipped:polished_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_nether_bricks_column",
+      "id": "chipped:smooth_nether_bricks_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_nether_bricks",
+      "id": "chipped:thick_inlayed_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_nether_bricks_column",
+      "id": "chipped:tiled_nether_bricks_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_nether_bricks",
+      "id": "chipped:tiled_bordered_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_nether_bricks",
+      "id": "chipped:tiny_brick_bordered_nether_bricks",
       "count": 1
     },
     {
-      "item": "chipped:curly_nether_bricks_pillar",
+      "id": "chipped:curly_nether_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_nether_bricks_pillar",
+      "id": "chipped:fine_nether_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_nether_bricks_pillar",
+      "id": "chipped:ornate_nether_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_nether_bricks_pillar",
+      "id": "chipped:simple_nether_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_nether_bricks_bricks",
+      "id": "chipped:massive_nether_bricks_bricks",
       "count": 1
     }
   ]

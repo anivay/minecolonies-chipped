@@ -3,270 +3,270 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:clay",
+      "id": "minecraft:clay",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:clay_bricks",
+    "id": "chipped:clay_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:clay_mini_tiles",
+      "id": "chipped:clay_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:clay_pillar",
+      "id": "chipped:clay_pillar",
       "count": 1
     },
     {
-      "item": "chipped:clay_pillar_top",
+      "id": "chipped:clay_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:clay_scales",
+      "id": "chipped:clay_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_clay",
+      "id": "chipped:angry_clay",
       "count": 1
     },
     {
-      "item": "chipped:blank_clay_carving",
+      "id": "chipped:blank_clay_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_clay",
+      "id": "chipped:carved_clay",
       "count": 1
     },
     {
-      "item": "chipped:checkered_clay_tiles",
+      "id": "chipped:checkered_clay_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_clay",
+      "id": "chipped:cobbled_clay",
       "count": 1
     },
     {
-      "item": "chipped:cracked_clay_bricks",
+      "id": "chipped:cracked_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_clay_bricks",
+      "id": "chipped:cracked_disordered_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_clay_tiles",
+      "id": "chipped:cracked_flat_clay_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_clay_carving",
+      "id": "chipped:creeper_clay_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_clay",
+      "id": "chipped:crying_clay",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_clay",
+      "id": "chipped:cut_blank_clay",
       "count": 1
     },
     {
-      "item": "chipped:glad_clay",
+      "id": "chipped:glad_clay",
       "count": 1
     },
     {
-      "item": "chipped:duh_clay",
+      "id": "chipped:duh_clay",
       "count": 1
     },
     {
-      "item": "chipped:engraved_clay",
+      "id": "chipped:engraved_clay",
       "count": 1
     },
     {
-      "item": "chipped:etched_clay_bricks",
+      "id": "chipped:etched_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_clay_tiles",
+      "id": "chipped:flat_clay_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_clay",
+      "id": "chipped:inlayed_clay",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_clay",
+      "id": "chipped:inscribed_clay",
       "count": 1
     },
     {
-      "item": "chipped:layed_clay_bricks",
+      "id": "chipped:layed_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_clay",
+      "id": "chipped:loded_clay",
       "count": 1
     },
     {
-      "item": "chipped:offset_clay_bricks",
+      "id": "chipped:offset_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_clay_bricks",
+      "id": "chipped:pillar_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_clay_remnants",
+      "id": "chipped:prismal_clay_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_clay",
+      "id": "chipped:rough_clay",
       "count": 1
     },
     {
-      "item": "chipped:rounded_clay_bricks",
+      "id": "chipped:rounded_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_clay",
+      "id": "chipped:runic_carved_clay",
       "count": 1
     },
     {
-      "item": "chipped:sad_clay",
+      "id": "chipped:sad_clay",
       "count": 1
     },
     {
-      "item": "chipped:sanded_clay",
+      "id": "chipped:sanded_clay",
       "count": 1
     },
     {
-      "item": "chipped:small_clay_bricks",
+      "id": "chipped:small_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_clay",
+      "id": "chipped:smooth_inlayed_clay",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_clay",
+      "id": "chipped:smooth_ringed_clay",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_clay",
+      "id": "chipped:smoothed_double_inlayed_clay",
       "count": 1
     },
     {
-      "item": "chipped:spider_clay_carving",
+      "id": "chipped:spider_clay_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_clay",
+      "id": "chipped:spiraled_clay",
       "count": 1
     },
     {
-      "item": "chipped:stacked_clay_bricks",
+      "id": "chipped:stacked_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_clay",
+      "id": "chipped:tiled_clay",
       "count": 1
     },
     {
-      "item": "chipped:tiny_clay_bricks",
+      "id": "chipped:tiny_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_clay_bricks",
+      "id": "chipped:tiny_layered_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_clay_slabs",
+      "id": "chipped:tiny_layered_clay_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_clay",
+      "id": "chipped:trodden_clay",
       "count": 1
     },
     {
-      "item": "chipped:unamused_clay",
+      "id": "chipped:unamused_clay",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_clay",
+      "id": "chipped:vertical_cut_clay",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_clay_bricks",
+      "id": "chipped:vertical_disordered_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_clay",
+      "id": "chipped:weathered_clay",
       "count": 1
     },
     {
-      "item": "chipped:bordered_clay",
+      "id": "chipped:bordered_clay",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_clay",
+      "id": "chipped:brick_bordered_clay",
       "count": 1
     },
     {
-      "item": "chipped:cut_clay_column",
+      "id": "chipped:cut_clay_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_clay_bricks",
+      "id": "chipped:edged_clay_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_clay_tiles",
+      "id": "chipped:overlapping_clay_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_clay",
+      "id": "chipped:polished_clay",
       "count": 1
     },
     {
-      "item": "chipped:smooth_clay_column",
+      "id": "chipped:smooth_clay_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_clay",
+      "id": "chipped:thick_inlayed_clay",
       "count": 1
     },
     {
-      "item": "chipped:tiled_clay_column",
+      "id": "chipped:tiled_clay_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_clay",
+      "id": "chipped:tiled_bordered_clay",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_clay",
+      "id": "chipped:tiny_brick_bordered_clay",
       "count": 1
     },
     {
-      "item": "chipped:curly_clay_pillar",
+      "id": "chipped:curly_clay_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_clay_pillar",
+      "id": "chipped:fine_clay_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_clay_pillar",
+      "id": "chipped:ornate_clay_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_clay_pillar",
+      "id": "chipped:simple_clay_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_clay_bricks",
+      "id": "chipped:massive_clay_bricks",
       "count": 1
     }
   ]

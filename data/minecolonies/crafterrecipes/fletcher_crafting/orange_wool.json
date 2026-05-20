@@ -3,90 +3,90 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:orange_wool",
+      "id": "minecraft:orange_wool",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barky_orange_wool",
+    "id": "chipped:barky_orange_wool",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blocky_orange_wool",
+      "id": "chipped:blocky_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:bundled_orange_wool",
+      "id": "chipped:bundled_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:cross_haired_orange_wool",
+      "id": "chipped:cross_haired_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:cubed_orange_wool",
+      "id": "chipped:cubed_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:knitted_orange_wool",
+      "id": "chipped:knitted_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:patched_orange_wool",
+      "id": "chipped:patched_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:rectangle_orange_wool",
+      "id": "chipped:rectangle_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:ribbled_orange_wool",
+      "id": "chipped:ribbled_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:scaled_orange_wool",
+      "id": "chipped:scaled_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:soft_orange_wool",
+      "id": "chipped:soft_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:stringed_orange_wool",
+      "id": "chipped:stringed_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:tiled_orange_wool",
+      "id": "chipped:tiled_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:tripped_orange_wool",
+      "id": "chipped:tripped_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:wickered_orange_wool",
+      "id": "chipped:wickered_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:windmill_orange_wool",
+      "id": "chipped:windmill_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:woved_orange_wool",
+      "id": "chipped:woved_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:cornered_orange_wool",
+      "id": "chipped:cornered_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:crafted_orange_wool",
+      "id": "chipped:crafted_orange_wool",
       "count": 1
     },
     {
-      "item": "chipped:harsh_quilted_orange_wool",
+      "id": "chipped:harsh_quilted_orange_wool",
       "count": 1
     }
   ]

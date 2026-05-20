@@ -3,86 +3,86 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:jungle_door",
+      "id": "minecraft:jungle_door",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barred_jungle_door",
+    "id": "chipped:barred_jungle_door",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:boarded_jungle_door",
+      "id": "chipped:boarded_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:dual_paneled_jungle_door",
+      "id": "chipped:dual_paneled_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:fortified_jungle_door",
+      "id": "chipped:fortified_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:gated_jungle_door",
+      "id": "chipped:gated_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:glass_jungle_door",
+      "id": "chipped:glass_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:heavy_jungle_door",
+      "id": "chipped:heavy_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_jungle_door",
+      "id": "chipped:overgrown_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:paneled_jungle_door",
+      "id": "chipped:paneled_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:paper_jungle_door",
+      "id": "chipped:paper_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:pressed_jungle_door",
+      "id": "chipped:pressed_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:screen_jungle_door",
+      "id": "chipped:screen_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:secret_jungle_door",
+      "id": "chipped:secret_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:shack_jungle_door",
+      "id": "chipped:shack_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:sliding_jungle_door",
+      "id": "chipped:sliding_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:supported_jungle_door",
+      "id": "chipped:supported_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:tile_windowed_jungle_door",
+      "id": "chipped:tile_windowed_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:tiled_jungle_door",
+      "id": "chipped:tiled_jungle_door",
       "count": 1
     },
     {
-      "item": "chipped:windowed_jungle_door",
+      "id": "chipped:windowed_jungle_door",
       "count": 1
     }
   ]

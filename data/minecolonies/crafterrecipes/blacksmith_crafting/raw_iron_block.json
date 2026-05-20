@@ -3,274 +3,274 @@
   "crafter": "blacksmith_crafting",
   "inputs": [
     {
-      "item": "minecraft:raw_iron_block",
+      "id": "minecraft:raw_iron_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:raw_iron_block_bricks",
+    "id": "chipped:raw_iron_block_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:raw_iron_block_mini_tiles",
+      "id": "chipped:raw_iron_block_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:raw_iron_block_pillar",
+      "id": "chipped:raw_iron_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:raw_iron_block_pillar_top",
+      "id": "chipped:raw_iron_block_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:raw_iron_block_scales",
+      "id": "chipped:raw_iron_block_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_raw_iron_block",
+      "id": "chipped:angry_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:blank_raw_iron_block_carving",
+      "id": "chipped:blank_raw_iron_block_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_raw_iron_block",
+      "id": "chipped:carved_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:checkered_raw_iron_block_tiles",
+      "id": "chipped:checkered_raw_iron_block_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_raw_iron_block",
+      "id": "chipped:cobbled_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:cracked_raw_iron_block_bricks",
+      "id": "chipped:cracked_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_raw_iron_block_bricks",
+      "id": "chipped:cracked_disordered_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_raw_iron_block_tiles",
+      "id": "chipped:cracked_flat_raw_iron_block_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_raw_iron_block_carving",
+      "id": "chipped:creeper_raw_iron_block_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_raw_iron_block",
+      "id": "chipped:crying_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_raw_iron_block",
+      "id": "chipped:cut_blank_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:glad_raw_iron_block",
+      "id": "chipped:glad_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:duh_raw_iron_block",
+      "id": "chipped:duh_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:engraved_raw_iron_block",
+      "id": "chipped:engraved_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:eroded_raw_iron_block",
+      "id": "chipped:eroded_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:etched_raw_iron_block_bricks",
+      "id": "chipped:etched_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_raw_iron_block_tiles",
+      "id": "chipped:flat_raw_iron_block_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_raw_iron_block",
+      "id": "chipped:inlayed_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_raw_iron_block",
+      "id": "chipped:inscribed_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:layed_raw_iron_block_bricks",
+      "id": "chipped:layed_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_raw_iron_block",
+      "id": "chipped:loded_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:offset_raw_iron_block_bricks",
+      "id": "chipped:offset_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_raw_iron_block_bricks",
+      "id": "chipped:pillar_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_raw_iron_block_remnants",
+      "id": "chipped:prismal_raw_iron_block_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_raw_iron_block",
+      "id": "chipped:rough_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:rounded_raw_iron_block_bricks",
+      "id": "chipped:rounded_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_raw_iron_block",
+      "id": "chipped:runic_carved_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:sad_raw_iron_block",
+      "id": "chipped:sad_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:sanded_raw_iron_block",
+      "id": "chipped:sanded_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:small_raw_iron_block_bricks",
+      "id": "chipped:small_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_raw_iron_block",
+      "id": "chipped:smooth_inlayed_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_raw_iron_block",
+      "id": "chipped:smooth_ringed_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_raw_iron_block",
+      "id": "chipped:smoothed_double_inlayed_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:spider_raw_iron_block_carving",
+      "id": "chipped:spider_raw_iron_block_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_raw_iron_block",
+      "id": "chipped:spiraled_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:stacked_raw_iron_block_bricks",
+      "id": "chipped:stacked_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_raw_iron_block",
+      "id": "chipped:tiled_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:tiny_raw_iron_block_bricks",
+      "id": "chipped:tiny_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_raw_iron_block_bricks",
+      "id": "chipped:tiny_layered_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_raw_iron_block_slabs",
+      "id": "chipped:tiny_layered_raw_iron_block_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_raw_iron_block",
+      "id": "chipped:trodden_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:unamused_raw_iron_block",
+      "id": "chipped:unamused_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_raw_iron_block",
+      "id": "chipped:vertical_cut_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_raw_iron_block_bricks",
+      "id": "chipped:vertical_disordered_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_raw_iron_block",
+      "id": "chipped:weathered_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:bordered_raw_iron_block",
+      "id": "chipped:bordered_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_raw_iron_block",
+      "id": "chipped:brick_bordered_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:cut_raw_iron_block_column",
+      "id": "chipped:cut_raw_iron_block_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_raw_iron_block_bricks",
+      "id": "chipped:edged_raw_iron_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_raw_iron_block_tiles",
+      "id": "chipped:overlapping_raw_iron_block_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_raw_iron_block",
+      "id": "chipped:polished_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:smooth_raw_iron_block_column",
+      "id": "chipped:smooth_raw_iron_block_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_raw_iron_block",
+      "id": "chipped:thick_inlayed_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:tiled_raw_iron_block_column",
+      "id": "chipped:tiled_raw_iron_block_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_raw_iron_block",
+      "id": "chipped:tiled_bordered_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_raw_iron_block",
+      "id": "chipped:tiny_brick_bordered_raw_iron_block",
       "count": 1
     },
     {
-      "item": "chipped:curly_raw_iron_block_pillar",
+      "id": "chipped:curly_raw_iron_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_raw_iron_block_pillar",
+      "id": "chipped:fine_raw_iron_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_raw_iron_block_pillar",
+      "id": "chipped:ornate_raw_iron_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_raw_iron_block_pillar",
+      "id": "chipped:simple_raw_iron_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_raw_iron_block_bricks",
+      "id": "chipped:massive_raw_iron_block_bricks",
       "count": 1
     }
   ]

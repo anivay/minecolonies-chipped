@@ -3,322 +3,322 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:packed_mud",
+      "id": "minecraft:packed_mud",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:packed_mud_bricks",
+    "id": "chipped:packed_mud_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:packed_mud_pillar",
+      "id": "chipped:packed_mud_pillar",
       "count": 1
     },
     {
-      "item": "chipped:packed_mud_pillar_top",
+      "id": "chipped:packed_mud_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:packed_mud_scales",
+      "id": "chipped:packed_mud_scales",
       "count": 1
     },
     {
-      "item": "chipped:angled_packed_mud_bricks",
+      "id": "chipped:angled_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:angry_packed_mud",
+      "id": "chipped:angry_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:arrow_packed_mud",
+      "id": "chipped:arrow_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:button_packed_mud",
+      "id": "chipped:button_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:carved_packed_mud",
+      "id": "chipped:carved_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:centered_packed_mud",
+      "id": "chipped:centered_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:chiseled_packed_mud",
+      "id": "chipped:chiseled_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:cracked_packed_mud_bricks",
+      "id": "chipped:cracked_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:creeper_packed_mud_carving",
+      "id": "chipped:creeper_packed_mud_carving",
       "count": 1
     },
     {
-      "item": "chipped:crunched_packed_mud_bricks",
+      "id": "chipped:crunched_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:crying_packed_mud",
+      "id": "chipped:crying_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_packed_mud",
+      "id": "chipped:cut_blank_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:double_packed_mud_bricks",
+      "id": "chipped:double_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:duh_packed_mud",
+      "id": "chipped:duh_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:engraved_packed_mud",
+      "id": "chipped:engraved_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:etched_packed_mud_bricks",
+      "id": "chipped:etched_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:eye_packed_mud",
+      "id": "chipped:eye_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:fancy_packed_mud",
+      "id": "chipped:fancy_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:fancy_chiseled_packed_mud",
+      "id": "chipped:fancy_chiseled_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:glad_packed_mud",
+      "id": "chipped:glad_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:heart_packed_mud",
+      "id": "chipped:heart_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:horned_packed_mud",
+      "id": "chipped:horned_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_packed_mud",
+      "id": "chipped:inlayed_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:keyhole_packed_mud",
+      "id": "chipped:keyhole_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:large_tiled_packed_mud",
+      "id": "chipped:large_tiled_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:leaning_packed_mud",
+      "id": "chipped:leaning_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:mini_tiled_packed_mud",
+      "id": "chipped:mini_tiled_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:offset_packed_mud_bricks",
+      "id": "chipped:offset_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pancake_packed_mud",
+      "id": "chipped:pancake_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:panelled_packed_mud",
+      "id": "chipped:panelled_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:placed_packed_mud",
+      "id": "chipped:placed_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:polished_packed_mud",
+      "id": "chipped:polished_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:prismal_packed_mud_remnants",
+      "id": "chipped:prismal_packed_mud_remnants",
       "count": 1
     },
     {
-      "item": "chipped:quad_packed_mud",
+      "id": "chipped:quad_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:rough_packed_mud",
+      "id": "chipped:rough_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:rough_panelled_packed_mud",
+      "id": "chipped:rough_panelled_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:rune_packed_mud",
+      "id": "chipped:rune_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:sad_packed_mud",
+      "id": "chipped:sad_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:sigil_packed_mud",
+      "id": "chipped:sigil_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:small_packed_mud_bricks",
+      "id": "chipped:small_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_packed_mud",
+      "id": "chipped:smooth_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_packed_mud",
+      "id": "chipped:smooth_ringed_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_packed_mud",
+      "id": "chipped:smoothed_double_inlayed_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:spider_packed_mud_carving",
+      "id": "chipped:spider_packed_mud_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiral_packed_mud",
+      "id": "chipped:spiral_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:stacked_packed_mud_bricks",
+      "id": "chipped:stacked_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:star_packed_mud",
+      "id": "chipped:star_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:symbol_packed_mud",
+      "id": "chipped:symbol_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:symbolic_packed_mud_pillar",
+      "id": "chipped:symbolic_packed_mud_pillar",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_packed_mud",
+      "id": "chipped:thick_inlayed_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:tiled_packed_mud_bricks",
+      "id": "chipped:tiled_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_packed_mud_bricks",
+      "id": "chipped:tiny_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_packed_mud_bricks",
+      "id": "chipped:tiny_layered_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:unamused_packed_mud",
+      "id": "chipped:unamused_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_packed_mud",
+      "id": "chipped:vertical_cut_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_packed_mud_bricks",
+      "id": "chipped:vertical_disordered_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:bordered_packed_mud",
+      "id": "chipped:bordered_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_packed_mud",
+      "id": "chipped:brick_bordered_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:edged_packed_mud_bricks",
+      "id": "chipped:edged_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:hard_packed_mud",
+      "id": "chipped:hard_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_packed_mud_tiles",
+      "id": "chipped:overlapping_packed_mud_tiles",
       "count": 1
     },
     {
-      "item": "chipped:scaly_packed_mud",
+      "id": "chipped:scaly_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_packed_mud",
+      "id": "chipped:tiled_bordered_packed_mud",
       "count": 1
     },
     {
-      "item": "chipped:tiled_packed_mud_column",
+      "id": "chipped:tiled_packed_mud_column",
       "count": 1
     },
     {
-      "item": "chipped:carved_packed_mud_pillar",
+      "id": "chipped:carved_packed_mud_pillar",
       "count": 1
     },
     {
-      "item": "chipped:curly_packed_mud_pillar",
+      "id": "chipped:curly_packed_mud_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_packed_mud_pillar",
+      "id": "chipped:fancy_packed_mud_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_packed_mud_pillar",
+      "id": "chipped:fine_packed_mud_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_packed_mud_pillar",
+      "id": "chipped:ornate_packed_mud_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_packed_mud_pillar",
+      "id": "chipped:simple_packed_mud_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_packed_mud_bricks",
+      "id": "chipped:massive_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:diamond_packed_mud_bricks",
+      "id": "chipped:diamond_packed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:large_packed_mud_sigil",
+      "id": "chipped:large_packed_mud_sigil",
       "count": 1
     },
     {
-      "item": "chipped:loreful_packed_mud",
+      "id": "chipped:loreful_packed_mud",
       "count": 1
     }
   ]

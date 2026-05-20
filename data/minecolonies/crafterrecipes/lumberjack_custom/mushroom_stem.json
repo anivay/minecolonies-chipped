@@ -3,38 +3,38 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:mushroom_stem",
+      "id": "minecraft:mushroom_stem",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:blooming_mushroom_stem",
+    "id": "chipped:blooming_mushroom_stem",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:broken_mushroom_stem",
+      "id": "chipped:broken_mushroom_stem",
       "count": 1
     },
     {
-      "item": "chipped:grimy_mushroom_stem",
+      "id": "chipped:grimy_mushroom_stem",
       "count": 1
     },
     {
-      "item": "chipped:old_mushroom_stem",
+      "id": "chipped:old_mushroom_stem",
       "count": 1
     },
     {
-      "item": "chipped:poisonous_mushroom_stem",
+      "id": "chipped:poisonous_mushroom_stem",
       "count": 1
     },
     {
-      "item": "chipped:smooth_mushroom_stem",
+      "id": "chipped:smooth_mushroom_stem",
       "count": 1
     },
     {
-      "item": "chipped:warm_mushroom_stem",
+      "id": "chipped:warm_mushroom_stem",
       "count": 1
     }
   ]

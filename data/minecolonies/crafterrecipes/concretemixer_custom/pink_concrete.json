@@ -3,90 +3,90 @@
   "crafter": "concretemixer_custom",
   "inputs": [
     {
-      "item": "minecraft:pink_concrete",
+      "id": "minecraft:pink_concrete",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:pink_concrete_bricks",
+    "id": "chipped:pink_concrete_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:pink_concrete_tiles",
+      "id": "chipped:pink_concrete_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_pink_concrete",
+      "id": "chipped:creeper_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grid_pink_concrete",
+      "id": "chipped:grid_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:mosaic_pink_concrete",
+      "id": "chipped:mosaic_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stacked_pink_concrete",
+      "id": "chipped:stacked_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stop_pink_concrete",
+      "id": "chipped:stop_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grill_pink_concrete",
+      "id": "chipped:grill_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:pink_concrete_panel",
+      "id": "chipped:pink_concrete_panel",
       "count": 1
     },
     {
-      "item": "chipped:pegged_pink_concrete",
+      "id": "chipped:pegged_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:smooth_pink_concrete",
+      "id": "chipped:smooth_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:striped_pink_concrete",
+      "id": "chipped:striped_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:wired_pink_concrete",
+      "id": "chipped:wired_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:pink_concrete_pillar",
+      "id": "chipped:pink_concrete_pillar",
       "count": 1
     },
     {
-      "item": "chipped:bolted_pink_concrete",
+      "id": "chipped:bolted_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:hazard_pink_concrete",
+      "id": "chipped:hazard_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:railed_pink_concrete",
+      "id": "chipped:railed_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_pink_concrete",
+      "id": "chipped:reinforced_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:rusted_pink_concrete",
+      "id": "chipped:rusted_pink_concrete",
       "count": 1
     },
     {
-      "item": "chipped:warning_pink_concrete",
+      "id": "chipped:warning_pink_concrete",
       "count": 1
     }
   ]

@@ -3,162 +3,162 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:bamboo_planks",
+      "id": "minecraft:bamboo_planks",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bamboo_planks_fine_mosaic",
+    "id": "chipped:bamboo_planks_fine_mosaic",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:bamboo_planks_shavings",
+      "id": "chipped:bamboo_planks_shavings",
       "count": 1
     },
     {
-      "item": "chipped:basket_woven_bamboo_planks",
+      "id": "chipped:basket_woven_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:boxed_bamboo_planks",
+      "id": "chipped:boxed_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:brick_bond_bamboo_planks",
+      "id": "chipped:brick_bond_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:bricky_bamboo_planks",
+      "id": "chipped:bricky_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:cross_laced_bamboo_planks",
+      "id": "chipped:cross_laced_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:crossed_bamboo_planks",
+      "id": "chipped:crossed_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:detailed_bamboo_planks",
+      "id": "chipped:detailed_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:diagonal_bamboo_planks",
+      "id": "chipped:diagonal_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:diamond_bamboo_planks",
+      "id": "chipped:diamond_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:double_herringbone_bamboo_planks",
+      "id": "chipped:double_herringbone_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_bamboo_planks",
+      "id": "chipped:fine_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_vertical_bamboo_planks",
+      "id": "chipped:fine_vertical_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:herringbone_bamboo_planks",
+      "id": "chipped:herringbone_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:hewn_bamboo_planks",
+      "id": "chipped:hewn_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:laced_bamboo_planks",
+      "id": "chipped:laced_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_bamboo_planks",
+      "id": "chipped:reinforced_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:polished_bamboo_planks",
+      "id": "chipped:polished_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:railed_bamboo_planks",
+      "id": "chipped:railed_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:shifted_bamboo_planks",
+      "id": "chipped:shifted_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:slanted_bamboo_planks",
+      "id": "chipped:slanted_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_bamboo_planks",
+      "id": "chipped:smooth_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:stacked_bamboo_planks",
+      "id": "chipped:stacked_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:thin_bamboo_planks",
+      "id": "chipped:thin_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bamboo_planks",
+      "id": "chipped:tiled_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:versailles_bamboo_planks",
+      "id": "chipped:versailles_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_bamboo_planks",
+      "id": "chipped:vertical_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertically_railed_bamboo_planks",
+      "id": "chipped:vertically_railed_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:wickered_bamboo_planks",
+      "id": "chipped:wickered_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:bamboo_planks_panel",
+      "id": "chipped:bamboo_planks_panel",
       "count": 1
     },
     {
-      "item": "chipped:cornered_bamboo_planks",
+      "id": "chipped:cornered_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:crated_bamboo_planks",
+      "id": "chipped:crated_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:enclosed_bamboo_planks",
+      "id": "chipped:enclosed_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:framed_bamboo_planks",
+      "id": "chipped:framed_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:natural_bamboo_planks",
+      "id": "chipped:natural_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:tied_bamboo_planks",
+      "id": "chipped:tied_bamboo_planks",
       "count": 1
     },
     {
-      "item": "chipped:whirlwind_bamboo_planks",
+      "id": "chipped:whirlwind_bamboo_planks",
       "count": 1
     }
   ]

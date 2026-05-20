@@ -3,90 +3,90 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:gray_carpet",
+      "id": "minecraft:gray_carpet",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barky_gray_carpet",
+    "id": "chipped:barky_gray_carpet",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blocky_gray_carpet",
+      "id": "chipped:blocky_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:bundled_gray_carpet",
+      "id": "chipped:bundled_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cross_haired_gray_carpet",
+      "id": "chipped:cross_haired_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cubed_gray_carpet",
+      "id": "chipped:cubed_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:knitted_gray_carpet",
+      "id": "chipped:knitted_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:patched_gray_carpet",
+      "id": "chipped:patched_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:rectangle_gray_carpet",
+      "id": "chipped:rectangle_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:ribbled_gray_carpet",
+      "id": "chipped:ribbled_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:scaled_gray_carpet",
+      "id": "chipped:scaled_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:soft_gray_carpet",
+      "id": "chipped:soft_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:stringed_gray_carpet",
+      "id": "chipped:stringed_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tiled_gray_carpet",
+      "id": "chipped:tiled_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tripped_gray_carpet",
+      "id": "chipped:tripped_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:wickered_gray_carpet",
+      "id": "chipped:wickered_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:windmill_gray_carpet",
+      "id": "chipped:windmill_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:woved_gray_carpet",
+      "id": "chipped:woved_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cornered_gray_carpet",
+      "id": "chipped:cornered_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:crafted_gray_carpet",
+      "id": "chipped:crafted_gray_carpet",
       "count": 1
     },
     {
-      "item": "chipped:harsh_quilted_gray_carpet",
+      "id": "chipped:harsh_quilted_gray_carpet",
       "count": 1
     }
   ]

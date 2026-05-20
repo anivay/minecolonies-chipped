@@ -3,90 +3,90 @@
   "crafter": "concretemixer_custom",
   "inputs": [
     {
-      "item": "minecraft:blue_concrete",
+      "id": "minecraft:blue_concrete",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:blue_concrete_bricks",
+    "id": "chipped:blue_concrete_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blue_concrete_tiles",
+      "id": "chipped:blue_concrete_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_blue_concrete",
+      "id": "chipped:creeper_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grid_blue_concrete",
+      "id": "chipped:grid_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:mosaic_blue_concrete",
+      "id": "chipped:mosaic_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stacked_blue_concrete",
+      "id": "chipped:stacked_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stop_blue_concrete",
+      "id": "chipped:stop_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grill_blue_concrete",
+      "id": "chipped:grill_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:blue_concrete_panel",
+      "id": "chipped:blue_concrete_panel",
       "count": 1
     },
     {
-      "item": "chipped:pegged_blue_concrete",
+      "id": "chipped:pegged_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:smooth_blue_concrete",
+      "id": "chipped:smooth_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:striped_blue_concrete",
+      "id": "chipped:striped_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:wired_blue_concrete",
+      "id": "chipped:wired_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:blue_concrete_pillar",
+      "id": "chipped:blue_concrete_pillar",
       "count": 1
     },
     {
-      "item": "chipped:bolted_blue_concrete",
+      "id": "chipped:bolted_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:hazard_blue_concrete",
+      "id": "chipped:hazard_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:railed_blue_concrete",
+      "id": "chipped:railed_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_blue_concrete",
+      "id": "chipped:reinforced_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:rusted_blue_concrete",
+      "id": "chipped:rusted_blue_concrete",
       "count": 1
     },
     {
-      "item": "chipped:warning_blue_concrete",
+      "id": "chipped:warning_blue_concrete",
       "count": 1
     }
   ]

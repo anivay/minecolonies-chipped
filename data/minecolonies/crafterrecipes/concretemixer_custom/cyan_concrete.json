@@ -3,90 +3,90 @@
   "crafter": "concretemixer_custom",
   "inputs": [
     {
-      "item": "minecraft:cyan_concrete",
+      "id": "minecraft:cyan_concrete",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:cyan_concrete_bricks",
+    "id": "chipped:cyan_concrete_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:cyan_concrete_tiles",
+      "id": "chipped:cyan_concrete_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_cyan_concrete",
+      "id": "chipped:creeper_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grid_cyan_concrete",
+      "id": "chipped:grid_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:mosaic_cyan_concrete",
+      "id": "chipped:mosaic_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stacked_cyan_concrete",
+      "id": "chipped:stacked_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stop_cyan_concrete",
+      "id": "chipped:stop_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grill_cyan_concrete",
+      "id": "chipped:grill_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:cyan_concrete_panel",
+      "id": "chipped:cyan_concrete_panel",
       "count": 1
     },
     {
-      "item": "chipped:pegged_cyan_concrete",
+      "id": "chipped:pegged_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:smooth_cyan_concrete",
+      "id": "chipped:smooth_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:striped_cyan_concrete",
+      "id": "chipped:striped_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:wired_cyan_concrete",
+      "id": "chipped:wired_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:cyan_concrete_pillar",
+      "id": "chipped:cyan_concrete_pillar",
       "count": 1
     },
     {
-      "item": "chipped:bolted_cyan_concrete",
+      "id": "chipped:bolted_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:hazard_cyan_concrete",
+      "id": "chipped:hazard_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:railed_cyan_concrete",
+      "id": "chipped:railed_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_cyan_concrete",
+      "id": "chipped:reinforced_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:rusted_cyan_concrete",
+      "id": "chipped:rusted_cyan_concrete",
       "count": 1
     },
     {
-      "item": "chipped:warning_cyan_concrete",
+      "id": "chipped:warning_cyan_concrete",
       "count": 1
     }
   ]

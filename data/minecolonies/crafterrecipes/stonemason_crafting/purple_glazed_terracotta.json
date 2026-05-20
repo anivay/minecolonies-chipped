@@ -3,54 +3,54 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:purple_glazed_terracotta",
+      "id": "minecraft:purple_glazed_terracotta",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:purple_glazed_terracotta_pillar_sides",
+    "id": "chipped:purple_glazed_terracotta_pillar_sides",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:purple_glazed_terracotta_pillar_top",
+      "id": "chipped:purple_glazed_terracotta_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:purple_glazed_terracotta_smooth_tiles",
+      "id": "chipped:purple_glazed_terracotta_smooth_tiles",
       "count": 1
     },
     {
-      "item": "chipped:purple_glazed_terracotta_tiles",
+      "id": "chipped:purple_glazed_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:decorated_purple_glazed_terracotta",
+      "id": "chipped:decorated_purple_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:hexagonical_purple_glazed_terracotta",
+      "id": "chipped:hexagonical_purple_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:minimized_purple_glazed_terracotta",
+      "id": "chipped:minimized_purple_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:paved_purple_glazed_terracotta",
+      "id": "chipped:paved_purple_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:shrunken_purple_glazed_terracotta",
+      "id": "chipped:shrunken_purple_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:starry_purple_glazed_terracotta",
+      "id": "chipped:starry_purple_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:waved_purple_glazed_terracotta",
+      "id": "chipped:waved_purple_glazed_terracotta",
       "count": 1
     }
   ]

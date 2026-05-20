@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:end_stone",
+      "id": "minecraft:end_stone",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:end_stone_bricks",
+    "id": "chipped:end_stone_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:end_stone_mini_tiles",
+      "id": "chipped:end_stone_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:end_stone_pillar",
+      "id": "chipped:end_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:end_stone_pillar_top",
+      "id": "chipped:end_stone_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:end_stone_scales",
+      "id": "chipped:end_stone_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_end_stone",
+      "id": "chipped:angry_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:blank_end_stone_carving",
+      "id": "chipped:blank_end_stone_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_end_stone",
+      "id": "chipped:carved_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:checkered_end_stone_tiles",
+      "id": "chipped:checkered_end_stone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_end_stone",
+      "id": "chipped:cobbled_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:cracked_end_stone_bricks",
+      "id": "chipped:cracked_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_end_stone_bricks",
+      "id": "chipped:cracked_disordered_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_end_stone_tiles",
+      "id": "chipped:cracked_flat_end_stone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_end_stone_carving",
+      "id": "chipped:creeper_end_stone_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_end_stone",
+      "id": "chipped:crying_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_end_stone",
+      "id": "chipped:cut_blank_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:glad_end_stone",
+      "id": "chipped:glad_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:duh_end_stone",
+      "id": "chipped:duh_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:engraved_end_stone",
+      "id": "chipped:engraved_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:eroded_end_stone",
+      "id": "chipped:eroded_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:etched_end_stone_bricks",
+      "id": "chipped:etched_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_end_stone_tiles",
+      "id": "chipped:flat_end_stone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_end_stone",
+      "id": "chipped:inlayed_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_end_stone",
+      "id": "chipped:inscribed_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:layed_end_stone_bricks",
+      "id": "chipped:layed_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_end_stone",
+      "id": "chipped:loded_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:offset_end_stone_bricks",
+      "id": "chipped:offset_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_end_stone_bricks",
+      "id": "chipped:pillar_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_end_stone_remnants",
+      "id": "chipped:prismal_end_stone_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_end_stone",
+      "id": "chipped:rough_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:rounded_end_stone_bricks",
+      "id": "chipped:rounded_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_end_stone",
+      "id": "chipped:runic_carved_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:sad_end_stone",
+      "id": "chipped:sad_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:sanded_end_stone",
+      "id": "chipped:sanded_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:small_end_stone_bricks",
+      "id": "chipped:small_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_end_stone",
+      "id": "chipped:smooth_inlayed_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_end_stone",
+      "id": "chipped:smooth_ringed_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_end_stone",
+      "id": "chipped:smoothed_double_inlayed_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:spider_end_stone_carving",
+      "id": "chipped:spider_end_stone_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_end_stone",
+      "id": "chipped:spiraled_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:stacked_end_stone_bricks",
+      "id": "chipped:stacked_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_end_stone",
+      "id": "chipped:tiled_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_end_stone_bricks",
+      "id": "chipped:tiny_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_end_stone_bricks",
+      "id": "chipped:tiny_layered_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_end_stone_slabs",
+      "id": "chipped:tiny_layered_end_stone_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_end_stone",
+      "id": "chipped:trodden_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:unamused_end_stone",
+      "id": "chipped:unamused_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_end_stone",
+      "id": "chipped:vertical_cut_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_end_stone_bricks",
+      "id": "chipped:vertical_disordered_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_end_stone",
+      "id": "chipped:weathered_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:bordered_end_stone",
+      "id": "chipped:bordered_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_end_stone",
+      "id": "chipped:brick_bordered_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:cut_end_stone_column",
+      "id": "chipped:cut_end_stone_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_end_stone_bricks",
+      "id": "chipped:edged_end_stone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_end_stone_tiles",
+      "id": "chipped:overlapping_end_stone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_end_stone",
+      "id": "chipped:polished_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_end_stone_column",
+      "id": "chipped:smooth_end_stone_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_end_stone",
+      "id": "chipped:thick_inlayed_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:tiled_end_stone_column",
+      "id": "chipped:tiled_end_stone_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_end_stone",
+      "id": "chipped:tiled_bordered_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_end_stone",
+      "id": "chipped:tiny_brick_bordered_end_stone",
       "count": 1
     },
     {
-      "item": "chipped:curly_end_stone_pillar",
+      "id": "chipped:curly_end_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_end_stone_pillar",
+      "id": "chipped:fine_end_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_end_stone_pillar",
+      "id": "chipped:ornate_end_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_end_stone_pillar",
+      "id": "chipped:simple_end_stone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_end_stone_bricks",
+      "id": "chipped:massive_end_stone_bricks",
       "count": 1
     }
   ]

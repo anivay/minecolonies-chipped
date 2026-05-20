@@ -3,78 +3,78 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:stripped_warped_stem",
+      "id": "minecraft:stripped_warped_stem",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:carved_stripped_warped_stem",
+    "id": "chipped:carved_stripped_warped_stem",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:chipped_stripped_warped_stem",
+      "id": "chipped:chipped_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:d_sign_stripped_warped_stem",
+      "id": "chipped:d_sign_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:edged_stripped_warped_stem",
+      "id": "chipped:edged_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:f_sign_stripped_warped_stem",
+      "id": "chipped:f_sign_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:i_sign_stripped_warped_stem",
+      "id": "chipped:i_sign_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:k_sign_stripped_warped_stem",
+      "id": "chipped:k_sign_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:knotted_stripped_warped_stem",
+      "id": "chipped:knotted_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:l_sign_stripped_warped_stem",
+      "id": "chipped:l_sign_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:layered_stripped_warped_stem",
+      "id": "chipped:layered_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:lumpy_stripped_warped_stem",
+      "id": "chipped:lumpy_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:m_sign_stripped_warped_stem",
+      "id": "chipped:m_sign_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:patient_stripped_warped_stem",
+      "id": "chipped:patient_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_stripped_warped_stem",
+      "id": "chipped:reinforced_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:sign_stripped_warped_stem",
+      "id": "chipped:sign_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:stern_stripped_warped_stem",
+      "id": "chipped:stern_stripped_warped_stem",
       "count": 1
     },
     {
-      "item": "chipped:wise_stripped_warped_stem",
+      "id": "chipped:wise_stripped_warped_stem",
       "count": 1
     }
   ]

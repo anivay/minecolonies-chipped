@@ -3,322 +3,322 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:mud_bricks",
+      "id": "minecraft:mud_bricks",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:mud_bricks_bricks",
+    "id": "chipped:mud_bricks_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:mud_bricks_pillar",
+      "id": "chipped:mud_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:mud_bricks_pillar_top",
+      "id": "chipped:mud_bricks_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:mud_bricks_scales",
+      "id": "chipped:mud_bricks_scales",
       "count": 1
     },
     {
-      "item": "chipped:angled_mud_bricks_bricks",
+      "id": "chipped:angled_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:angry_mud_bricks",
+      "id": "chipped:angry_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:arrow_mud_bricks",
+      "id": "chipped:arrow_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:button_mud_bricks",
+      "id": "chipped:button_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:carved_mud_bricks",
+      "id": "chipped:carved_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:centered_mud_bricks",
+      "id": "chipped:centered_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:chiseled_mud_bricks",
+      "id": "chipped:chiseled_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_mud_bricks_bricks",
+      "id": "chipped:cracked_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:creeper_mud_bricks_carving",
+      "id": "chipped:creeper_mud_bricks_carving",
       "count": 1
     },
     {
-      "item": "chipped:crunched_mud_bricks_bricks",
+      "id": "chipped:crunched_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:crying_mud_bricks",
+      "id": "chipped:crying_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_mud_bricks",
+      "id": "chipped:cut_blank_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:double_mud_bricks_bricks",
+      "id": "chipped:double_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:duh_mud_bricks",
+      "id": "chipped:duh_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:engraved_mud_bricks",
+      "id": "chipped:engraved_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:etched_mud_bricks_bricks",
+      "id": "chipped:etched_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:eye_mud_bricks",
+      "id": "chipped:eye_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:fancy_mud_bricks",
+      "id": "chipped:fancy_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:fancy_chiseled_mud_bricks",
+      "id": "chipped:fancy_chiseled_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:glad_mud_bricks",
+      "id": "chipped:glad_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:heart_mud_bricks",
+      "id": "chipped:heart_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:horned_mud_bricks",
+      "id": "chipped:horned_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_mud_bricks",
+      "id": "chipped:inlayed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:keyhole_mud_bricks",
+      "id": "chipped:keyhole_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:large_tiled_mud_bricks",
+      "id": "chipped:large_tiled_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:leaning_mud_bricks",
+      "id": "chipped:leaning_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:mini_tiled_mud_bricks",
+      "id": "chipped:mini_tiled_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:offset_mud_bricks_bricks",
+      "id": "chipped:offset_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pancake_mud_bricks",
+      "id": "chipped:pancake_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:panelled_mud_bricks",
+      "id": "chipped:panelled_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:placed_mud_bricks",
+      "id": "chipped:placed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:polished_mud_bricks",
+      "id": "chipped:polished_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_mud_bricks_remnants",
+      "id": "chipped:prismal_mud_bricks_remnants",
       "count": 1
     },
     {
-      "item": "chipped:quad_mud_bricks",
+      "id": "chipped:quad_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:rough_mud_bricks",
+      "id": "chipped:rough_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:rough_panelled_mud_bricks",
+      "id": "chipped:rough_panelled_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:rune_mud_bricks",
+      "id": "chipped:rune_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:sad_mud_bricks",
+      "id": "chipped:sad_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:sigil_mud_bricks",
+      "id": "chipped:sigil_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:small_mud_bricks_bricks",
+      "id": "chipped:small_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_mud_bricks",
+      "id": "chipped:smooth_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_mud_bricks",
+      "id": "chipped:smooth_ringed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_mud_bricks",
+      "id": "chipped:smoothed_double_inlayed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:spider_mud_bricks_carving",
+      "id": "chipped:spider_mud_bricks_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiral_mud_bricks",
+      "id": "chipped:spiral_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:stacked_mud_bricks_bricks",
+      "id": "chipped:stacked_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:star_mud_bricks",
+      "id": "chipped:star_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:symbol_mud_bricks",
+      "id": "chipped:symbol_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:symbolic_mud_bricks_pillar",
+      "id": "chipped:symbolic_mud_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_mud_bricks",
+      "id": "chipped:thick_inlayed_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_mud_bricks_bricks",
+      "id": "chipped:tiled_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_mud_bricks_bricks",
+      "id": "chipped:tiny_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_mud_bricks_bricks",
+      "id": "chipped:tiny_layered_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:unamused_mud_bricks",
+      "id": "chipped:unamused_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_mud_bricks",
+      "id": "chipped:vertical_cut_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_mud_bricks_bricks",
+      "id": "chipped:vertical_disordered_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:bordered_mud_bricks",
+      "id": "chipped:bordered_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_mud_bricks",
+      "id": "chipped:brick_bordered_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:edged_mud_bricks_bricks",
+      "id": "chipped:edged_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:hard_mud_bricks",
+      "id": "chipped:hard_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_mud_bricks_tiles",
+      "id": "chipped:overlapping_mud_bricks_tiles",
       "count": 1
     },
     {
-      "item": "chipped:scaly_mud_bricks",
+      "id": "chipped:scaly_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_mud_bricks",
+      "id": "chipped:tiled_bordered_mud_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_mud_bricks_column",
+      "id": "chipped:tiled_mud_bricks_column",
       "count": 1
     },
     {
-      "item": "chipped:carved_mud_bricks_pillar",
+      "id": "chipped:carved_mud_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:curly_mud_bricks_pillar",
+      "id": "chipped:curly_mud_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_mud_bricks_pillar",
+      "id": "chipped:fancy_mud_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_mud_bricks_pillar",
+      "id": "chipped:fine_mud_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_mud_bricks_pillar",
+      "id": "chipped:ornate_mud_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_mud_bricks_pillar",
+      "id": "chipped:simple_mud_bricks_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_mud_bricks_bricks",
+      "id": "chipped:massive_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:diamond_mud_bricks_bricks",
+      "id": "chipped:diamond_mud_bricks_bricks",
       "count": 1
     },
     {
-      "item": "chipped:large_mud_bricks_sigil",
+      "id": "chipped:large_mud_bricks_sigil",
       "count": 1
     },
     {
-      "item": "chipped:loreful_mud_bricks",
+      "id": "chipped:loreful_mud_bricks",
       "count": 1
     }
   ]

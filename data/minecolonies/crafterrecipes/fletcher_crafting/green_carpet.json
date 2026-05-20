@@ -3,90 +3,90 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:green_carpet",
+      "id": "minecraft:green_carpet",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barky_green_carpet",
+    "id": "chipped:barky_green_carpet",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blocky_green_carpet",
+      "id": "chipped:blocky_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:bundled_green_carpet",
+      "id": "chipped:bundled_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cross_haired_green_carpet",
+      "id": "chipped:cross_haired_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cubed_green_carpet",
+      "id": "chipped:cubed_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:knitted_green_carpet",
+      "id": "chipped:knitted_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:patched_green_carpet",
+      "id": "chipped:patched_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:rectangle_green_carpet",
+      "id": "chipped:rectangle_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:ribbled_green_carpet",
+      "id": "chipped:ribbled_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:scaled_green_carpet",
+      "id": "chipped:scaled_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:soft_green_carpet",
+      "id": "chipped:soft_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:stringed_green_carpet",
+      "id": "chipped:stringed_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tiled_green_carpet",
+      "id": "chipped:tiled_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tripped_green_carpet",
+      "id": "chipped:tripped_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:wickered_green_carpet",
+      "id": "chipped:wickered_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:windmill_green_carpet",
+      "id": "chipped:windmill_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:woved_green_carpet",
+      "id": "chipped:woved_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cornered_green_carpet",
+      "id": "chipped:cornered_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:crafted_green_carpet",
+      "id": "chipped:crafted_green_carpet",
       "count": 1
     },
     {
-      "item": "chipped:harsh_quilted_green_carpet",
+      "id": "chipped:harsh_quilted_green_carpet",
       "count": 1
     }
   ]

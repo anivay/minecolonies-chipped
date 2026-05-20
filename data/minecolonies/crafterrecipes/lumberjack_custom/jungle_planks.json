@@ -3,162 +3,162 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:jungle_planks",
+      "id": "minecraft:jungle_planks",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:jungle_planks_mosaic",
+    "id": "chipped:jungle_planks_mosaic",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:jungle_planks_shavings",
+      "id": "chipped:jungle_planks_shavings",
       "count": 1
     },
     {
-      "item": "chipped:basket_woven_jungle_planks",
+      "id": "chipped:basket_woven_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:boxed_jungle_planks",
+      "id": "chipped:boxed_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:brick_bond_jungle_planks",
+      "id": "chipped:brick_bond_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:bricky_jungle_planks",
+      "id": "chipped:bricky_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:cross_laced_jungle_planks",
+      "id": "chipped:cross_laced_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:crossed_jungle_planks",
+      "id": "chipped:crossed_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:detailed_jungle_planks",
+      "id": "chipped:detailed_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:diagonal_jungle_planks",
+      "id": "chipped:diagonal_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:diamond_jungle_planks",
+      "id": "chipped:diamond_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:double_herringbone_jungle_planks",
+      "id": "chipped:double_herringbone_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_jungle_planks",
+      "id": "chipped:fine_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_vertical_jungle_planks",
+      "id": "chipped:fine_vertical_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:herringbone_jungle_planks",
+      "id": "chipped:herringbone_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:hewn_jungle_planks",
+      "id": "chipped:hewn_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:laced_jungle_planks",
+      "id": "chipped:laced_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:nailed_jungle_planks",
+      "id": "chipped:nailed_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:polished_jungle_planks",
+      "id": "chipped:polished_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:railed_jungle_planks",
+      "id": "chipped:railed_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:shifted_jungle_planks",
+      "id": "chipped:shifted_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:slanted_jungle_planks",
+      "id": "chipped:slanted_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_jungle_planks",
+      "id": "chipped:smooth_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:stacked_jungle_planks",
+      "id": "chipped:stacked_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:thin_jungle_planks",
+      "id": "chipped:thin_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_jungle_planks",
+      "id": "chipped:tiled_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:versailles_jungle_planks",
+      "id": "chipped:versailles_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_jungle_planks",
+      "id": "chipped:vertical_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertically_railed_jungle_planks",
+      "id": "chipped:vertically_railed_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:wickered_jungle_planks",
+      "id": "chipped:wickered_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:jungle_planks_panel",
+      "id": "chipped:jungle_planks_panel",
       "count": 1
     },
     {
-      "item": "chipped:cornered_jungle_planks",
+      "id": "chipped:cornered_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:crated_jungle_planks",
+      "id": "chipped:crated_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:enclosed_jungle_planks",
+      "id": "chipped:enclosed_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:framed_jungle_planks",
+      "id": "chipped:framed_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:natural_jungle_planks",
+      "id": "chipped:natural_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:pegged_jungle_planks",
+      "id": "chipped:pegged_jungle_planks",
       "count": 1
     },
     {
-      "item": "chipped:whirlwind_jungle_planks",
+      "id": "chipped:whirlwind_jungle_planks",
       "count": 1
     }
   ]

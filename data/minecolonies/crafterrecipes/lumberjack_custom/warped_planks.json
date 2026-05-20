@@ -3,162 +3,162 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:warped_planks",
+      "id": "minecraft:warped_planks",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:warped_planks_mosaic",
+    "id": "chipped:warped_planks_mosaic",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:warped_planks_shavings",
+      "id": "chipped:warped_planks_shavings",
       "count": 1
     },
     {
-      "item": "chipped:basket_woven_warped_planks",
+      "id": "chipped:basket_woven_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:boxed_warped_planks",
+      "id": "chipped:boxed_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:brick_bond_warped_planks",
+      "id": "chipped:brick_bond_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:bricky_warped_planks",
+      "id": "chipped:bricky_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:cross_laced_warped_planks",
+      "id": "chipped:cross_laced_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:crossed_warped_planks",
+      "id": "chipped:crossed_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:detailed_warped_planks",
+      "id": "chipped:detailed_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:diagonal_warped_planks",
+      "id": "chipped:diagonal_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:diamond_warped_planks",
+      "id": "chipped:diamond_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:double_herringbone_warped_planks",
+      "id": "chipped:double_herringbone_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_warped_planks",
+      "id": "chipped:fine_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_vertical_warped_planks",
+      "id": "chipped:fine_vertical_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:herringbone_warped_planks",
+      "id": "chipped:herringbone_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:hewn_warped_planks",
+      "id": "chipped:hewn_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:laced_warped_planks",
+      "id": "chipped:laced_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:nailed_warped_planks",
+      "id": "chipped:nailed_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:polished_warped_planks",
+      "id": "chipped:polished_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:railed_warped_planks",
+      "id": "chipped:railed_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:shifted_warped_planks",
+      "id": "chipped:shifted_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:slanted_warped_planks",
+      "id": "chipped:slanted_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_warped_planks",
+      "id": "chipped:smooth_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:stacked_warped_planks",
+      "id": "chipped:stacked_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:thin_warped_planks",
+      "id": "chipped:thin_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_warped_planks",
+      "id": "chipped:tiled_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:versailles_warped_planks",
+      "id": "chipped:versailles_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_warped_planks",
+      "id": "chipped:vertical_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertically_railed_warped_planks",
+      "id": "chipped:vertically_railed_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:wickered_warped_planks",
+      "id": "chipped:wickered_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:warped_planks_panel",
+      "id": "chipped:warped_planks_panel",
       "count": 1
     },
     {
-      "item": "chipped:cornered_warped_planks",
+      "id": "chipped:cornered_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:crated_warped_planks",
+      "id": "chipped:crated_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:enclosed_warped_planks",
+      "id": "chipped:enclosed_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:framed_warped_planks",
+      "id": "chipped:framed_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:natural_warped_planks",
+      "id": "chipped:natural_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:pegged_warped_planks",
+      "id": "chipped:pegged_warped_planks",
       "count": 1
     },
     {
-      "item": "chipped:whirlwind_warped_planks",
+      "id": "chipped:whirlwind_warped_planks",
       "count": 1
     }
   ]

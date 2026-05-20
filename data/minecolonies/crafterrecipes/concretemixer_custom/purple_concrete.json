@@ -3,90 +3,90 @@
   "crafter": "concretemixer_custom",
   "inputs": [
     {
-      "item": "minecraft:purple_concrete",
+      "id": "minecraft:purple_concrete",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:purple_concrete_bricks",
+    "id": "chipped:purple_concrete_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:purple_concrete_tiles",
+      "id": "chipped:purple_concrete_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_purple_concrete",
+      "id": "chipped:creeper_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grid_purple_concrete",
+      "id": "chipped:grid_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:mosaic_purple_concrete",
+      "id": "chipped:mosaic_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stacked_purple_concrete",
+      "id": "chipped:stacked_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stop_purple_concrete",
+      "id": "chipped:stop_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grill_purple_concrete",
+      "id": "chipped:grill_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:purple_concrete_panel",
+      "id": "chipped:purple_concrete_panel",
       "count": 1
     },
     {
-      "item": "chipped:pegged_purple_concrete",
+      "id": "chipped:pegged_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:smooth_purple_concrete",
+      "id": "chipped:smooth_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:striped_purple_concrete",
+      "id": "chipped:striped_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:wired_purple_concrete",
+      "id": "chipped:wired_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:purple_concrete_pillar",
+      "id": "chipped:purple_concrete_pillar",
       "count": 1
     },
     {
-      "item": "chipped:bolted_purple_concrete",
+      "id": "chipped:bolted_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:hazard_purple_concrete",
+      "id": "chipped:hazard_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:railed_purple_concrete",
+      "id": "chipped:railed_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_purple_concrete",
+      "id": "chipped:reinforced_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:rusted_purple_concrete",
+      "id": "chipped:rusted_purple_concrete",
       "count": 1
     },
     {
-      "item": "chipped:warning_purple_concrete",
+      "id": "chipped:warning_purple_concrete",
       "count": 1
     }
   ]

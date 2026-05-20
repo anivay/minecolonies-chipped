@@ -3,74 +3,74 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:pumpkin",
+      "id": "minecraft:pumpkin",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:autumnkin",
+    "id": "chipped:autumnkin",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:dewkin",
+      "id": "chipped:dewkin",
       "count": 1
     },
     {
-      "item": "chipped:dirty_dewkin",
+      "id": "chipped:dirty_dewkin",
       "count": 1
     },
     {
-      "item": "chipped:dirty_goldkin",
+      "id": "chipped:dirty_goldkin",
       "count": 1
     },
     {
-      "item": "chipped:dirty_rosekin",
+      "id": "chipped:dirty_rosekin",
       "count": 1
     },
     {
-      "item": "chipped:end_pumpkin",
+      "id": "chipped:end_pumpkin",
       "count": 1
     },
     {
-      "item": "chipped:end_pumpkin_purple",
+      "id": "chipped:end_pumpkin_purple",
       "count": 1
     },
     {
-      "item": "chipped:goldkin",
+      "id": "chipped:goldkin",
       "count": 1
     },
     {
-      "item": "chipped:kabotchkin",
+      "id": "chipped:kabotchkin",
       "count": 1
     },
     {
-      "item": "chipped:nether_pumpkin",
+      "id": "chipped:nether_pumpkin",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_pumpkin",
+      "id": "chipped:overgrown_pumpkin",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_autumnkin",
+      "id": "chipped:overgrown_autumnkin",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_lumpkin",
+      "id": "chipped:overgrown_lumpkin",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_pimpkin",
+      "id": "chipped:overgrown_pimpkin",
       "count": 1
     },
     {
-      "item": "chipped:pimpkin",
+      "id": "chipped:pimpkin",
       "count": 1
     },
     {
-      "item": "chipped:rosekin",
+      "id": "chipped:rosekin",
       "count": 1
     }
   ]

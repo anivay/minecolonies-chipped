@@ -3,90 +3,90 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:purple_wool",
+      "id": "minecraft:purple_wool",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barky_purple_wool",
+    "id": "chipped:barky_purple_wool",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blocky_purple_wool",
+      "id": "chipped:blocky_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:bundled_purple_wool",
+      "id": "chipped:bundled_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:cross_haired_purple_wool",
+      "id": "chipped:cross_haired_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:cubed_purple_wool",
+      "id": "chipped:cubed_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:knitted_purple_wool",
+      "id": "chipped:knitted_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:patched_purple_wool",
+      "id": "chipped:patched_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:rectangle_purple_wool",
+      "id": "chipped:rectangle_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:ribbled_purple_wool",
+      "id": "chipped:ribbled_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:scaled_purple_wool",
+      "id": "chipped:scaled_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:soft_purple_wool",
+      "id": "chipped:soft_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:stringed_purple_wool",
+      "id": "chipped:stringed_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:tiled_purple_wool",
+      "id": "chipped:tiled_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:tripped_purple_wool",
+      "id": "chipped:tripped_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:wickered_purple_wool",
+      "id": "chipped:wickered_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:windmill_purple_wool",
+      "id": "chipped:windmill_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:woved_purple_wool",
+      "id": "chipped:woved_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:cornered_purple_wool",
+      "id": "chipped:cornered_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:crafted_purple_wool",
+      "id": "chipped:crafted_purple_wool",
       "count": 1
     },
     {
-      "item": "chipped:harsh_quilted_purple_wool",
+      "id": "chipped:harsh_quilted_purple_wool",
       "count": 1
     }
   ]

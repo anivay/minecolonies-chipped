@@ -3,274 +3,274 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:dirt",
+      "id": "minecraft:dirt",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:dirt_bricks",
+    "id": "chipped:dirt_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:dirt_mini_tiles",
+      "id": "chipped:dirt_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:dirt_pillar",
+      "id": "chipped:dirt_pillar",
       "count": 1
     },
     {
-      "item": "chipped:dirt_pillar_top",
+      "id": "chipped:dirt_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:dirt_scales",
+      "id": "chipped:dirt_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_dirt",
+      "id": "chipped:angry_dirt",
       "count": 1
     },
     {
-      "item": "chipped:blank_dirt_carving",
+      "id": "chipped:blank_dirt_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_dirt",
+      "id": "chipped:carved_dirt",
       "count": 1
     },
     {
-      "item": "chipped:checkered_dirt_tiles",
+      "id": "chipped:checkered_dirt_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_dirt",
+      "id": "chipped:cobbled_dirt",
       "count": 1
     },
     {
-      "item": "chipped:cracked_dirt_bricks",
+      "id": "chipped:cracked_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_dirt_bricks",
+      "id": "chipped:cracked_disordered_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_dirt_tiles",
+      "id": "chipped:cracked_flat_dirt_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_dirt_carving",
+      "id": "chipped:creeper_dirt_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_dirt",
+      "id": "chipped:crying_dirt",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_dirt",
+      "id": "chipped:cut_blank_dirt",
       "count": 1
     },
     {
-      "item": "chipped:glad_dirt",
+      "id": "chipped:glad_dirt",
       "count": 1
     },
     {
-      "item": "chipped:duh_dirt",
+      "id": "chipped:duh_dirt",
       "count": 1
     },
     {
-      "item": "chipped:engraved_dirt",
+      "id": "chipped:engraved_dirt",
       "count": 1
     },
     {
-      "item": "chipped:eroded_dirt",
+      "id": "chipped:eroded_dirt",
       "count": 1
     },
     {
-      "item": "chipped:etched_dirt_bricks",
+      "id": "chipped:etched_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_dirt_tiles",
+      "id": "chipped:flat_dirt_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_dirt",
+      "id": "chipped:inlayed_dirt",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_dirt",
+      "id": "chipped:inscribed_dirt",
       "count": 1
     },
     {
-      "item": "chipped:layed_dirt_bricks",
+      "id": "chipped:layed_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_dirt",
+      "id": "chipped:loded_dirt",
       "count": 1
     },
     {
-      "item": "chipped:offset_dirt_bricks",
+      "id": "chipped:offset_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_dirt_bricks",
+      "id": "chipped:pillar_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_dirt_remnants",
+      "id": "chipped:prismal_dirt_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_dirt",
+      "id": "chipped:rough_dirt",
       "count": 1
     },
     {
-      "item": "chipped:rounded_dirt_bricks",
+      "id": "chipped:rounded_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_dirt",
+      "id": "chipped:runic_carved_dirt",
       "count": 1
     },
     {
-      "item": "chipped:sad_dirt",
+      "id": "chipped:sad_dirt",
       "count": 1
     },
     {
-      "item": "chipped:sanded_dirt",
+      "id": "chipped:sanded_dirt",
       "count": 1
     },
     {
-      "item": "chipped:small_dirt_bricks",
+      "id": "chipped:small_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_dirt",
+      "id": "chipped:smooth_inlayed_dirt",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_dirt",
+      "id": "chipped:smooth_ringed_dirt",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_dirt",
+      "id": "chipped:smoothed_double_inlayed_dirt",
       "count": 1
     },
     {
-      "item": "chipped:spider_dirt_carving",
+      "id": "chipped:spider_dirt_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_dirt",
+      "id": "chipped:spiraled_dirt",
       "count": 1
     },
     {
-      "item": "chipped:stacked_dirt_bricks",
+      "id": "chipped:stacked_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_dirt",
+      "id": "chipped:tiled_dirt",
       "count": 1
     },
     {
-      "item": "chipped:tiny_dirt_bricks",
+      "id": "chipped:tiny_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_dirt_bricks",
+      "id": "chipped:tiny_layered_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_dirt_slabs",
+      "id": "chipped:tiny_layered_dirt_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_dirt",
+      "id": "chipped:trodden_dirt",
       "count": 1
     },
     {
-      "item": "chipped:unamused_dirt",
+      "id": "chipped:unamused_dirt",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_dirt",
+      "id": "chipped:vertical_cut_dirt",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_dirt_bricks",
+      "id": "chipped:vertical_disordered_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_dirt",
+      "id": "chipped:weathered_dirt",
       "count": 1
     },
     {
-      "item": "chipped:bordered_dirt",
+      "id": "chipped:bordered_dirt",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_dirt",
+      "id": "chipped:brick_bordered_dirt",
       "count": 1
     },
     {
-      "item": "chipped:cut_dirt_column",
+      "id": "chipped:cut_dirt_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_dirt_bricks",
+      "id": "chipped:edged_dirt_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_dirt_tiles",
+      "id": "chipped:overlapping_dirt_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_dirt",
+      "id": "chipped:polished_dirt",
       "count": 1
     },
     {
-      "item": "chipped:smooth_dirt_column",
+      "id": "chipped:smooth_dirt_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_dirt",
+      "id": "chipped:thick_inlayed_dirt",
       "count": 1
     },
     {
-      "item": "chipped:tiled_dirt_column",
+      "id": "chipped:tiled_dirt_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_dirt",
+      "id": "chipped:tiled_bordered_dirt",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_dirt",
+      "id": "chipped:tiny_brick_bordered_dirt",
       "count": 1
     },
     {
-      "item": "chipped:curly_dirt_pillar",
+      "id": "chipped:curly_dirt_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_dirt_pillar",
+      "id": "chipped:fine_dirt_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_dirt_pillar",
+      "id": "chipped:ornate_dirt_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_dirt_pillar",
+      "id": "chipped:simple_dirt_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_dirt_bricks",
+      "id": "chipped:massive_dirt_bricks",
       "count": 1
     }
   ]

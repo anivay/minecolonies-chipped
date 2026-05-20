@@ -3,58 +3,58 @@
   "crafter": "blacksmith_crafting",
   "inputs": [
     {
-      "item": "minecraft:netherite_block",
+      "id": "minecraft:netherite_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:netherite_block_panels",
+    "id": "chipped:netherite_block_panels",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:chipped_netherite_block",
+      "id": "chipped:chipped_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:embossed_netherite_block",
+      "id": "chipped:embossed_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:engraved_netherite_block",
+      "id": "chipped:engraved_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:layered_netherite_block",
+      "id": "chipped:layered_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:plated_netherite_block",
+      "id": "chipped:plated_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:polished_netherite_block",
+      "id": "chipped:polished_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:pressed_netherite_block",
+      "id": "chipped:pressed_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_netherite_block",
+      "id": "chipped:reinforced_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:sheet_netherite_block",
+      "id": "chipped:sheet_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:shuttered_netherite_block",
+      "id": "chipped:shuttered_netherite_block",
       "count": 1
     },
     {
-      "item": "chipped:stacked_netherite_block",
+      "id": "chipped:stacked_netherite_block",
       "count": 1
     }
   ]

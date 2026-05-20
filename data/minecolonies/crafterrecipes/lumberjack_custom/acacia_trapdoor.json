@@ -3,98 +3,98 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:acacia_trapdoor",
+      "id": "minecraft:acacia_trapdoor",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barred_acacia_trapdoor",
+    "id": "chipped:barred_acacia_trapdoor",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:checkered_acacia_trapdoor",
+      "id": "chipped:checkered_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:classic_acacia_trapdoor",
+      "id": "chipped:classic_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:classic_windowed_acacia_trapdoor",
+      "id": "chipped:classic_windowed_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:cobweb_acacia_trapdoor",
+      "id": "chipped:cobweb_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:distorted_acacia_trapdoor",
+      "id": "chipped:distorted_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:fancy_acacia_trapdoor",
+      "id": "chipped:fancy_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:golden_barred_acacia_trapdoor",
+      "id": "chipped:golden_barred_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:heavy_acacia_trapdoor",
+      "id": "chipped:heavy_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:iron_barred_acacia_trapdoor",
+      "id": "chipped:iron_barred_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:leafy_acacia_trapdoor",
+      "id": "chipped:leafy_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:meshed_acacia_trapdoor",
+      "id": "chipped:meshed_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_acacia_trapdoor",
+      "id": "chipped:overgrown_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:pointless_acacia_trapdoor",
+      "id": "chipped:pointless_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:slotted_acacia_trapdoor",
+      "id": "chipped:slotted_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:solid_acacia_trapdoor",
+      "id": "chipped:solid_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:suspicious_acacia_trapdoor",
+      "id": "chipped:suspicious_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:twisted_acacia_trapdoor",
+      "id": "chipped:twisted_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:vined_acacia_trapdoor",
+      "id": "chipped:vined_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:warted_acacia_trapdoor",
+      "id": "chipped:warted_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:windowed_acacia_trapdoor",
+      "id": "chipped:windowed_acacia_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:woven_acacia_trapdoor",
+      "id": "chipped:woven_acacia_trapdoor",
       "count": 1
     }
   ]

@@ -3,38 +3,38 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:mangrove_roots",
+      "id": "minecraft:mangrove_roots",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:blue_mangrove_roots",
+    "id": "chipped:blue_mangrove_roots",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:crimson_mangrove_roots",
+      "id": "chipped:crimson_mangrove_roots",
       "count": 1
     },
     {
-      "item": "chipped:flowery_mangrove_roots",
+      "id": "chipped:flowery_mangrove_roots",
       "count": 1
     },
     {
-      "item": "chipped:leafy_mangrove_roots",
+      "id": "chipped:leafy_mangrove_roots",
       "count": 1
     },
     {
-      "item": "chipped:lush_mangrove_roots",
+      "id": "chipped:lush_mangrove_roots",
       "count": 1
     },
     {
-      "item": "chipped:muddy_mangrove_roots",
+      "id": "chipped:muddy_mangrove_roots",
       "count": 1
     },
     {
-      "item": "chipped:thin_mangrove_roots",
+      "id": "chipped:thin_mangrove_roots",
       "count": 1
     }
   ]

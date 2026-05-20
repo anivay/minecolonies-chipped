@@ -3,90 +3,90 @@
   "crafter": "concretemixer_custom",
   "inputs": [
     {
-      "item": "minecraft:black_concrete",
+      "id": "minecraft:black_concrete",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:black_concrete_bricks",
+    "id": "chipped:black_concrete_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:black_concrete_tiles",
+      "id": "chipped:black_concrete_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_black_concrete",
+      "id": "chipped:creeper_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grid_black_concrete",
+      "id": "chipped:grid_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:mosaic_black_concrete",
+      "id": "chipped:mosaic_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stacked_black_concrete",
+      "id": "chipped:stacked_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stop_black_concrete",
+      "id": "chipped:stop_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grill_black_concrete",
+      "id": "chipped:grill_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:black_concrete_panel",
+      "id": "chipped:black_concrete_panel",
       "count": 1
     },
     {
-      "item": "chipped:pegged_black_concrete",
+      "id": "chipped:pegged_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:smooth_black_concrete",
+      "id": "chipped:smooth_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:striped_black_concrete",
+      "id": "chipped:striped_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:wired_black_concrete",
+      "id": "chipped:wired_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:black_concrete_pillar",
+      "id": "chipped:black_concrete_pillar",
       "count": 1
     },
     {
-      "item": "chipped:bolted_black_concrete",
+      "id": "chipped:bolted_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:hazard_black_concrete",
+      "id": "chipped:hazard_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:railed_black_concrete",
+      "id": "chipped:railed_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_black_concrete",
+      "id": "chipped:reinforced_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:rusted_black_concrete",
+      "id": "chipped:rusted_black_concrete",
       "count": 1
     },
     {
-      "item": "chipped:warning_black_concrete",
+      "id": "chipped:warning_black_concrete",
       "count": 1
     }
   ]

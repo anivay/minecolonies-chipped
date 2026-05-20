@@ -3,90 +3,90 @@
   "crafter": "concretemixer_custom",
   "inputs": [
     {
-      "item": "minecraft:lime_concrete",
+      "id": "minecraft:lime_concrete",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:lime_concrete_bricks",
+    "id": "chipped:lime_concrete_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:lime_concrete_tiles",
+      "id": "chipped:lime_concrete_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_lime_concrete",
+      "id": "chipped:creeper_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grid_lime_concrete",
+      "id": "chipped:grid_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:mosaic_lime_concrete",
+      "id": "chipped:mosaic_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stacked_lime_concrete",
+      "id": "chipped:stacked_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stop_lime_concrete",
+      "id": "chipped:stop_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grill_lime_concrete",
+      "id": "chipped:grill_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:lime_concrete_panel",
+      "id": "chipped:lime_concrete_panel",
       "count": 1
     },
     {
-      "item": "chipped:pegged_lime_concrete",
+      "id": "chipped:pegged_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:smooth_lime_concrete",
+      "id": "chipped:smooth_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:striped_lime_concrete",
+      "id": "chipped:striped_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:wired_lime_concrete",
+      "id": "chipped:wired_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:lime_concrete_pillar",
+      "id": "chipped:lime_concrete_pillar",
       "count": 1
     },
     {
-      "item": "chipped:bolted_lime_concrete",
+      "id": "chipped:bolted_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:hazard_lime_concrete",
+      "id": "chipped:hazard_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:railed_lime_concrete",
+      "id": "chipped:railed_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_lime_concrete",
+      "id": "chipped:reinforced_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:rusted_lime_concrete",
+      "id": "chipped:rusted_lime_concrete",
       "count": 1
     },
     {
-      "item": "chipped:warning_lime_concrete",
+      "id": "chipped:warning_lime_concrete",
       "count": 1
     }
   ]

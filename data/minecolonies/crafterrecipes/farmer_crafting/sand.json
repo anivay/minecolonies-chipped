@@ -3,58 +3,58 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:sand",
+      "id": "minecraft:sand",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:ash_sand",
+    "id": "chipped:ash_sand",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:coarse_sand",
+      "id": "chipped:coarse_sand",
       "count": 1
     },
     {
-      "item": "chipped:desert_sand",
+      "id": "chipped:desert_sand",
       "count": 1
     },
     {
-      "item": "chipped:kelp_sand",
+      "id": "chipped:kelp_sand",
       "count": 1
     },
     {
-      "item": "chipped:lush_red_sand",
+      "id": "chipped:lush_red_sand",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_sand",
+      "id": "chipped:overgrown_sand",
       "count": 1
     },
     {
-      "item": "chipped:pearl_sand",
+      "id": "chipped:pearl_sand",
       "count": 1
     },
     {
-      "item": "chipped:soft_sand",
+      "id": "chipped:soft_sand",
       "count": 1
     },
     {
-      "item": "chipped:tar_sand",
+      "id": "chipped:tar_sand",
       "count": 1
     },
     {
-      "item": "chipped:wet_sand",
+      "id": "chipped:wet_sand",
       "count": 1
     },
     {
-      "item": "chipped:wet_red_sand",
+      "id": "chipped:wet_red_sand",
       "count": 1
     },
     {
-      "item": "chipped:white_sand",
+      "id": "chipped:white_sand",
       "count": 1
     }
   ]

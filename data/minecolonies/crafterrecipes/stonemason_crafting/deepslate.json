@@ -3,246 +3,246 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:deepslate",
+      "id": "minecraft:deepslate",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:deepslate_mini_tiles",
+    "id": "chipped:deepslate_mini_tiles",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:deepslate_pillar",
+      "id": "chipped:deepslate_pillar",
       "count": 1
     },
     {
-      "item": "chipped:deepslate_pillar_top",
+      "id": "chipped:deepslate_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:deepslate_scales",
+      "id": "chipped:deepslate_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_deepslate",
+      "id": "chipped:angry_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:blank_deepslate_carving",
+      "id": "chipped:blank_deepslate_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_deepslate",
+      "id": "chipped:carved_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:checkered_deepslate_tiles",
+      "id": "chipped:checkered_deepslate_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_deepslate_bricks",
+      "id": "chipped:cracked_disordered_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:creeper_deepslate_carving",
+      "id": "chipped:creeper_deepslate_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_deepslate",
+      "id": "chipped:crying_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_deepslate",
+      "id": "chipped:cut_blank_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:glad_deepslate",
+      "id": "chipped:glad_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:duh_deepslate",
+      "id": "chipped:duh_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:engraved_deepslate",
+      "id": "chipped:engraved_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:eroded_deepslate",
+      "id": "chipped:eroded_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:etched_deepslate_bricks",
+      "id": "chipped:etched_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_deepslate",
+      "id": "chipped:inlayed_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_deepslate",
+      "id": "chipped:inscribed_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:loded_deepslate",
+      "id": "chipped:loded_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:pillar_deepslate_bricks",
+      "id": "chipped:pillar_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_deepslate_remnants",
+      "id": "chipped:prismal_deepslate_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_deepslate",
+      "id": "chipped:rough_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:rounded_deepslate_bricks",
+      "id": "chipped:rounded_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_deepslate",
+      "id": "chipped:runic_carved_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:sad_deepslate",
+      "id": "chipped:sad_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:sanded_deepslate",
+      "id": "chipped:sanded_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:small_deepslate_bricks",
+      "id": "chipped:small_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_deepslate",
+      "id": "chipped:smooth_inlayed_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_deepslate",
+      "id": "chipped:smooth_ringed_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_deepslate",
+      "id": "chipped:smoothed_double_inlayed_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:spider_deepslate_carving",
+      "id": "chipped:spider_deepslate_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_deepslate",
+      "id": "chipped:spiraled_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:stacked_deepslate_bricks",
+      "id": "chipped:stacked_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_deepslate",
+      "id": "chipped:tiled_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:tiny_deepslate_bricks",
+      "id": "chipped:tiny_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_deepslate_bricks",
+      "id": "chipped:tiny_layered_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_deepslate_slabs",
+      "id": "chipped:tiny_layered_deepslate_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_deepslate",
+      "id": "chipped:trodden_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:unamused_deepslate",
+      "id": "chipped:unamused_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_deepslate",
+      "id": "chipped:vertical_cut_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_deepslate_bricks",
+      "id": "chipped:vertical_disordered_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_deepslate",
+      "id": "chipped:weathered_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:bordered_deepslate",
+      "id": "chipped:bordered_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_deepslate",
+      "id": "chipped:brick_bordered_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:cut_deepslate_column",
+      "id": "chipped:cut_deepslate_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_deepslate_bricks",
+      "id": "chipped:edged_deepslate_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_deepslate_tiles",
+      "id": "chipped:overlapping_deepslate_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_deepslate",
+      "id": "chipped:polished_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:smooth_deepslate_column",
+      "id": "chipped:smooth_deepslate_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_deepslate",
+      "id": "chipped:thick_inlayed_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:tiled_deepslate_column",
+      "id": "chipped:tiled_deepslate_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_deepslate",
+      "id": "chipped:tiled_bordered_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_deepslate",
+      "id": "chipped:tiny_brick_bordered_deepslate",
       "count": 1
     },
     {
-      "item": "chipped:curly_deepslate_pillar",
+      "id": "chipped:curly_deepslate_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_deepslate_pillar",
+      "id": "chipped:fine_deepslate_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_deepslate_pillar",
+      "id": "chipped:ornate_deepslate_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_deepslate_pillar",
+      "id": "chipped:simple_deepslate_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_deepslate_bricks",
+      "id": "chipped:massive_deepslate_bricks",
       "count": 1
     }
   ]

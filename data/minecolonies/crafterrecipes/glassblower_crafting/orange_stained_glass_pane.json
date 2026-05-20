@@ -3,54 +3,54 @@
   "crafter": "glassblower_crafting",
   "inputs": [
     {
-      "item": "minecraft:orange_stained_glass_pane",
+      "id": "minecraft:orange_stained_glass_pane",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:circular_orange_stained_glass_pane",
+    "id": "chipped:circular_orange_stained_glass_pane",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:large_diamond_orange_stained_glass_pane",
+      "id": "chipped:large_diamond_orange_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:square_orange_stained_glass_pane",
+      "id": "chipped:square_orange_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:vertical_stiped_orange_stained_glass_pane",
+      "id": "chipped:vertical_stiped_orange_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:woven_orange_stained_glass_pane",
+      "id": "chipped:woven_orange_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:arched_orange_stained_glass_pane_pillar",
+      "id": "chipped:arched_orange_stained_glass_pane_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_orange_stained_glass_pane",
+      "id": "chipped:fancy_orange_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:ornate_orange_stained_glass_pane",
+      "id": "chipped:ornate_orange_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:raster_orange_stained_glass_pane",
+      "id": "chipped:raster_orange_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:small_orange_stained_glass_pane",
+      "id": "chipped:small_orange_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:tiled_orange_stained_glass_pane",
+      "id": "chipped:tiled_orange_stained_glass_pane",
       "count": 1
     }
   ]

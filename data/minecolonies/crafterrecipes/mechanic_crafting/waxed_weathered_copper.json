@@ -3,54 +3,54 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:waxed_weathered_copper",
+      "id": "minecraft:waxed_weathered_copper",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:ancient_waxed_weathered_copper",
+    "id": "chipped:ancient_waxed_weathered_copper",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:chipped_waxed_weathered_copper",
+      "id": "chipped:chipped_waxed_weathered_copper",
       "count": 1
     },
     {
-      "item": "chipped:embossed_waxed_weathered_copper",
+      "id": "chipped:embossed_waxed_weathered_copper",
       "count": 1
     },
     {
-      "item": "chipped:engraved_waxed_weathered_copper",
+      "id": "chipped:engraved_waxed_weathered_copper",
       "count": 1
     },
     {
-      "item": "chipped:layered_waxed_weathered_copper",
+      "id": "chipped:layered_waxed_weathered_copper",
       "count": 1
     },
     {
-      "item": "chipped:plated_waxed_weathered_copper",
+      "id": "chipped:plated_waxed_weathered_copper",
       "count": 1
     },
     {
-      "item": "chipped:pressed_waxed_weathered_copper",
+      "id": "chipped:pressed_waxed_weathered_copper",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_waxed_weathered_copper",
+      "id": "chipped:reinforced_waxed_weathered_copper",
       "count": 1
     },
     {
-      "item": "chipped:sheet_waxed_weathered_copper",
+      "id": "chipped:sheet_waxed_weathered_copper",
       "count": 1
     },
     {
-      "item": "chipped:shuttered_waxed_weathered_copper",
+      "id": "chipped:shuttered_waxed_weathered_copper",
       "count": 1
     },
     {
-      "item": "chipped:stacked_waxed_weathered_copper",
+      "id": "chipped:stacked_waxed_weathered_copper",
       "count": 1
     }
   ]

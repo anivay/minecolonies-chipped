@@ -3,162 +3,162 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:spruce_planks",
+      "id": "minecraft:spruce_planks",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:spruce_planks_mosaic",
+    "id": "chipped:spruce_planks_mosaic",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:spruce_planks_shavings",
+      "id": "chipped:spruce_planks_shavings",
       "count": 1
     },
     {
-      "item": "chipped:basket_woven_spruce_planks",
+      "id": "chipped:basket_woven_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:boxed_spruce_planks",
+      "id": "chipped:boxed_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:brick_bond_spruce_planks",
+      "id": "chipped:brick_bond_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:bricky_spruce_planks",
+      "id": "chipped:bricky_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:cross_laced_spruce_planks",
+      "id": "chipped:cross_laced_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:crossed_spruce_planks",
+      "id": "chipped:crossed_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:detailed_spruce_planks",
+      "id": "chipped:detailed_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:diagonal_spruce_planks",
+      "id": "chipped:diagonal_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:diamond_spruce_planks",
+      "id": "chipped:diamond_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:double_herringbone_spruce_planks",
+      "id": "chipped:double_herringbone_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_spruce_planks",
+      "id": "chipped:fine_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_vertical_spruce_planks",
+      "id": "chipped:fine_vertical_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:herringbone_spruce_planks",
+      "id": "chipped:herringbone_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:hewn_spruce_planks",
+      "id": "chipped:hewn_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:laced_spruce_planks",
+      "id": "chipped:laced_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:nailed_spruce_planks",
+      "id": "chipped:nailed_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:polished_spruce_planks",
+      "id": "chipped:polished_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:railed_spruce_planks",
+      "id": "chipped:railed_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:shifted_spruce_planks",
+      "id": "chipped:shifted_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:slanted_spruce_planks",
+      "id": "chipped:slanted_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_spruce_planks",
+      "id": "chipped:smooth_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:stacked_spruce_planks",
+      "id": "chipped:stacked_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:thin_spruce_planks",
+      "id": "chipped:thin_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_spruce_planks",
+      "id": "chipped:tiled_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:versailles_spruce_planks",
+      "id": "chipped:versailles_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_spruce_planks",
+      "id": "chipped:vertical_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertically_railed_spruce_planks",
+      "id": "chipped:vertically_railed_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:wickered_spruce_planks",
+      "id": "chipped:wickered_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:spruce_planks_panel",
+      "id": "chipped:spruce_planks_panel",
       "count": 1
     },
     {
-      "item": "chipped:cornered_spruce_planks",
+      "id": "chipped:cornered_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:crated_spruce_planks",
+      "id": "chipped:crated_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:enclosed_spruce_planks",
+      "id": "chipped:enclosed_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:framed_spruce_planks",
+      "id": "chipped:framed_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:natural_spruce_planks",
+      "id": "chipped:natural_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:pegged_spruce_planks",
+      "id": "chipped:pegged_spruce_planks",
       "count": 1
     },
     {
-      "item": "chipped:whirlwind_spruce_planks",
+      "id": "chipped:whirlwind_spruce_planks",
       "count": 1
     }
   ]

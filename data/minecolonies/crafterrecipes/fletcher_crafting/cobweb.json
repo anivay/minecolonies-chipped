@@ -3,50 +3,50 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:cobweb",
+      "id": "minecraft:cobweb",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:broken_cobweb",
+    "id": "chipped:broken_cobweb",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:hanging_broken_cobweb",
+      "id": "chipped:hanging_broken_cobweb",
       "count": 1
     },
     {
-      "item": "chipped:cobweb_arch",
+      "id": "chipped:cobweb_arch",
       "count": 1
     },
     {
-      "item": "chipped:cobweb_floor",
+      "id": "chipped:cobweb_floor",
       "count": 1
     },
     {
-      "item": "chipped:dense_cobweb",
+      "id": "chipped:dense_cobweb",
       "count": 1
     },
     {
-      "item": "chipped:hanging_cobweb",
+      "id": "chipped:hanging_cobweb",
       "count": 1
     },
     {
-      "item": "chipped:scattered_cobweb",
+      "id": "chipped:scattered_cobweb",
       "count": 1
     },
     {
-      "item": "chipped:stretched_cobweb",
+      "id": "chipped:stretched_cobweb",
       "count": 1
     },
     {
-      "item": "chipped:stringy_cobweb",
+      "id": "chipped:stringy_cobweb",
       "count": 1
     },
     {
-      "item": "chipped:thick_cobweb_floor",
+      "id": "chipped:thick_cobweb_floor",
       "count": 1
     }
   ]

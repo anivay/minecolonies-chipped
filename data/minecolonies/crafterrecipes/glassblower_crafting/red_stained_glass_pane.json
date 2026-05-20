@@ -3,54 +3,54 @@
   "crafter": "glassblower_crafting",
   "inputs": [
     {
-      "item": "minecraft:red_stained_glass_pane",
+      "id": "minecraft:red_stained_glass_pane",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:circular_red_stained_glass_pane",
+    "id": "chipped:circular_red_stained_glass_pane",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:large_diamond_red_stained_glass_pane",
+      "id": "chipped:large_diamond_red_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:square_red_stained_glass_pane",
+      "id": "chipped:square_red_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:vertical_stiped_red_stained_glass_pane",
+      "id": "chipped:vertical_stiped_red_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:woven_red_stained_glass_pane",
+      "id": "chipped:woven_red_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:arched_red_stained_glass_pane_pillar",
+      "id": "chipped:arched_red_stained_glass_pane_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fancy_red_stained_glass_pane",
+      "id": "chipped:fancy_red_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:ornate_red_stained_glass_pane",
+      "id": "chipped:ornate_red_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:raster_red_stained_glass_pane",
+      "id": "chipped:raster_red_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:small_red_stained_glass_pane",
+      "id": "chipped:small_red_stained_glass_pane",
       "count": 1
     },
     {
-      "item": "chipped:tiled_red_stained_glass_pane",
+      "id": "chipped:tiled_red_stained_glass_pane",
       "count": 1
     }
   ]

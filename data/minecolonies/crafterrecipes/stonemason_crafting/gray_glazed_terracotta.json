@@ -3,54 +3,54 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:gray_glazed_terracotta",
+      "id": "minecraft:gray_glazed_terracotta",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:gray_glazed_terracotta_pillar_sides",
+    "id": "chipped:gray_glazed_terracotta_pillar_sides",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:gray_glazed_terracotta_pillar_top",
+      "id": "chipped:gray_glazed_terracotta_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:gray_glazed_terracotta_smooth_tiles",
+      "id": "chipped:gray_glazed_terracotta_smooth_tiles",
       "count": 1
     },
     {
-      "item": "chipped:gray_glazed_terracotta_tiles",
+      "id": "chipped:gray_glazed_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:decorated_gray_glazed_terracotta",
+      "id": "chipped:decorated_gray_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:hexagonical_gray_glazed_terracotta",
+      "id": "chipped:hexagonical_gray_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:minimized_gray_glazed_terracotta",
+      "id": "chipped:minimized_gray_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:paved_gray_glazed_terracotta",
+      "id": "chipped:paved_gray_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:shrunken_gray_glazed_terracotta",
+      "id": "chipped:shrunken_gray_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:starry_gray_glazed_terracotta",
+      "id": "chipped:starry_gray_glazed_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:waved_gray_glazed_terracotta",
+      "id": "chipped:waved_gray_glazed_terracotta",
       "count": 1
     }
   ]

@@ -3,38 +3,38 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:sponge",
+      "id": "minecraft:sponge",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bulby_sponge",
+    "id": "chipped:bulby_sponge",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:fine_sponge",
+      "id": "chipped:fine_sponge",
       "count": 1
     },
     {
-      "item": "chipped:giant_sponge",
+      "id": "chipped:giant_sponge",
       "count": 1
     },
     {
-      "item": "chipped:lush_sponge",
+      "id": "chipped:lush_sponge",
       "count": 1
     },
     {
-      "item": "chipped:old_sponge",
+      "id": "chipped:old_sponge",
       "count": 1
     },
     {
-      "item": "chipped:smooth_sponge",
+      "id": "chipped:smooth_sponge",
       "count": 1
     },
     {
-      "item": "chipped:soft_sponge",
+      "id": "chipped:soft_sponge",
       "count": 1
     }
   ]

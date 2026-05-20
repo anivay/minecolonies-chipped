@@ -3,90 +3,90 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:pink_carpet",
+      "id": "minecraft:pink_carpet",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barky_pink_carpet",
+    "id": "chipped:barky_pink_carpet",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blocky_pink_carpet",
+      "id": "chipped:blocky_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:bundled_pink_carpet",
+      "id": "chipped:bundled_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cross_haired_pink_carpet",
+      "id": "chipped:cross_haired_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cubed_pink_carpet",
+      "id": "chipped:cubed_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:knitted_pink_carpet",
+      "id": "chipped:knitted_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:patched_pink_carpet",
+      "id": "chipped:patched_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:rectangle_pink_carpet",
+      "id": "chipped:rectangle_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:ribbled_pink_carpet",
+      "id": "chipped:ribbled_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:scaled_pink_carpet",
+      "id": "chipped:scaled_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:soft_pink_carpet",
+      "id": "chipped:soft_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:stringed_pink_carpet",
+      "id": "chipped:stringed_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tiled_pink_carpet",
+      "id": "chipped:tiled_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tripped_pink_carpet",
+      "id": "chipped:tripped_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:wickered_pink_carpet",
+      "id": "chipped:wickered_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:windmill_pink_carpet",
+      "id": "chipped:windmill_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:woved_pink_carpet",
+      "id": "chipped:woved_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cornered_pink_carpet",
+      "id": "chipped:cornered_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:crafted_pink_carpet",
+      "id": "chipped:crafted_pink_carpet",
       "count": 1
     },
     {
-      "item": "chipped:harsh_quilted_pink_carpet",
+      "id": "chipped:harsh_quilted_pink_carpet",
       "count": 1
     }
   ]

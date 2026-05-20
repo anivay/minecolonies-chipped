@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:andesite",
+      "id": "minecraft:andesite",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:andesite_bricks",
+    "id": "chipped:andesite_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:andesite_mini_tiles",
+      "id": "chipped:andesite_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:andesite_pillar",
+      "id": "chipped:andesite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:andesite_pillar_top",
+      "id": "chipped:andesite_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:andesite_scales",
+      "id": "chipped:andesite_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_andesite",
+      "id": "chipped:angry_andesite",
       "count": 1
     },
     {
-      "item": "chipped:blank_andesite_carving",
+      "id": "chipped:blank_andesite_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_andesite",
+      "id": "chipped:carved_andesite",
       "count": 1
     },
     {
-      "item": "chipped:checkered_andesite_tiles",
+      "id": "chipped:checkered_andesite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_andesite",
+      "id": "chipped:cobbled_andesite",
       "count": 1
     },
     {
-      "item": "chipped:cracked_andesite_bricks",
+      "id": "chipped:cracked_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_andesite_bricks",
+      "id": "chipped:cracked_disordered_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_andesite_tiles",
+      "id": "chipped:cracked_flat_andesite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_andesite_carving",
+      "id": "chipped:creeper_andesite_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_andesite",
+      "id": "chipped:crying_andesite",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_andesite",
+      "id": "chipped:cut_blank_andesite",
       "count": 1
     },
     {
-      "item": "chipped:glad_andesite",
+      "id": "chipped:glad_andesite",
       "count": 1
     },
     {
-      "item": "chipped:duh_andesite",
+      "id": "chipped:duh_andesite",
       "count": 1
     },
     {
-      "item": "chipped:engraved_andesite",
+      "id": "chipped:engraved_andesite",
       "count": 1
     },
     {
-      "item": "chipped:eroded_andesite",
+      "id": "chipped:eroded_andesite",
       "count": 1
     },
     {
-      "item": "chipped:etched_andesite_bricks",
+      "id": "chipped:etched_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_andesite_tiles",
+      "id": "chipped:flat_andesite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_andesite",
+      "id": "chipped:inlayed_andesite",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_andesite",
+      "id": "chipped:inscribed_andesite",
       "count": 1
     },
     {
-      "item": "chipped:layed_andesite_bricks",
+      "id": "chipped:layed_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_andesite",
+      "id": "chipped:loded_andesite",
       "count": 1
     },
     {
-      "item": "chipped:offset_andesite_bricks",
+      "id": "chipped:offset_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_andesite_bricks",
+      "id": "chipped:pillar_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_andesite_remnants",
+      "id": "chipped:prismal_andesite_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_andesite",
+      "id": "chipped:rough_andesite",
       "count": 1
     },
     {
-      "item": "chipped:rounded_andesite_bricks",
+      "id": "chipped:rounded_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_andesite",
+      "id": "chipped:runic_carved_andesite",
       "count": 1
     },
     {
-      "item": "chipped:sad_andesite",
+      "id": "chipped:sad_andesite",
       "count": 1
     },
     {
-      "item": "chipped:sanded_andesite",
+      "id": "chipped:sanded_andesite",
       "count": 1
     },
     {
-      "item": "chipped:small_andesite_bricks",
+      "id": "chipped:small_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_andesite",
+      "id": "chipped:smooth_inlayed_andesite",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_andesite",
+      "id": "chipped:smooth_ringed_andesite",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_andesite",
+      "id": "chipped:smoothed_double_inlayed_andesite",
       "count": 1
     },
     {
-      "item": "chipped:spider_andesite_carving",
+      "id": "chipped:spider_andesite_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_andesite",
+      "id": "chipped:spiraled_andesite",
       "count": 1
     },
     {
-      "item": "chipped:stacked_andesite_bricks",
+      "id": "chipped:stacked_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_andesite",
+      "id": "chipped:tiled_andesite",
       "count": 1
     },
     {
-      "item": "chipped:tiny_andesite_bricks",
+      "id": "chipped:tiny_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_andesite_bricks",
+      "id": "chipped:tiny_layered_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_andesite_slabs",
+      "id": "chipped:tiny_layered_andesite_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_andesite",
+      "id": "chipped:trodden_andesite",
       "count": 1
     },
     {
-      "item": "chipped:unamused_andesite",
+      "id": "chipped:unamused_andesite",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_andesite",
+      "id": "chipped:vertical_cut_andesite",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_andesite_bricks",
+      "id": "chipped:vertical_disordered_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_andesite",
+      "id": "chipped:weathered_andesite",
       "count": 1
     },
     {
-      "item": "chipped:bordered_andesite",
+      "id": "chipped:bordered_andesite",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_andesite",
+      "id": "chipped:brick_bordered_andesite",
       "count": 1
     },
     {
-      "item": "chipped:cut_andesite_column",
+      "id": "chipped:cut_andesite_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_andesite_bricks",
+      "id": "chipped:edged_andesite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_andesite_tiles",
+      "id": "chipped:overlapping_andesite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_andesite",
+      "id": "chipped:polished_andesite",
       "count": 1
     },
     {
-      "item": "chipped:smooth_andesite_column",
+      "id": "chipped:smooth_andesite_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_andesite",
+      "id": "chipped:thick_inlayed_andesite",
       "count": 1
     },
     {
-      "item": "chipped:tiled_andesite_column",
+      "id": "chipped:tiled_andesite_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_andesite",
+      "id": "chipped:tiled_bordered_andesite",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_andesite",
+      "id": "chipped:tiny_brick_bordered_andesite",
       "count": 1
     },
     {
-      "item": "chipped:curly_andesite_pillar",
+      "id": "chipped:curly_andesite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_andesite_pillar",
+      "id": "chipped:fine_andesite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_andesite_pillar",
+      "id": "chipped:ornate_andesite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_andesite_pillar",
+      "id": "chipped:simple_andesite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_andesite_bricks",
+      "id": "chipped:massive_andesite_bricks",
       "count": 1
     }
   ]

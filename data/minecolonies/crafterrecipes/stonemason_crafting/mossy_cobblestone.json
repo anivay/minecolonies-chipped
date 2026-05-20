@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:mossy_cobblestone",
+      "id": "minecraft:mossy_cobblestone",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:mossy_cobblestone_bricks",
+    "id": "chipped:mossy_cobblestone_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:mossy_cobblestone_mini_tiles",
+      "id": "chipped:mossy_cobblestone_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:mossy_cobblestone_pillar",
+      "id": "chipped:mossy_cobblestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:mossy_cobblestone_pillar_top",
+      "id": "chipped:mossy_cobblestone_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:mossy_cobblestone_scales",
+      "id": "chipped:mossy_cobblestone_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_mossy_cobblestone",
+      "id": "chipped:angry_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:blank_mossy_cobblestone_carving",
+      "id": "chipped:blank_mossy_cobblestone_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_mossy_cobblestone",
+      "id": "chipped:carved_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:checkered_mossy_cobblestone_tiles",
+      "id": "chipped:checkered_mossy_cobblestone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_mossy_cobblestone",
+      "id": "chipped:cobbled_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:cracked_mossy_cobblestone_bricks",
+      "id": "chipped:cracked_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_mossy_cobblestone_bricks",
+      "id": "chipped:cracked_disordered_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_mossy_cobblestone_tiles",
+      "id": "chipped:cracked_flat_mossy_cobblestone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_mossy_cobblestone_carving",
+      "id": "chipped:creeper_mossy_cobblestone_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_mossy_cobblestone",
+      "id": "chipped:crying_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_mossy_cobblestone",
+      "id": "chipped:cut_blank_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:glad_mossy_cobblestone",
+      "id": "chipped:glad_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:duh_mossy_cobblestone",
+      "id": "chipped:duh_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:engraved_mossy_cobblestone",
+      "id": "chipped:engraved_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:eroded_mossy_cobblestone",
+      "id": "chipped:eroded_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:etched_mossy_cobblestone_bricks",
+      "id": "chipped:etched_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_mossy_cobblestone_tiles",
+      "id": "chipped:flat_mossy_cobblestone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_mossy_cobblestone",
+      "id": "chipped:inlayed_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_mossy_cobblestone",
+      "id": "chipped:inscribed_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:layed_mossy_cobblestone_bricks",
+      "id": "chipped:layed_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_mossy_cobblestone",
+      "id": "chipped:loded_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:offset_mossy_cobblestone_bricks",
+      "id": "chipped:offset_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_mossy_cobblestone_bricks",
+      "id": "chipped:pillar_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_mossy_cobblestone_remnants",
+      "id": "chipped:prismal_mossy_cobblestone_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_mossy_cobblestone",
+      "id": "chipped:rough_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:rounded_mossy_cobblestone_bricks",
+      "id": "chipped:rounded_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_mossy_cobblestone",
+      "id": "chipped:runic_carved_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:sad_mossy_cobblestone",
+      "id": "chipped:sad_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:sanded_mossy_cobblestone",
+      "id": "chipped:sanded_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:small_mossy_cobblestone_bricks",
+      "id": "chipped:small_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_mossy_cobblestone",
+      "id": "chipped:smooth_inlayed_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_mossy_cobblestone",
+      "id": "chipped:smooth_ringed_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_mossy_cobblestone",
+      "id": "chipped:smoothed_double_inlayed_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:spider_mossy_cobblestone_carving",
+      "id": "chipped:spider_mossy_cobblestone_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_mossy_cobblestone",
+      "id": "chipped:spiraled_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:stacked_mossy_cobblestone_bricks",
+      "id": "chipped:stacked_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_mossy_cobblestone",
+      "id": "chipped:tiled_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_mossy_cobblestone_bricks",
+      "id": "chipped:tiny_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_mossy_cobblestone_bricks",
+      "id": "chipped:tiny_layered_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_mossy_cobblestone_slabs",
+      "id": "chipped:tiny_layered_mossy_cobblestone_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_mossy_cobblestone",
+      "id": "chipped:trodden_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:unamused_mossy_cobblestone",
+      "id": "chipped:unamused_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_mossy_cobblestone",
+      "id": "chipped:vertical_cut_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_mossy_cobblestone_bricks",
+      "id": "chipped:vertical_disordered_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_mossy_cobblestone",
+      "id": "chipped:weathered_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:bordered_mossy_cobblestone",
+      "id": "chipped:bordered_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_mossy_cobblestone",
+      "id": "chipped:brick_bordered_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:cut_mossy_cobblestone_column",
+      "id": "chipped:cut_mossy_cobblestone_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_mossy_cobblestone_bricks",
+      "id": "chipped:edged_mossy_cobblestone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_mossy_cobblestone_tiles",
+      "id": "chipped:overlapping_mossy_cobblestone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_mossy_cobblestone",
+      "id": "chipped:polished_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_mossy_cobblestone_column",
+      "id": "chipped:smooth_mossy_cobblestone_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_mossy_cobblestone",
+      "id": "chipped:thick_inlayed_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:tiled_mossy_cobblestone_column",
+      "id": "chipped:tiled_mossy_cobblestone_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_mossy_cobblestone",
+      "id": "chipped:tiled_bordered_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_mossy_cobblestone",
+      "id": "chipped:tiny_brick_bordered_mossy_cobblestone",
       "count": 1
     },
     {
-      "item": "chipped:curly_mossy_cobblestone_pillar",
+      "id": "chipped:curly_mossy_cobblestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_mossy_cobblestone_pillar",
+      "id": "chipped:fine_mossy_cobblestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_mossy_cobblestone_pillar",
+      "id": "chipped:ornate_mossy_cobblestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_mossy_cobblestone_pillar",
+      "id": "chipped:simple_mossy_cobblestone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_mossy_cobblestone_bricks",
+      "id": "chipped:massive_mossy_cobblestone_bricks",
       "count": 1
     }
   ]

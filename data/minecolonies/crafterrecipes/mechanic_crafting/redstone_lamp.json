@@ -3,82 +3,82 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:redstone_lamp",
+      "id": "minecraft:redstone_lamp",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:edged_redstone_lamp",
+    "id": "chipped:edged_redstone_lamp",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:edged_white_redstone_lamp",
+      "id": "chipped:edged_white_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:fancy_redstone_lamp",
+      "id": "chipped:fancy_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:fancy_white_redstone_lamp",
+      "id": "chipped:fancy_white_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:hived_redstone_lamp",
+      "id": "chipped:hived_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:hived_white_redstone_lamp",
+      "id": "chipped:hived_white_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_redstone_lamp",
+      "id": "chipped:inlayed_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_white_redstone_lamp",
+      "id": "chipped:inlayed_white_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:nice_redstone_lamp",
+      "id": "chipped:nice_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:nice_white_redstone_lamp",
+      "id": "chipped:nice_white_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:ornate_redstone_lamp",
+      "id": "chipped:ornate_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:ornate_white_redstone_lamp",
+      "id": "chipped:ornate_white_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_redstone_lamp",
+      "id": "chipped:reinforced_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_white_redstone_lamp",
+      "id": "chipped:reinforced_white_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:smooth_redstone_lamp",
+      "id": "chipped:smooth_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:smooth_white_redstone_lamp",
+      "id": "chipped:smooth_white_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_redstone_lamp",
+      "id": "chipped:thick_inlayed_redstone_lamp",
       "count": 1
     },
     {
-      "item": "chipped:thick_white_inlayed_redstone_lamp",
+      "id": "chipped:thick_white_inlayed_redstone_lamp",
       "count": 1
     }
   ]

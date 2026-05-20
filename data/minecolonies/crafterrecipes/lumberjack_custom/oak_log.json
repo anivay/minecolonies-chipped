@@ -3,54 +3,54 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:oak_log",
+      "id": "minecraft:oak_log",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bundled_oak_log",
+    "id": "chipped:bundled_oak_log",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:center_cut_oak_log",
+      "id": "chipped:center_cut_oak_log",
       "count": 1
     },
     {
-      "item": "chipped:damaged_oak_log",
+      "id": "chipped:damaged_oak_log",
       "count": 1
     },
     {
-      "item": "chipped:edge_cut_oak_log",
+      "id": "chipped:edge_cut_oak_log",
       "count": 1
     },
     {
-      "item": "chipped:firewood_oak_log",
+      "id": "chipped:firewood_oak_log",
       "count": 1
     },
     {
-      "item": "chipped:flowering_oak_log",
+      "id": "chipped:flowering_oak_log",
       "count": 1
     },
     {
-      "item": "chipped:mixed_oak_log",
+      "id": "chipped:mixed_oak_log",
       "count": 1
     },
     {
-      "item": "chipped:nailed_oak_log",
+      "id": "chipped:nailed_oak_log",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_oak_log",
+      "id": "chipped:overgrown_oak_log",
       "count": 1
     },
     {
-      "item": "chipped:planked_oak_log",
+      "id": "chipped:planked_oak_log",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_oak_log",
+      "id": "chipped:reinforced_oak_log",
       "count": 1
     }
   ]

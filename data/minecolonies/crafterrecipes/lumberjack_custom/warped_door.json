@@ -3,82 +3,82 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:warped_door",
+      "id": "minecraft:warped_door",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barred_warped_door",
+    "id": "chipped:barred_warped_door",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:beach_warped_door",
+      "id": "chipped:beach_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:boarded_warped_door",
+      "id": "chipped:boarded_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:dual_paneled_warped_door",
+      "id": "chipped:dual_paneled_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:fortified_warped_door",
+      "id": "chipped:fortified_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:gated_warped_door",
+      "id": "chipped:gated_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:glass_warped_door",
+      "id": "chipped:glass_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:heavy_warped_door",
+      "id": "chipped:heavy_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:paneled_warped_door",
+      "id": "chipped:paneled_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:paper_warped_door",
+      "id": "chipped:paper_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:pressed_warped_door",
+      "id": "chipped:pressed_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:screen_warped_door",
+      "id": "chipped:screen_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:secret_warped_door",
+      "id": "chipped:secret_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:shack_warped_door",
+      "id": "chipped:shack_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:supported_warped_door",
+      "id": "chipped:supported_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:tile_windowed_warped_door",
+      "id": "chipped:tile_windowed_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:tiled_warped_door",
+      "id": "chipped:tiled_warped_door",
       "count": 1
     },
     {
-      "item": "chipped:windowed_warped_door",
+      "id": "chipped:windowed_warped_door",
       "count": 1
     }
   ]

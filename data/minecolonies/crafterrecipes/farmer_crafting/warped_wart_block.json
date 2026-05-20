@@ -3,66 +3,66 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:warped_wart_block",
+      "id": "minecraft:warped_wart_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bubbling_warped_wart_block",
+    "id": "chipped:bubbling_warped_wart_block",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:crumbled_warped_wart_block",
+      "id": "chipped:crumbled_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:dried_warped_wart_block",
+      "id": "chipped:dried_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:erratic_warped_wart_block",
+      "id": "chipped:erratic_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:eyed_warped_wart_block",
+      "id": "chipped:eyed_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:patched_warped_wart_block",
+      "id": "chipped:patched_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:porous_warped_wart_block",
+      "id": "chipped:porous_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:rough_warped_wart_block",
+      "id": "chipped:rough_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:scabbed_warped_wart_block",
+      "id": "chipped:scabbed_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:scaled_warped_wart_block",
+      "id": "chipped:scaled_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:seared_warped_wart_block",
+      "id": "chipped:seared_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:semi_spongy_warped_wart_block",
+      "id": "chipped:semi_spongy_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:speckled_warped_wart_block",
+      "id": "chipped:speckled_warped_wart_block",
       "count": 1
     },
     {
-      "item": "chipped:spongy_warped_wart_block",
+      "id": "chipped:spongy_warped_wart_block",
       "count": 1
     }
   ]

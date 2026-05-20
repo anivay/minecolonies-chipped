@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:calcite",
+      "id": "minecraft:calcite",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:calcite_bricks",
+    "id": "chipped:calcite_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:calcite_mini_tiles",
+      "id": "chipped:calcite_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:calcite_pillar",
+      "id": "chipped:calcite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:calcite_pillar_top",
+      "id": "chipped:calcite_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:calcite_scales",
+      "id": "chipped:calcite_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_calcite",
+      "id": "chipped:angry_calcite",
       "count": 1
     },
     {
-      "item": "chipped:blank_calcite_carving",
+      "id": "chipped:blank_calcite_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_calcite",
+      "id": "chipped:carved_calcite",
       "count": 1
     },
     {
-      "item": "chipped:checkered_calcite_tiles",
+      "id": "chipped:checkered_calcite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_calcite",
+      "id": "chipped:cobbled_calcite",
       "count": 1
     },
     {
-      "item": "chipped:cracked_calcite_bricks",
+      "id": "chipped:cracked_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_calcite_bricks",
+      "id": "chipped:cracked_disordered_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_calcite_tiles",
+      "id": "chipped:cracked_flat_calcite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_calcite_carving",
+      "id": "chipped:creeper_calcite_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_calcite",
+      "id": "chipped:crying_calcite",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_calcite",
+      "id": "chipped:cut_blank_calcite",
       "count": 1
     },
     {
-      "item": "chipped:glad_calcite",
+      "id": "chipped:glad_calcite",
       "count": 1
     },
     {
-      "item": "chipped:duh_calcite",
+      "id": "chipped:duh_calcite",
       "count": 1
     },
     {
-      "item": "chipped:engraved_calcite",
+      "id": "chipped:engraved_calcite",
       "count": 1
     },
     {
-      "item": "chipped:eroded_calcite",
+      "id": "chipped:eroded_calcite",
       "count": 1
     },
     {
-      "item": "chipped:etched_calcite_bricks",
+      "id": "chipped:etched_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_calcite_tiles",
+      "id": "chipped:flat_calcite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_calcite",
+      "id": "chipped:inlayed_calcite",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_calcite",
+      "id": "chipped:inscribed_calcite",
       "count": 1
     },
     {
-      "item": "chipped:layed_calcite_bricks",
+      "id": "chipped:layed_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_calcite",
+      "id": "chipped:loded_calcite",
       "count": 1
     },
     {
-      "item": "chipped:offset_calcite_bricks",
+      "id": "chipped:offset_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_calcite_bricks",
+      "id": "chipped:pillar_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_calcite_remnants",
+      "id": "chipped:prismal_calcite_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_calcite",
+      "id": "chipped:rough_calcite",
       "count": 1
     },
     {
-      "item": "chipped:rounded_calcite_bricks",
+      "id": "chipped:rounded_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_calcite",
+      "id": "chipped:runic_carved_calcite",
       "count": 1
     },
     {
-      "item": "chipped:sad_calcite",
+      "id": "chipped:sad_calcite",
       "count": 1
     },
     {
-      "item": "chipped:sanded_calcite",
+      "id": "chipped:sanded_calcite",
       "count": 1
     },
     {
-      "item": "chipped:small_calcite_bricks",
+      "id": "chipped:small_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_calcite",
+      "id": "chipped:smooth_inlayed_calcite",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_calcite",
+      "id": "chipped:smooth_ringed_calcite",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_calcite",
+      "id": "chipped:smoothed_double_inlayed_calcite",
       "count": 1
     },
     {
-      "item": "chipped:spider_calcite_carving",
+      "id": "chipped:spider_calcite_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_calcite",
+      "id": "chipped:spiraled_calcite",
       "count": 1
     },
     {
-      "item": "chipped:stacked_calcite_bricks",
+      "id": "chipped:stacked_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_calcite",
+      "id": "chipped:tiled_calcite",
       "count": 1
     },
     {
-      "item": "chipped:tiny_calcite_bricks",
+      "id": "chipped:tiny_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_calcite_bricks",
+      "id": "chipped:tiny_layered_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_calcite_slabs",
+      "id": "chipped:tiny_layered_calcite_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_calcite",
+      "id": "chipped:trodden_calcite",
       "count": 1
     },
     {
-      "item": "chipped:unamused_calcite",
+      "id": "chipped:unamused_calcite",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_calcite",
+      "id": "chipped:vertical_cut_calcite",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_calcite_bricks",
+      "id": "chipped:vertical_disordered_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_calcite",
+      "id": "chipped:weathered_calcite",
       "count": 1
     },
     {
-      "item": "chipped:bordered_calcite",
+      "id": "chipped:bordered_calcite",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_calcite",
+      "id": "chipped:brick_bordered_calcite",
       "count": 1
     },
     {
-      "item": "chipped:cut_calcite_column",
+      "id": "chipped:cut_calcite_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_calcite_bricks",
+      "id": "chipped:edged_calcite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_calcite_tiles",
+      "id": "chipped:overlapping_calcite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_calcite",
+      "id": "chipped:polished_calcite",
       "count": 1
     },
     {
-      "item": "chipped:smooth_calcite_column",
+      "id": "chipped:smooth_calcite_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_calcite",
+      "id": "chipped:thick_inlayed_calcite",
       "count": 1
     },
     {
-      "item": "chipped:tiled_calcite_column",
+      "id": "chipped:tiled_calcite_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_calcite",
+      "id": "chipped:tiled_bordered_calcite",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_calcite",
+      "id": "chipped:tiny_brick_bordered_calcite",
       "count": 1
     },
     {
-      "item": "chipped:curly_calcite_pillar",
+      "id": "chipped:curly_calcite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_calcite_pillar",
+      "id": "chipped:fine_calcite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_calcite_pillar",
+      "id": "chipped:ornate_calcite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_calcite_pillar",
+      "id": "chipped:simple_calcite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_calcite_bricks",
+      "id": "chipped:massive_calcite_bricks",
       "count": 1
     }
   ]

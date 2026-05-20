@@ -3,142 +3,142 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:bookshelf",
+      "id": "minecraft:bookshelf",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:ancient_cubed_oak_bookshelf",
+    "id": "chipped:ancient_cubed_oak_bookshelf",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:ancient_oak_bookshelf",
+      "id": "chipped:ancient_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:ancient_oak_large_bookshelf",
+      "id": "chipped:ancient_oak_large_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:ancient_vertical_oak_bookshelf",
+      "id": "chipped:ancient_vertical_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:botanical_oak_bookshelf",
+      "id": "chipped:botanical_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:botanical_oak_cubed_bookshelf",
+      "id": "chipped:botanical_oak_cubed_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:botanical_oak_large_bookshelf",
+      "id": "chipped:botanical_oak_large_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:cubed_oak_bookshelf",
+      "id": "chipped:cubed_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:cubed_oak_empty_bookshelf",
+      "id": "chipped:cubed_oak_empty_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:cubed_oak_spaced_bookshelf",
+      "id": "chipped:cubed_oak_spaced_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:cubed_oak_webbed_bookshelf",
+      "id": "chipped:cubed_oak_webbed_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:curvy_bookshelf",
+      "id": "chipped:curvy_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:dusty_bookshelf",
+      "id": "chipped:dusty_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:full_bookshelf",
+      "id": "chipped:full_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:historical_oak_bookshelf",
+      "id": "chipped:historical_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:historical_oak_large_bookshelf",
+      "id": "chipped:historical_oak_large_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:mixed_cubed_oak_bookshelf",
+      "id": "chipped:mixed_cubed_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:mixed_oak_bookshelf",
+      "id": "chipped:mixed_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:mixed_oak_large_bookshelf",
+      "id": "chipped:mixed_oak_large_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:oak_bookshelf",
+      "id": "chipped:oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:oak_empty_bookshelf",
+      "id": "chipped:oak_empty_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:oak_large_bookshelf",
+      "id": "chipped:oak_large_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:oak_lighted_bookshelf",
+      "id": "chipped:oak_lighted_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:oak_lighted_large_bookshelf",
+      "id": "chipped:oak_lighted_large_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:oak_spaced_bookshelf",
+      "id": "chipped:oak_spaced_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:oak_spaced_large_bookshelf",
+      "id": "chipped:oak_spaced_large_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:oak_webbed_bookshelf",
+      "id": "chipped:oak_webbed_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:oak_webbed_large_bookshelf",
+      "id": "chipped:oak_webbed_large_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:vertical_botanical_oak_bookshelf",
+      "id": "chipped:vertical_botanical_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:vertical_mixed_oak_bookshelf",
+      "id": "chipped:vertical_mixed_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:vertical_oak_bookshelf",
+      "id": "chipped:vertical_oak_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:vertical_oak_lighted_bookshelf",
+      "id": "chipped:vertical_oak_lighted_bookshelf",
       "count": 1
     },
     {
-      "item": "chipped:vertical_oak_webbed_bookshelf",
+      "id": "chipped:vertical_oak_webbed_bookshelf",
       "count": 1
     }
   ]

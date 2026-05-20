@@ -3,94 +3,94 @@
   "crafter": "glassblower_crafting",
   "inputs": [
     {
-      "item": "minecraft:glass",
+      "id": "minecraft:glass",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:circle_oak_glass",
+    "id": "chipped:circle_oak_glass",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:fancy_leaded_glass",
+      "id": "chipped:fancy_leaded_glass",
       "count": 1
     },
     {
-      "item": "chipped:large_diamond_leaded_glass",
+      "id": "chipped:large_diamond_leaded_glass",
       "count": 1
     },
     {
-      "item": "chipped:lead_woven_glass",
+      "id": "chipped:lead_woven_glass",
       "count": 1
     },
     {
-      "item": "chipped:oak_snowflake_glass",
+      "id": "chipped:oak_snowflake_glass",
       "count": 1
     },
     {
-      "item": "chipped:square_leaded_glass",
+      "id": "chipped:square_leaded_glass",
       "count": 1
     },
     {
-      "item": "chipped:vertical_leaded_glass",
+      "id": "chipped:vertical_leaded_glass",
       "count": 1
     },
     {
-      "item": "chipped:arched_leaded_glass_pillar",
+      "id": "chipped:arched_leaded_glass_pillar",
       "count": 1
     },
     {
-      "item": "chipped:clear_leaded_glass",
+      "id": "chipped:clear_leaded_glass",
       "count": 1
     },
     {
-      "item": "chipped:oak_bared_glass",
+      "id": "chipped:oak_bared_glass",
       "count": 1
     },
     {
-      "item": "chipped:oak_bordered_glass",
+      "id": "chipped:oak_bordered_glass",
       "count": 1
     },
     {
-      "item": "chipped:oak_diamond_bordered_glass",
+      "id": "chipped:oak_diamond_bordered_glass",
       "count": 1
     },
     {
-      "item": "chipped:oak_horizontal_lined_glass",
+      "id": "chipped:oak_horizontal_lined_glass",
       "count": 1
     },
     {
-      "item": "chipped:oak_large_diamond_glass",
+      "id": "chipped:oak_large_diamond_glass",
       "count": 1
     },
     {
-      "item": "chipped:oak_line_bared_glass",
+      "id": "chipped:oak_line_bared_glass",
       "count": 1
     },
     {
-      "item": "chipped:oak_ornate_bared_glass",
+      "id": "chipped:oak_ornate_bared_glass",
       "count": 1
     },
     {
-      "item": "chipped:oak_woven_glass",
+      "id": "chipped:oak_woven_glass",
       "count": 1
     },
     {
-      "item": "chipped:ornate_leaded_glass",
+      "id": "chipped:ornate_leaded_glass",
       "count": 1
     },
     {
-      "item": "chipped:raster_leaded_glass",
+      "id": "chipped:raster_leaded_glass",
       "count": 1
     },
     {
-      "item": "chipped:small_diamond_leaded_glass",
+      "id": "chipped:small_diamond_leaded_glass",
       "count": 1
     },
     {
-      "item": "chipped:square_oak_glass",
+      "id": "chipped:square_oak_glass",
       "count": 1
     }
   ]

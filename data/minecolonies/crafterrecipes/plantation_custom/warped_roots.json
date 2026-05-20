@@ -3,46 +3,46 @@
   "crafter": "plantation_custom",
   "inputs": [
     {
-      "item": "minecraft:warped_roots",
+      "id": "minecraft:warped_roots",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bloomed_warped_roots",
+    "id": "chipped:bloomed_warped_roots",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:flowering_warped_roots",
+      "id": "chipped:flowering_warped_roots",
       "count": 1
     },
     {
-      "item": "chipped:half_grown_warped_roots",
+      "id": "chipped:half_grown_warped_roots",
       "count": 1
     },
     {
-      "item": "chipped:lily_warped_roots",
+      "id": "chipped:lily_warped_roots",
       "count": 1
     },
     {
-      "item": "chipped:mangled_warped_roots",
+      "id": "chipped:mangled_warped_roots",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_warped_roots",
+      "id": "chipped:overgrown_warped_roots",
       "count": 1
     },
     {
-      "item": "chipped:stem_warped_roots",
+      "id": "chipped:stem_warped_roots",
       "count": 1
     },
     {
-      "item": "chipped:wiggly_warped_roots",
+      "id": "chipped:wiggly_warped_roots",
       "count": 1
     },
     {
-      "item": "chipped:young_warped_roots",
+      "id": "chipped:young_warped_roots",
       "count": 1
     }
   ]

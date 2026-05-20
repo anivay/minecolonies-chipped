@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:red_sandstone",
+      "id": "minecraft:red_sandstone",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:red_sandstone_bricks",
+    "id": "chipped:red_sandstone_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:red_sandstone_mini_tiles",
+      "id": "chipped:red_sandstone_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:red_sandstone_pillar",
+      "id": "chipped:red_sandstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:red_sandstone_pillar_top",
+      "id": "chipped:red_sandstone_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:red_sandstone_scales",
+      "id": "chipped:red_sandstone_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_red_sandstone",
+      "id": "chipped:angry_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:blank_red_sandstone_carving",
+      "id": "chipped:blank_red_sandstone_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_red_sandstone",
+      "id": "chipped:carved_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:checkered_red_sandstone_tiles",
+      "id": "chipped:checkered_red_sandstone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_red_sandstone",
+      "id": "chipped:cobbled_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:cracked_red_sandstone_bricks",
+      "id": "chipped:cracked_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_red_sandstone_bricks",
+      "id": "chipped:cracked_disordered_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_red_sandstone_tiles",
+      "id": "chipped:cracked_flat_red_sandstone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_red_sandstone_carving",
+      "id": "chipped:creeper_red_sandstone_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_red_sandstone",
+      "id": "chipped:crying_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_red_sandstone",
+      "id": "chipped:cut_blank_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:glad_red_sandstone",
+      "id": "chipped:glad_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:duh_red_sandstone",
+      "id": "chipped:duh_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:engraved_red_sandstone",
+      "id": "chipped:engraved_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:eroded_red_sandstone",
+      "id": "chipped:eroded_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:etched_red_sandstone_bricks",
+      "id": "chipped:etched_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_red_sandstone_tiles",
+      "id": "chipped:flat_red_sandstone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_red_sandstone",
+      "id": "chipped:inlayed_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_red_sandstone",
+      "id": "chipped:inscribed_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:layed_red_sandstone_bricks",
+      "id": "chipped:layed_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_red_sandstone",
+      "id": "chipped:loded_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:offset_red_sandstone_bricks",
+      "id": "chipped:offset_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_red_sandstone_bricks",
+      "id": "chipped:pillar_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_red_sandstone_remnants",
+      "id": "chipped:prismal_red_sandstone_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_red_sandstone",
+      "id": "chipped:rough_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:rounded_red_sandstone_bricks",
+      "id": "chipped:rounded_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_red_sandstone",
+      "id": "chipped:runic_carved_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:sad_red_sandstone",
+      "id": "chipped:sad_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:sanded_red_sandstone",
+      "id": "chipped:sanded_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:small_red_sandstone_bricks",
+      "id": "chipped:small_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_red_sandstone",
+      "id": "chipped:smooth_inlayed_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_red_sandstone",
+      "id": "chipped:smooth_ringed_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_red_sandstone",
+      "id": "chipped:smoothed_double_inlayed_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:spider_red_sandstone_carving",
+      "id": "chipped:spider_red_sandstone_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_red_sandstone",
+      "id": "chipped:spiraled_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:stacked_red_sandstone_bricks",
+      "id": "chipped:stacked_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_red_sandstone",
+      "id": "chipped:tiled_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_red_sandstone_bricks",
+      "id": "chipped:tiny_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_red_sandstone_bricks",
+      "id": "chipped:tiny_layered_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_red_sandstone_slabs",
+      "id": "chipped:tiny_layered_red_sandstone_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_red_sandstone",
+      "id": "chipped:trodden_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:unamused_red_sandstone",
+      "id": "chipped:unamused_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_red_sandstone",
+      "id": "chipped:vertical_cut_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_red_sandstone_bricks",
+      "id": "chipped:vertical_disordered_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_red_sandstone",
+      "id": "chipped:weathered_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:bordered_red_sandstone",
+      "id": "chipped:bordered_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_red_sandstone",
+      "id": "chipped:brick_bordered_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:cut_red_sandstone_column",
+      "id": "chipped:cut_red_sandstone_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_red_sandstone_bricks",
+      "id": "chipped:edged_red_sandstone_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_red_sandstone_tiles",
+      "id": "chipped:overlapping_red_sandstone_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_red_sandstone",
+      "id": "chipped:polished_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_red_sandstone_column",
+      "id": "chipped:smooth_red_sandstone_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_red_sandstone",
+      "id": "chipped:thick_inlayed_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:tiled_red_sandstone_column",
+      "id": "chipped:tiled_red_sandstone_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_red_sandstone",
+      "id": "chipped:tiled_bordered_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_red_sandstone",
+      "id": "chipped:tiny_brick_bordered_red_sandstone",
       "count": 1
     },
     {
-      "item": "chipped:curly_red_sandstone_pillar",
+      "id": "chipped:curly_red_sandstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_red_sandstone_pillar",
+      "id": "chipped:fine_red_sandstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_red_sandstone_pillar",
+      "id": "chipped:ornate_red_sandstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_red_sandstone_pillar",
+      "id": "chipped:simple_red_sandstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_red_sandstone_bricks",
+      "id": "chipped:massive_red_sandstone_bricks",
       "count": 1
     }
   ]

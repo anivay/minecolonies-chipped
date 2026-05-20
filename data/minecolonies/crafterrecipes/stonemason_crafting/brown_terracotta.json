@@ -3,78 +3,78 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:brown_terracotta",
+      "id": "minecraft:brown_terracotta",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:brown_terracotta_bricks",
+    "id": "chipped:brown_terracotta_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:brown_terracotta_tile",
+      "id": "chipped:brown_terracotta_tile",
       "count": 1
     },
     {
-      "item": "chipped:brown_terracotta_tiles",
+      "id": "chipped:brown_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:chiseled_brown_terracotta",
+      "id": "chipped:chiseled_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:crossed_brown_terracotta",
+      "id": "chipped:crossed_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:cut_brown_terracotta",
+      "id": "chipped:cut_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:decorated_brown_terracotta",
+      "id": "chipped:decorated_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:layered_brown_terracotta",
+      "id": "chipped:layered_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:triangular_brown_terracotta",
+      "id": "chipped:triangular_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:brown_terracotta_column",
+      "id": "chipped:brown_terracotta_column",
       "count": 1
     },
     {
-      "item": "chipped:brown_terracotta_pillar",
+      "id": "chipped:brown_terracotta_pillar",
       "count": 1
     },
     {
-      "item": "chipped:small_brown_terracotta_tiles",
+      "id": "chipped:small_brown_terracotta_tiles",
       "count": 1
     },
     {
-      "item": "chipped:curled_brown_terracotta",
+      "id": "chipped:curled_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:hexagonical_brown_terracotta",
+      "id": "chipped:hexagonical_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:circular_brown_terracotta",
+      "id": "chipped:circular_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_brown_terracotta",
+      "id": "chipped:inscribed_brown_terracotta",
       "count": 1
     },
     {
-      "item": "chipped:starry_brown_terracotta",
+      "id": "chipped:starry_brown_terracotta",
       "count": 1
     }
   ]

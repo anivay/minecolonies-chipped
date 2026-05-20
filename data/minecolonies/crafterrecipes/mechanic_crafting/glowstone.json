@@ -3,90 +3,90 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:glowstone",
+      "id": "minecraft:glowstone",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:broken_glowstone",
+    "id": "chipped:broken_glowstone",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:bulbed_glowstone",
+      "id": "chipped:bulbed_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:cracked_glowstone",
+      "id": "chipped:cracked_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:double_inlayed_glowstone",
+      "id": "chipped:double_inlayed_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:edged_glowstone_lantern",
+      "id": "chipped:edged_glowstone_lantern",
       "count": 1
     },
     {
-      "item": "chipped:fancy_glowstone_lantern",
+      "id": "chipped:fancy_glowstone_lantern",
       "count": 1
     },
     {
-      "item": "chipped:framed_glowstone_lantern",
+      "id": "chipped:framed_glowstone_lantern",
       "count": 1
     },
     {
-      "item": "chipped:glowing_lodestone_side",
+      "id": "chipped:glowing_lodestone_side",
       "count": 1
     },
     {
-      "item": "chipped:glowstone_lantern",
+      "id": "chipped:glowstone_lantern",
       "count": 1
     },
     {
-      "item": "chipped:hived_glowstone",
+      "id": "chipped:hived_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_glowstone",
+      "id": "chipped:inlayed_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:nether_engraved_glowstone",
+      "id": "chipped:nether_engraved_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:ornate_glowstone_lantern",
+      "id": "chipped:ornate_glowstone_lantern",
       "count": 1
     },
     {
-      "item": "chipped:patterned_glowstone",
+      "id": "chipped:patterned_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:polished_glowstone",
+      "id": "chipped:polished_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:shimmering_glowstone",
+      "id": "chipped:shimmering_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:smooth_glowstone",
+      "id": "chipped:smooth_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_glowstone",
+      "id": "chipped:thick_inlayed_glowstone",
       "count": 1
     },
     {
-      "item": "chipped:tiled_glowstone_pillar",
+      "id": "chipped:tiled_glowstone_pillar",
       "count": 1
     },
     {
-      "item": "chipped:wither_engraved_glowstone",
+      "id": "chipped:wither_engraved_glowstone",
       "count": 1
     }
   ]

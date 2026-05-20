@@ -3,98 +3,98 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:oak_trapdoor",
+      "id": "minecraft:oak_trapdoor",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:airy_oak_trapdoor",
+    "id": "chipped:airy_oak_trapdoor",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:barred_oak_trapdoor",
+      "id": "chipped:barred_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:checkered_oak_trapdoor",
+      "id": "chipped:checkered_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:classic_windowed_oak_trapdoor",
+      "id": "chipped:classic_windowed_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:cobweb_oak_trapdoor",
+      "id": "chipped:cobweb_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:distorted_oak_trapdoor",
+      "id": "chipped:distorted_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:fancy_oak_trapdoor",
+      "id": "chipped:fancy_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:golden_barred_oak_trapdoor",
+      "id": "chipped:golden_barred_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:heavy_oak_trapdoor",
+      "id": "chipped:heavy_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:iron_barred_oak_trapdoor",
+      "id": "chipped:iron_barred_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:leafy_oak_trapdoor",
+      "id": "chipped:leafy_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:meshed_oak_trapdoor",
+      "id": "chipped:meshed_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_oak_trapdoor",
+      "id": "chipped:overgrown_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:pointless_oak_trapdoor",
+      "id": "chipped:pointless_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:slotted_oak_trapdoor",
+      "id": "chipped:slotted_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:solid_oak_trapdoor",
+      "id": "chipped:solid_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:suspicious_oak_trapdoor",
+      "id": "chipped:suspicious_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:twisted_oak_trapdoor",
+      "id": "chipped:twisted_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:vined_oak_trapdoor",
+      "id": "chipped:vined_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:warted_oak_trapdoor",
+      "id": "chipped:warted_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:windowed_oak_trapdoor",
+      "id": "chipped:windowed_oak_trapdoor",
       "count": 1
     },
     {
-      "item": "chipped:woven_oak_trapdoor",
+      "id": "chipped:woven_oak_trapdoor",
       "count": 1
     }
   ]

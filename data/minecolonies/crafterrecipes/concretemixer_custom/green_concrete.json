@@ -3,90 +3,90 @@
   "crafter": "concretemixer_custom",
   "inputs": [
     {
-      "item": "minecraft:green_concrete",
+      "id": "minecraft:green_concrete",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:green_concrete_bricks",
+    "id": "chipped:green_concrete_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:green_concrete_tiles",
+      "id": "chipped:green_concrete_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_green_concrete",
+      "id": "chipped:creeper_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grid_green_concrete",
+      "id": "chipped:grid_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:mosaic_green_concrete",
+      "id": "chipped:mosaic_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stacked_green_concrete",
+      "id": "chipped:stacked_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:stop_green_concrete",
+      "id": "chipped:stop_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:grill_green_concrete",
+      "id": "chipped:grill_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:green_concrete_panel",
+      "id": "chipped:green_concrete_panel",
       "count": 1
     },
     {
-      "item": "chipped:pegged_green_concrete",
+      "id": "chipped:pegged_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:smooth_green_concrete",
+      "id": "chipped:smooth_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:striped_green_concrete",
+      "id": "chipped:striped_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:wired_green_concrete",
+      "id": "chipped:wired_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:green_concrete_pillar",
+      "id": "chipped:green_concrete_pillar",
       "count": 1
     },
     {
-      "item": "chipped:bolted_green_concrete",
+      "id": "chipped:bolted_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:hazard_green_concrete",
+      "id": "chipped:hazard_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:railed_green_concrete",
+      "id": "chipped:railed_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_green_concrete",
+      "id": "chipped:reinforced_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:rusted_green_concrete",
+      "id": "chipped:rusted_green_concrete",
       "count": 1
     },
     {
-      "item": "chipped:warning_green_concrete",
+      "id": "chipped:warning_green_concrete",
       "count": 1
     }
   ]

@@ -3,274 +3,274 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:amethyst_block",
+      "id": "minecraft:amethyst_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:amethyst_block_bricks",
+    "id": "chipped:amethyst_block_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:amethyst_block_mini_tiles",
+      "id": "chipped:amethyst_block_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:amethyst_block_pillar",
+      "id": "chipped:amethyst_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:amethyst_block_pillar_top",
+      "id": "chipped:amethyst_block_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:amethyst_block_scales",
+      "id": "chipped:amethyst_block_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_amethyst_block",
+      "id": "chipped:angry_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:blank_amethyst_block_carving",
+      "id": "chipped:blank_amethyst_block_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_amethyst_block",
+      "id": "chipped:carved_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:checkered_amethyst_block_tiles",
+      "id": "chipped:checkered_amethyst_block_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_amethyst_block",
+      "id": "chipped:cobbled_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:cracked_amethyst_block_bricks",
+      "id": "chipped:cracked_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_amethyst_block_bricks",
+      "id": "chipped:cracked_disordered_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_amethyst_block_tiles",
+      "id": "chipped:cracked_flat_amethyst_block_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_amethyst_block_carving",
+      "id": "chipped:creeper_amethyst_block_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_amethyst_block",
+      "id": "chipped:crying_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_amethyst_block",
+      "id": "chipped:cut_blank_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:glad_amethyst_block",
+      "id": "chipped:glad_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:duh_amethyst_block",
+      "id": "chipped:duh_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:engraved_amethyst_block",
+      "id": "chipped:engraved_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:eroded_amethyst_block",
+      "id": "chipped:eroded_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:etched_amethyst_block_bricks",
+      "id": "chipped:etched_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_amethyst_block_tiles",
+      "id": "chipped:flat_amethyst_block_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_amethyst_block",
+      "id": "chipped:inlayed_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_amethyst_block",
+      "id": "chipped:inscribed_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:layed_amethyst_block_bricks",
+      "id": "chipped:layed_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_amethyst_block",
+      "id": "chipped:loded_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:offset_amethyst_block_bricks",
+      "id": "chipped:offset_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_amethyst_block_bricks",
+      "id": "chipped:pillar_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_amethyst_block_remnants",
+      "id": "chipped:prismal_amethyst_block_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_amethyst_block",
+      "id": "chipped:rough_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:rounded_amethyst_block_bricks",
+      "id": "chipped:rounded_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_amethyst_block",
+      "id": "chipped:runic_carved_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:sad_amethyst_block",
+      "id": "chipped:sad_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:sanded_amethyst_block",
+      "id": "chipped:sanded_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:small_amethyst_block_bricks",
+      "id": "chipped:small_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_amethyst_block",
+      "id": "chipped:smooth_inlayed_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_amethyst_block",
+      "id": "chipped:smooth_ringed_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_amethyst_block",
+      "id": "chipped:smoothed_double_inlayed_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:spider_amethyst_block_carving",
+      "id": "chipped:spider_amethyst_block_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_amethyst_block",
+      "id": "chipped:spiraled_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:stacked_amethyst_block_bricks",
+      "id": "chipped:stacked_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_amethyst_block",
+      "id": "chipped:tiled_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:tiny_amethyst_block_bricks",
+      "id": "chipped:tiny_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_amethyst_block_bricks",
+      "id": "chipped:tiny_layered_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_amethyst_block_slabs",
+      "id": "chipped:tiny_layered_amethyst_block_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_amethyst_block",
+      "id": "chipped:trodden_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:unamused_amethyst_block",
+      "id": "chipped:unamused_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_amethyst_block",
+      "id": "chipped:vertical_cut_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_amethyst_block_bricks",
+      "id": "chipped:vertical_disordered_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_amethyst_block",
+      "id": "chipped:weathered_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:bordered_amethyst_block",
+      "id": "chipped:bordered_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_amethyst_block",
+      "id": "chipped:brick_bordered_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:cut_amethyst_block_column",
+      "id": "chipped:cut_amethyst_block_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_amethyst_block_bricks",
+      "id": "chipped:edged_amethyst_block_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_amethyst_block_tiles",
+      "id": "chipped:overlapping_amethyst_block_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_amethyst_block",
+      "id": "chipped:polished_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:smooth_amethyst_block_column",
+      "id": "chipped:smooth_amethyst_block_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_amethyst_block",
+      "id": "chipped:thick_inlayed_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:tiled_amethyst_block_column",
+      "id": "chipped:tiled_amethyst_block_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_amethyst_block",
+      "id": "chipped:tiled_bordered_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_amethyst_block",
+      "id": "chipped:tiny_brick_bordered_amethyst_block",
       "count": 1
     },
     {
-      "item": "chipped:curly_amethyst_block_pillar",
+      "id": "chipped:curly_amethyst_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_amethyst_block_pillar",
+      "id": "chipped:fine_amethyst_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_amethyst_block_pillar",
+      "id": "chipped:ornate_amethyst_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_amethyst_block_pillar",
+      "id": "chipped:simple_amethyst_block_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_amethyst_block_bricks",
+      "id": "chipped:massive_amethyst_block_bricks",
       "count": 1
     }
   ]

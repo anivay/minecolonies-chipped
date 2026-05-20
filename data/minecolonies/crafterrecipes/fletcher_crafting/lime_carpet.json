@@ -3,90 +3,90 @@
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-      "item": "minecraft:lime_carpet",
+      "id": "minecraft:lime_carpet",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barky_lime_carpet",
+    "id": "chipped:barky_lime_carpet",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blocky_lime_carpet",
+      "id": "chipped:blocky_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:bundled_lime_carpet",
+      "id": "chipped:bundled_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cross_haired_lime_carpet",
+      "id": "chipped:cross_haired_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cubed_lime_carpet",
+      "id": "chipped:cubed_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:knitted_lime_carpet",
+      "id": "chipped:knitted_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:patched_lime_carpet",
+      "id": "chipped:patched_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:rectangle_lime_carpet",
+      "id": "chipped:rectangle_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:ribbled_lime_carpet",
+      "id": "chipped:ribbled_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:scaled_lime_carpet",
+      "id": "chipped:scaled_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:soft_lime_carpet",
+      "id": "chipped:soft_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:stringed_lime_carpet",
+      "id": "chipped:stringed_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tiled_lime_carpet",
+      "id": "chipped:tiled_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:tripped_lime_carpet",
+      "id": "chipped:tripped_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:wickered_lime_carpet",
+      "id": "chipped:wickered_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:windmill_lime_carpet",
+      "id": "chipped:windmill_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:woved_lime_carpet",
+      "id": "chipped:woved_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:cornered_lime_carpet",
+      "id": "chipped:cornered_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:crafted_lime_carpet",
+      "id": "chipped:crafted_lime_carpet",
       "count": 1
     },
     {
-      "item": "chipped:harsh_quilted_lime_carpet",
+      "id": "chipped:harsh_quilted_lime_carpet",
       "count": 1
     }
   ]

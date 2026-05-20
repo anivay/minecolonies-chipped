@@ -3,162 +3,162 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:crimson_planks",
+      "id": "minecraft:crimson_planks",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:crimson_planks_mosaic",
+    "id": "chipped:crimson_planks_mosaic",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:crimson_planks_shavings",
+      "id": "chipped:crimson_planks_shavings",
       "count": 1
     },
     {
-      "item": "chipped:basket_woven_crimson_planks",
+      "id": "chipped:basket_woven_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:boxed_crimson_planks",
+      "id": "chipped:boxed_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:brick_bond_crimson_planks",
+      "id": "chipped:brick_bond_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:bricky_crimson_planks",
+      "id": "chipped:bricky_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:cross_laced_crimson_planks",
+      "id": "chipped:cross_laced_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:crossed_crimson_planks",
+      "id": "chipped:crossed_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:detailed_crimson_planks",
+      "id": "chipped:detailed_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:diagonal_crimson_planks",
+      "id": "chipped:diagonal_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:diamond_crimson_planks",
+      "id": "chipped:diamond_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:double_herringbone_crimson_planks",
+      "id": "chipped:double_herringbone_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_crimson_planks",
+      "id": "chipped:fine_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:fine_vertical_crimson_planks",
+      "id": "chipped:fine_vertical_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:herringbone_crimson_planks",
+      "id": "chipped:herringbone_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:hewn_crimson_planks",
+      "id": "chipped:hewn_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:laced_crimson_planks",
+      "id": "chipped:laced_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:nailed_crimson_planks",
+      "id": "chipped:nailed_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:polished_crimson_planks",
+      "id": "chipped:polished_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:railed_crimson_planks",
+      "id": "chipped:railed_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:shifted_crimson_planks",
+      "id": "chipped:shifted_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:slanted_crimson_planks",
+      "id": "chipped:slanted_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_crimson_planks",
+      "id": "chipped:smooth_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:stacked_crimson_planks",
+      "id": "chipped:stacked_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:thin_crimson_planks",
+      "id": "chipped:thin_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_crimson_planks",
+      "id": "chipped:tiled_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:versailles_crimson_planks",
+      "id": "chipped:versailles_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertical_crimson_planks",
+      "id": "chipped:vertical_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:vertically_railed_crimson_planks",
+      "id": "chipped:vertically_railed_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:wickered_crimson_planks",
+      "id": "chipped:wickered_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:crimson_planks_panel",
+      "id": "chipped:crimson_planks_panel",
       "count": 1
     },
     {
-      "item": "chipped:cornered_crimson_planks",
+      "id": "chipped:cornered_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:crated_crimson_planks",
+      "id": "chipped:crated_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:enclosed_crimson_planks",
+      "id": "chipped:enclosed_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:framed_crimson_planks",
+      "id": "chipped:framed_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:natural_crimson_planks",
+      "id": "chipped:natural_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:pegged_crimson_planks",
+      "id": "chipped:pegged_crimson_planks",
       "count": 1
     },
     {
-      "item": "chipped:whirlwind_crimson_planks",
+      "id": "chipped:whirlwind_crimson_planks",
       "count": 1
     }
   ]

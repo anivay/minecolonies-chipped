@@ -3,90 +3,90 @@
   "crafter": "plantation_custom",
   "inputs": [
     {
-      "item": "minecraft:nether_sprouts",
+      "id": "minecraft:nether_sprouts",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bolby_nether_sprouts",
+    "id": "chipped:bolby_nether_sprouts",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:bushy_nether_sprouts",
+      "id": "chipped:bushy_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:corny_nether_sprouts",
+      "id": "chipped:corny_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:corrupted_nether_sprouts",
+      "id": "chipped:corrupted_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:creeping_nether_sprouts",
+      "id": "chipped:creeping_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:crusted_nether_sprouts",
+      "id": "chipped:crusted_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:fired_nether_sprouts",
+      "id": "chipped:fired_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:flimsy_nether_sprouts",
+      "id": "chipped:flimsy_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:grizly_nether_sprouts",
+      "id": "chipped:grizly_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:high_nether_sprouts",
+      "id": "chipped:high_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:large_nether_sprouts",
+      "id": "chipped:large_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:nether_sprouts_weeds",
+      "id": "chipped:nether_sprouts_weeds",
       "count": 1
     },
     {
-      "item": "chipped:seeded_nether_sprouts",
+      "id": "chipped:seeded_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:short_nether_sprouts",
+      "id": "chipped:short_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:shroomy_nether_sprouts",
+      "id": "chipped:shroomy_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:tall_shroomy_nether_sprouts",
+      "id": "chipped:tall_shroomy_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:thin_nether_sprouts",
+      "id": "chipped:thin_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:tubed_nether_sprouts",
+      "id": "chipped:tubed_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:warty_nether_sprouts",
+      "id": "chipped:warty_nether_sprouts",
       "count": 1
     },
     {
-      "item": "chipped:wide_nether_sprouts",
+      "id": "chipped:wide_nether_sprouts",
       "count": 1
     }
   ]

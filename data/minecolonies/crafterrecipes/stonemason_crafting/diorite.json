@@ -3,274 +3,274 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:diorite",
+      "id": "minecraft:diorite",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:diorite_bricks",
+    "id": "chipped:diorite_bricks",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:diorite_mini_tiles",
+      "id": "chipped:diorite_mini_tiles",
       "count": 1
     },
     {
-      "item": "chipped:diorite_pillar",
+      "id": "chipped:diorite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:diorite_pillar_top",
+      "id": "chipped:diorite_pillar_top",
       "count": 1
     },
     {
-      "item": "chipped:diorite_scales",
+      "id": "chipped:diorite_scales",
       "count": 1
     },
     {
-      "item": "chipped:angry_diorite",
+      "id": "chipped:angry_diorite",
       "count": 1
     },
     {
-      "item": "chipped:blank_diorite_carving",
+      "id": "chipped:blank_diorite_carving",
       "count": 1
     },
     {
-      "item": "chipped:carved_diorite",
+      "id": "chipped:carved_diorite",
       "count": 1
     },
     {
-      "item": "chipped:checkered_diorite_tiles",
+      "id": "chipped:checkered_diorite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:cobbled_diorite",
+      "id": "chipped:cobbled_diorite",
       "count": 1
     },
     {
-      "item": "chipped:cracked_diorite_bricks",
+      "id": "chipped:cracked_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_disordered_diorite_bricks",
+      "id": "chipped:cracked_disordered_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:cracked_flat_diorite_tiles",
+      "id": "chipped:cracked_flat_diorite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:creeper_diorite_carving",
+      "id": "chipped:creeper_diorite_carving",
       "count": 1
     },
     {
-      "item": "chipped:crying_diorite",
+      "id": "chipped:crying_diorite",
       "count": 1
     },
     {
-      "item": "chipped:cut_blank_diorite",
+      "id": "chipped:cut_blank_diorite",
       "count": 1
     },
     {
-      "item": "chipped:glad_diorite",
+      "id": "chipped:glad_diorite",
       "count": 1
     },
     {
-      "item": "chipped:duh_diorite",
+      "id": "chipped:duh_diorite",
       "count": 1
     },
     {
-      "item": "chipped:engraved_diorite",
+      "id": "chipped:engraved_diorite",
       "count": 1
     },
     {
-      "item": "chipped:eroded_diorite",
+      "id": "chipped:eroded_diorite",
       "count": 1
     },
     {
-      "item": "chipped:etched_diorite_bricks",
+      "id": "chipped:etched_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:flat_diorite_tiles",
+      "id": "chipped:flat_diorite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:inlayed_diorite",
+      "id": "chipped:inlayed_diorite",
       "count": 1
     },
     {
-      "item": "chipped:inscribed_diorite",
+      "id": "chipped:inscribed_diorite",
       "count": 1
     },
     {
-      "item": "chipped:layed_diorite_bricks",
+      "id": "chipped:layed_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:loded_diorite",
+      "id": "chipped:loded_diorite",
       "count": 1
     },
     {
-      "item": "chipped:offset_diorite_bricks",
+      "id": "chipped:offset_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:pillar_diorite_bricks",
+      "id": "chipped:pillar_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:prismal_diorite_remnants",
+      "id": "chipped:prismal_diorite_remnants",
       "count": 1
     },
     {
-      "item": "chipped:rough_diorite",
+      "id": "chipped:rough_diorite",
       "count": 1
     },
     {
-      "item": "chipped:rounded_diorite_bricks",
+      "id": "chipped:rounded_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:runic_carved_diorite",
+      "id": "chipped:runic_carved_diorite",
       "count": 1
     },
     {
-      "item": "chipped:sad_diorite",
+      "id": "chipped:sad_diorite",
       "count": 1
     },
     {
-      "item": "chipped:sanded_diorite",
+      "id": "chipped:sanded_diorite",
       "count": 1
     },
     {
-      "item": "chipped:small_diorite_bricks",
+      "id": "chipped:small_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:smooth_inlayed_diorite",
+      "id": "chipped:smooth_inlayed_diorite",
       "count": 1
     },
     {
-      "item": "chipped:smooth_ringed_diorite",
+      "id": "chipped:smooth_ringed_diorite",
       "count": 1
     },
     {
-      "item": "chipped:smoothed_double_inlayed_diorite",
+      "id": "chipped:smoothed_double_inlayed_diorite",
       "count": 1
     },
     {
-      "item": "chipped:spider_diorite_carving",
+      "id": "chipped:spider_diorite_carving",
       "count": 1
     },
     {
-      "item": "chipped:spiraled_diorite",
+      "id": "chipped:spiraled_diorite",
       "count": 1
     },
     {
-      "item": "chipped:stacked_diorite_bricks",
+      "id": "chipped:stacked_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiled_diorite",
+      "id": "chipped:tiled_diorite",
       "count": 1
     },
     {
-      "item": "chipped:tiny_diorite_bricks",
+      "id": "chipped:tiny_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_diorite_bricks",
+      "id": "chipped:tiny_layered_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:tiny_layered_diorite_slabs",
+      "id": "chipped:tiny_layered_diorite_slabs",
       "count": 1
     },
     {
-      "item": "chipped:trodden_diorite",
+      "id": "chipped:trodden_diorite",
       "count": 1
     },
     {
-      "item": "chipped:unamused_diorite",
+      "id": "chipped:unamused_diorite",
       "count": 1
     },
     {
-      "item": "chipped:vertical_cut_diorite",
+      "id": "chipped:vertical_cut_diorite",
       "count": 1
     },
     {
-      "item": "chipped:vertical_disordered_diorite_bricks",
+      "id": "chipped:vertical_disordered_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:weathered_diorite",
+      "id": "chipped:weathered_diorite",
       "count": 1
     },
     {
-      "item": "chipped:bordered_diorite",
+      "id": "chipped:bordered_diorite",
       "count": 1
     },
     {
-      "item": "chipped:brick_bordered_diorite",
+      "id": "chipped:brick_bordered_diorite",
       "count": 1
     },
     {
-      "item": "chipped:cut_diorite_column",
+      "id": "chipped:cut_diorite_column",
       "count": 1
     },
     {
-      "item": "chipped:edged_diorite_bricks",
+      "id": "chipped:edged_diorite_bricks",
       "count": 1
     },
     {
-      "item": "chipped:overlapping_diorite_tiles",
+      "id": "chipped:overlapping_diorite_tiles",
       "count": 1
     },
     {
-      "item": "chipped:polished_diorite",
+      "id": "chipped:polished_diorite",
       "count": 1
     },
     {
-      "item": "chipped:smooth_diorite_column",
+      "id": "chipped:smooth_diorite_column",
       "count": 1
     },
     {
-      "item": "chipped:thick_inlayed_diorite",
+      "id": "chipped:thick_inlayed_diorite",
       "count": 1
     },
     {
-      "item": "chipped:tiled_diorite_column",
+      "id": "chipped:tiled_diorite_column",
       "count": 1
     },
     {
-      "item": "chipped:tiled_bordered_diorite",
+      "id": "chipped:tiled_bordered_diorite",
       "count": 1
     },
     {
-      "item": "chipped:tiny_brick_bordered_diorite",
+      "id": "chipped:tiny_brick_bordered_diorite",
       "count": 1
     },
     {
-      "item": "chipped:curly_diorite_pillar",
+      "id": "chipped:curly_diorite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:fine_diorite_pillar",
+      "id": "chipped:fine_diorite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:ornate_diorite_pillar",
+      "id": "chipped:ornate_diorite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:simple_diorite_pillar",
+      "id": "chipped:simple_diorite_pillar",
       "count": 1
     },
     {
-      "item": "chipped:massive_diorite_bricks",
+      "id": "chipped:massive_diorite_bricks",
       "count": 1
     }
   ]

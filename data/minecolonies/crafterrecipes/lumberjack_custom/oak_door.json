@@ -3,90 +3,90 @@
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "item": "minecraft:oak_door",
+      "id": "minecraft:oak_door",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:barred_oak_door",
+    "id": "chipped:barred_oak_door",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:beach_oak_door",
+      "id": "chipped:beach_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:boarded_oak_door",
+      "id": "chipped:boarded_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:dual_paneled_oak_door",
+      "id": "chipped:dual_paneled_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:fortified_oak_door",
+      "id": "chipped:fortified_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:gated_oak_door",
+      "id": "chipped:gated_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:glass_oak_door",
+      "id": "chipped:glass_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:heavy_oak_door",
+      "id": "chipped:heavy_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:overgrown_oak_door",
+      "id": "chipped:overgrown_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:paneled_oak_door",
+      "id": "chipped:paneled_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:paper_oak_door",
+      "id": "chipped:paper_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:pressed_oak_door",
+      "id": "chipped:pressed_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:screen_oak_door",
+      "id": "chipped:screen_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:secret_oak_door",
+      "id": "chipped:secret_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:shack_oak_door",
+      "id": "chipped:shack_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:sliding_oak_door",
+      "id": "chipped:sliding_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:supported_oak_door",
+      "id": "chipped:supported_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:tile_windowed_oak_door",
+      "id": "chipped:tile_windowed_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:tiled_oak_door",
+      "id": "chipped:tiled_oak_door",
       "count": 1
     },
     {
-      "item": "chipped:windowed_oak_door",
+      "id": "chipped:windowed_oak_door",
       "count": 1
     }
   ]

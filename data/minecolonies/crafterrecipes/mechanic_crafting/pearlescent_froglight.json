@@ -3,42 +3,42 @@
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "item": "minecraft:pearlescent_froglight",
+      "id": "minecraft:pearlescent_froglight",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:ad_astra_pearlescent_froglight",
+    "id": "chipped:ad_astra_pearlescent_froglight",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:ancient_pearlescent_froglight",
+      "id": "chipped:ancient_pearlescent_froglight",
       "count": 1
     },
     {
-      "item": "chipped:barred_pearlescent_froglight",
+      "id": "chipped:barred_pearlescent_froglight",
       "count": 1
     },
     {
-      "item": "chipped:elemental_pearlescent_froglight",
+      "id": "chipped:elemental_pearlescent_froglight",
       "count": 1
     },
     {
-      "item": "chipped:exposed_pearlescent_froglight",
+      "id": "chipped:exposed_pearlescent_froglight",
       "count": 1
     },
     {
-      "item": "chipped:glass_pearlescent_froglight",
+      "id": "chipped:glass_pearlescent_froglight",
       "count": 1
     },
     {
-      "item": "chipped:reinforced_pearlescent_froglight",
+      "id": "chipped:reinforced_pearlescent_froglight",
       "count": 1
     },
     {
-      "item": "chipped:round_pearlescent_froglight",
+      "id": "chipped:round_pearlescent_froglight",
       "count": 1
     }
   ]

@@ -3,58 +3,58 @@
   "crafter": "stonemason_crafting",
   "inputs": [
     {
-      "item": "minecraft:dried_kelp_block",
+      "id": "minecraft:dried_kelp_block",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:bamboo_dried_kelp_block",
+    "id": "chipped:bamboo_dried_kelp_block",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:blue_dried_kelp_block",
+      "id": "chipped:blue_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:brown_dried_kelp_block",
+      "id": "chipped:brown_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:compact_dried_kelp_block",
+      "id": "chipped:compact_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:crimson_dried_kelp_block",
+      "id": "chipped:crimson_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:leafy_dried_kelp_block",
+      "id": "chipped:leafy_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:mossy_dried_kelp_block",
+      "id": "chipped:mossy_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:netherwart_dried_kelp_block",
+      "id": "chipped:netherwart_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:rough_crimson_dried_kelp_block",
+      "id": "chipped:rough_crimson_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:shroomy_dried_kelp_block",
+      "id": "chipped:shroomy_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:sugarcane_dried_kelp_block",
+      "id": "chipped:sugarcane_dried_kelp_block",
       "count": 1
     },
     {
-      "item": "chipped:wart_dried_kelp_block",
+      "id": "chipped:wart_dried_kelp_block",
       "count": 1
     }
   ]

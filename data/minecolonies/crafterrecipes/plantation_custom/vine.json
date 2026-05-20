@@ -3,54 +3,54 @@
   "crafter": "plantation_custom",
   "inputs": [
     {
-      "item": "minecraft:vine",
+      "id": "minecraft:vine",
       "count": 1
     }
   ],
   "intermediate": "minecraft:air",
   "result": {
-    "item": "chipped:droopy_vine",
+    "id": "chipped:droopy_vine",
     "count": 1
   },
   "alternate-output": [
     {
-      "item": "chipped:flowery_vine",
+      "id": "chipped:flowery_vine",
       "count": 1
     },
     {
-      "item": "chipped:ivy_vine",
+      "id": "chipped:ivy_vine",
       "count": 1
     },
     {
-      "item": "chipped:leafy_vine",
+      "id": "chipped:leafy_vine",
       "count": 1
     },
     {
-      "item": "chipped:long_vine",
+      "id": "chipped:long_vine",
       "count": 1
     },
     {
-      "item": "chipped:lush_vine",
+      "id": "chipped:lush_vine",
       "count": 1
     },
     {
-      "item": "chipped:nether_vine",
+      "id": "chipped:nether_vine",
       "count": 1
     },
     {
-      "item": "chipped:poisonous_vine",
+      "id": "chipped:poisonous_vine",
       "count": 1
     },
     {
-      "item": "chipped:thicc_vine",
+      "id": "chipped:thicc_vine",
       "count": 1
     },
     {
-      "item": "chipped:thin_vine",
+      "id": "chipped:thin_vine",
       "count": 1
     },
     {
-      "item": "chipped:warped_vine",
+      "id": "chipped:warped_vine",
       "count": 1
     }
   ]
