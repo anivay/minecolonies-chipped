@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#chipped:desktop",
+    "#chipped:glowstone",
+    "#chipped:jack_o_lantern",
+    "#chipped:lantern",
+    "#chipped:ochre_froglight",
+    "#chipped:pearlescent_froglight",
+    "#chipped:soul_lantern",
+    "#chipped:special_lantern",
+    "#chipped:special_soul_lantern",
+    "#chipped:verdant_froglight"
+  ]
+}

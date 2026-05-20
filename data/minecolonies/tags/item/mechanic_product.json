@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "#chipped:amethyst_block",
+    "#chipped:blue_ice",
+    "#chipped:diamond_block",
+    "#chipped:emerald_block",
+    "#chipped:glowstone",
+    "#chipped:ice",
+    "#chipped:jack_o_lantern",
+    "#chipped:lantern",
+    "#chipped:ochre_froglight",
+    "#chipped:packed_ice",
+    "#chipped:pearlescent_froglight",
+    "#chipped:redstone_lamp",
+    "#chipped:redstone_torch",
+    "#chipped:sea_lantern",
+    "#chipped:shroomlight",
+    "#chipped:snow_block",
+    "#chipped:soul_lantern",
+    "#chipped:special_lantern",
+    "#chipped:special_soul_lantern",
+    "#chipped:torch",
+    "#chipped:verdant_froglight",
+    "#chipped:waxed_copper_block",
+    "#chipped:waxed_exposed_copper_block",
+    "#chipped:waxed_oxidized_copper",
+    "#chipped:waxed_weathered_copper"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#chipped:lily_pad",
+    "#chipped:nether_sprouts",
+    "#chipped:vine",
+    "#chipped:warped_roots"
+  ]
+}

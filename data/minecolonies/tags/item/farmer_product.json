@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "#chipped:acacia_leaves",
+    "#chipped:birch_leaves",
+    "#chipped:brown_mushroom",
+    "#chipped:brown_mushroom_block",
+    "#chipped:carved_pumpkin",
+    "#chipped:crimson_fungus",
+    "#chipped:dark_oak_leaves",
+    "#chipped:dirt",
+    "#chipped:gravel",
+    "#chipped:hay_block",
+    "#chipped:jungle_leaves",
+    "#chipped:melon",
+    "#chipped:moss_block",
+    "#chipped:mud",
+    "#chipped:mud_bricks",
+    "#chipped:nether_wart_block",
+    "#chipped:oak_leaves",
+    "#chipped:packed_mud",
+    "#chipped:pumpkin",
+    "#chipped:red_mushroom",
+    "#chipped:red_mushroom_block",
+    "#chipped:sand",
+    "#chipped:soul_sand",
+    "#chipped:spruce_leaves",
+    "#chipped:warped_fungus",
+    "#chipped:warped_wart_block"
+  ]
+}

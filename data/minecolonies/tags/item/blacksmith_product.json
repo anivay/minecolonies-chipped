@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#chipped:gold_block",
+    "#chipped:iron_bars",
+    "#chipped:iron_block",
+    "#chipped:netherite_block",
+    "#chipped:raw_copper_block",
+    "#chipped:raw_gold_block",
+    "#chipped:raw_iron_block"
+  ]
+}
