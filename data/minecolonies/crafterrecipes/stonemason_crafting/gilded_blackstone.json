@@ -1,0 +1,288 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:gilded_blackstone",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:gilded_blackstone_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:gilded_blackstone_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:gilded_blackstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:gilded_blackstone_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:gilded_blackstone_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_gilded_blackstone_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_gilded_blackstone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_gilded_blackstone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_gilded_blackstone_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_gilded_blackstone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_gilded_blackstone_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_gilded_blackstone_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_gilded_blackstone_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_gilded_blackstone_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_gilded_blackstone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_gilded_blackstone_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_gilded_blackstone_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_gilded_blackstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_gilded_blackstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_gilded_blackstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_gilded_blackstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_gilded_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:chunky_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:special_gilded_blackstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiral_gilded_blackstone",
+      "count": 1
+    }
+  ]
+}

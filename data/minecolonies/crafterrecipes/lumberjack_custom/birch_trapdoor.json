@@ -1,0 +1,104 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:birch_trapdoor",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:airy_birch_trapdoor",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:barred_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_windowed_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobweb_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:distorted_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_barred_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:heavy_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:iron_barred_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:leafy_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:meshed_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:pointless_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:slotted_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:solid_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:suspicious_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:twisted_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:vined_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:warted_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:windowed_birch_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_birch_trapdoor",
+      "count": 1
+    }
+  ]
+}

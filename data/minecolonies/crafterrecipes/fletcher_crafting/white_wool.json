@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:white_wool",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:barky_white_wool",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:blocky_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:bundled_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cross_haired_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cubed_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:knitted_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:patched_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:rectangle_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:ribbled_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:scaled_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:soft_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:stringed_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:tripped_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:wickered_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:windmill_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:woved_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cornered_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:crafted_white_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:harsh_quilted_white_wool",
+      "count": 1
+    }
+  ]
+}

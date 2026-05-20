@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "concretemixer_custom",
+  "inputs": [
+    {
+      "item": "minecraft:white_concrete",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:white_concrete_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:white_concrete_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grid_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:mosaic_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stop_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grill_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:white_concrete_panel",
+      "count": 1
+    },
+    {
+      "item": "chipped:pegged_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:striped_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:wired_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:white_concrete_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:bolted_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:hazard_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:rusted_white_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:warning_white_concrete",
+      "count": 1
+    }
+  ]
+}

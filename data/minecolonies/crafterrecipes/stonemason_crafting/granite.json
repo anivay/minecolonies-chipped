@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:granite",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:granite_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:granite_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:granite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:granite_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:granite_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_granite_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_granite_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_granite_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_granite_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_granite_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_granite_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_granite_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_granite_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_granite_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_granite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_granite_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_granite_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_granite_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_granite",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_granite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_granite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_granite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_granite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_granite_bricks",
+      "count": 1
+    }
+  ]
+}

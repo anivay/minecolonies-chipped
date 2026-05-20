@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:jungle_leaves",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:apple_jungle_leaves",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:cherry_jungle_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:dead_jungle_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:frosted_jungle_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_jungle_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_apple_jungle_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_cherry_jungle_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:magenta_flower_jungle_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:orange_jungle_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_jungle_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:white_flower_jungle_leaves",
+      "count": 1
+    }
+  ]
+}

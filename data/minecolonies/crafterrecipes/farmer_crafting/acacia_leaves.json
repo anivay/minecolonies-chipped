@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:acacia_leaves",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:apple_acacia_leaves",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:cherry_acacia_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:dead_acacia_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:frosted_acacia_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_acacia_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_apple_acacia_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_cherry_acacia_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:magenta_flower_acacia_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:orange_acacia_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_acacia_leaves",
+      "count": 1
+    },
+    {
+      "item": "chipped:white_flower_acacia_leaves",
+      "count": 1
+    }
+  ]
+}

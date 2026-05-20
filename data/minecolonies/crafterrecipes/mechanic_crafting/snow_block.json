@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:snow_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:snow_block_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:snow_block_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:snow_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:snow_block_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:snow_block_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_snow_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_snow_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_snow_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_snow_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_snow_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_snow_block_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_snow_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_snow_block_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_snow_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_snow_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_snow_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_snow_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_snow_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_snow_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_snow_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_snow_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_snow_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_snow_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_snow_block_bricks",
+      "count": 1
+    }
+  ]
+}

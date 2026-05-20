@@ -1,0 +1,164 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:spruce_planks",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:spruce_planks_mosaic",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:spruce_planks_shavings",
+      "count": 1
+    },
+    {
+      "item": "chipped:basket_woven_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:boxed_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bond_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:bricky_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cross_laced_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:crossed_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:detailed_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:diagonal_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:diamond_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:double_herringbone_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_vertical_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:herringbone_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:hewn_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:laced_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:nailed_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:shifted_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:slanted_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:thin_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:versailles_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertically_railed_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:wickered_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:spruce_planks_panel",
+      "count": 1
+    },
+    {
+      "item": "chipped:cornered_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:crated_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:enclosed_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:framed_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:natural_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pegged_spruce_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:whirlwind_spruce_planks",
+      "count": 1
+    }
+  ]
+}

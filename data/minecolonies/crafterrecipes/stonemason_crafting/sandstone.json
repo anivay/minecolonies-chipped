@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:sandstone",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:sandstone_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:sandstone_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:sandstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:sandstone_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:sandstone_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_sandstone_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_sandstone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_sandstone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_sandstone_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_sandstone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_sandstone_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_sandstone_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_sandstone_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_sandstone_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_sandstone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_sandstone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_sandstone_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_sandstone_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_sandstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_sandstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_sandstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_sandstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_sandstone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_sandstone_bricks",
+      "count": 1
+    }
+  ]
+}

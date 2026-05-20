@@ -1,0 +1,268 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:basalt",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:basalt_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:basalt_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:basalt_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:basalt_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:basalt_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_basalt_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_basalt_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_basalt_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_basalt_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_basalt_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_basalt_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_basalt_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_basalt_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_basalt_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_basalt_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_basalt_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_basalt_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_basalt_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_basalt",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_basalt_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_basalt_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_basalt_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_basalt_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_basalt_bricks",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:blue_ice",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:blue_ice_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:blue_ice_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:blue_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:blue_ice_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:blue_ice_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_blue_ice_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_blue_ice_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_blue_ice_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_blue_ice_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_blue_ice_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_blue_ice_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_blue_ice_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_blue_ice_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blue_ice_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_blue_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_blue_ice_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_blue_ice_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_blue_ice_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_blue_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_blue_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_blue_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_blue_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_blue_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_blue_ice_bricks",
+      "count": 1
+    }
+  ]
+}

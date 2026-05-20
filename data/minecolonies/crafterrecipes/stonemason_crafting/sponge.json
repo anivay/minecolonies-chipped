@@ -1,0 +1,40 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:sponge",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bulby_sponge",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:fine_sponge",
+      "count": 1
+    },
+    {
+      "item": "chipped:giant_sponge",
+      "count": 1
+    },
+    {
+      "item": "chipped:lush_sponge",
+      "count": 1
+    },
+    {
+      "item": "chipped:old_sponge",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_sponge",
+      "count": 1
+    },
+    {
+      "item": "chipped:soft_sponge",
+      "count": 1
+    }
+  ]
+}

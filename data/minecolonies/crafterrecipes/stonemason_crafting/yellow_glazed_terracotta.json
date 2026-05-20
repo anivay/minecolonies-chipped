@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:yellow_glazed_terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:yellow_glazed_terracotta_pillar_sides",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:yellow_glazed_terracotta_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:yellow_glazed_terracotta_smooth_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:yellow_glazed_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_yellow_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_yellow_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:minimized_yellow_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:paved_yellow_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:shrunken_yellow_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_yellow_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:waved_yellow_glazed_terracotta",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:melon",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bright_melon",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:dark_melon",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_melon",
+      "count": 1
+    },
+    {
+      "item": "chipped:ripe_melon",
+      "count": 1
+    },
+    {
+      "item": "chipped:rustic_melon",
+      "count": 1
+    },
+    {
+      "item": "chipped:sticky_melon",
+      "count": 1
+    },
+    {
+      "item": "chipped:sunny_melon",
+      "count": 1
+    },
+    {
+      "item": "chipped:swampy_melon",
+      "count": 1
+    },
+    {
+      "item": "chipped:sweet_melon",
+      "count": 1
+    },
+    {
+      "item": "chipped:tropics_melon",
+      "count": 1
+    }
+  ]
+}

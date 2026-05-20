@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:diorite",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:diorite_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:diorite_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:diorite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:diorite_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:diorite_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_diorite_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_diorite_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_diorite_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_diorite_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_diorite_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_diorite_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_diorite_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_diorite_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_diorite_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_diorite_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_diorite_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_diorite_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_diorite_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_diorite",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_diorite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_diorite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_diorite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_diorite_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_diorite_bricks",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:cyan_terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:cyan_terracotta_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:cyan_terracotta_tile",
+      "count": 1
+    },
+    {
+      "item": "chipped:cyan_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:chiseled_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:crossed_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:layered_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:triangular_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:cyan_terracotta_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:cyan_terracotta_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_cyan_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:curled_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:circular_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_cyan_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_cyan_terracotta",
+      "count": 1
+    }
+  ]
+}

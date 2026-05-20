@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:lime_wool",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:barky_lime_wool",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:blocky_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:bundled_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cross_haired_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cubed_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:knitted_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:patched_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:rectangle_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:ribbled_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:scaled_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:soft_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:stringed_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:tripped_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:wickered_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:windmill_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:woved_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cornered_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:crafted_lime_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:harsh_quilted_lime_wool",
+      "count": 1
+    }
+  ]
+}

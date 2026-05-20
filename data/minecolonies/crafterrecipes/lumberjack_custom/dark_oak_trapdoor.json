@@ -1,0 +1,104 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:dark_oak_trapdoor",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:airy_dark_oak_trapdoor",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:barred_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_windowed_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobweb_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:distorted_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_barred_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:heavy_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:iron_barred_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:leafy_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:meshed_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:pointless_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:slotted_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:solid_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:suspicious_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:twisted_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:vined_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:warted_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:windowed_dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_dark_oak_trapdoor",
+      "count": 1
+    }
+  ]
+}

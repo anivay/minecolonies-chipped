@@ -1,0 +1,160 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:barrel",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:acacia_barrel",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:acacia_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:bamboo_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:birch_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:birch_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:coal_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:copper_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:dark_oak_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:fish_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:fruit_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:gilded_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:gold_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:iron_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:jungle_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:mangrove_brick_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:mangrove_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:mangrove_tile_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:metal_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:mushroom_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:netherite_safe",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_acacia_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_birch_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_crimson_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_dark_oak_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_jungle_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_mangrove_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_oak_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_spruce_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_warped_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:spruce_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:spruce_crate",
+      "count": 1
+    },
+    {
+      "item": "chipped:varnished_barrel",
+      "count": 1
+    },
+    {
+      "item": "chipped:warped_crate",
+      "count": 1
+    }
+  ]
+}

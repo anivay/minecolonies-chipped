@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "concretemixer_custom",
+  "inputs": [
+    {
+      "item": "minecraft:lime_concrete",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:lime_concrete_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:lime_concrete_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grid_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:mosaic_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stop_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grill_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_concrete_panel",
+      "count": 1
+    },
+    {
+      "item": "chipped:pegged_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:striped_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:wired_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_concrete_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:bolted_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:hazard_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:rusted_lime_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:warning_lime_concrete",
+      "count": 1
+    }
+  ]
+}

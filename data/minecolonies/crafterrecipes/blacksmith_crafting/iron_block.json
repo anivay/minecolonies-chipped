@@ -1,0 +1,60 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:iron_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:iron_block_panels",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:ancient_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:chipped_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:layered_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:plated_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:pressed_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sheet_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:shuttered_iron_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_iron_block",
+      "count": 1
+    }
+  ]
+}

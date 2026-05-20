@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "concretemixer_custom",
+  "inputs": [
+    {
+      "item": "minecraft:orange_concrete",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:orange_concrete_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:orange_concrete_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grid_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:mosaic_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stop_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grill_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:orange_concrete_panel",
+      "count": 1
+    },
+    {
+      "item": "chipped:pegged_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:striped_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:wired_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:orange_concrete_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:bolted_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:hazard_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:rusted_orange_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:warning_orange_concrete",
+      "count": 1
+    }
+  ]
+}

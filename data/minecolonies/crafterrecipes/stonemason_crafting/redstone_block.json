@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:redstone_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:redstone_block_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:redstone_block_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:redstone_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:redstone_block_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:redstone_block_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_redstone_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_redstone_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_redstone_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_redstone_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_redstone_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_redstone_block_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_redstone_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_redstone_block_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_redstone_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_redstone_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_redstone_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_redstone_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_redstone_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_redstone_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_redstone_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_redstone_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_redstone_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_redstone_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_redstone_block_bricks",
+      "count": 1
+    }
+  ]
+}

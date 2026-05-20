@@ -1,0 +1,68 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:crimson_fungus",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bulbed_crimson_fungus",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:button_crimson_fungus",
+      "count": 1
+    },
+    {
+      "item": "chipped:clustered_crimson_fungus",
+      "count": 1
+    },
+    {
+      "item": "chipped:double_crimson_fungus",
+      "count": 1
+    },
+    {
+      "item": "chipped:franken_crimson_fungus",
+      "count": 1
+    },
+    {
+      "item": "chipped:hooded_crimson_fungus",
+      "count": 1
+    },
+    {
+      "item": "chipped:micro_crimson_fungus",
+      "count": 1
+    },
+    {
+      "item": "chipped:mini_crimson_fungus",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_fungus_bulb",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_fungus_bushel",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_fungus_cluster",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_fungus_trio",
+      "count": 1
+    },
+    {
+      "item": "chipped:umbrella_crimson_fungus",
+      "count": 1
+    },
+    {
+      "item": "chipped:wicked_crimson_fungus",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:acacia_door",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:beach_acacia_door",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:boarded_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:dual_paneled_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:fortified_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:gated_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:glass_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:heavy_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:paneled_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:paper_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:pressed_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:screen_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:secret_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:shack_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:sliding_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:supported_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:tile_windowed_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_acacia_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:windowed_acacia_door",
+      "count": 1
+    }
+  ]
+}

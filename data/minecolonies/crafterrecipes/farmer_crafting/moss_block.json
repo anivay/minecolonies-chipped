@@ -1,0 +1,52 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:moss_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:blobby_moss_block",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:blue_moss_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:crunchy_moss_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_moss_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:old_moss_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_moss_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_moss_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:spongy_moss_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sprinkled_moss_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:yellow_moss_block",
+      "count": 1
+    }
+  ]
+}

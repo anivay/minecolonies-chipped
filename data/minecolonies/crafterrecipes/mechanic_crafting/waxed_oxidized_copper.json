@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:waxed_oxidized_copper",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:ancient_waxed_oxidized_copper",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:chipped_waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "item": "chipped:embossed_waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "item": "chipped:layered_waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "item": "chipped:plated_waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "item": "chipped:pressed_waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "item": "chipped:sheet_waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "item": "chipped:shuttered_waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_waxed_oxidized_copper",
+      "count": 1
+    }
+  ]
+}

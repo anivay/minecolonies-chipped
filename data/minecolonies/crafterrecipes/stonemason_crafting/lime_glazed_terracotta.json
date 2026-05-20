@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:lime_glazed_terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:lime_glazed_terracotta_pillar_sides",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:lime_glazed_terracotta_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_glazed_terracotta_smooth_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_glazed_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_lime_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_lime_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:minimized_lime_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:paved_lime_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:shrunken_lime_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_lime_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:waved_lime_glazed_terracotta",
+      "count": 1
+    }
+  ]
+}

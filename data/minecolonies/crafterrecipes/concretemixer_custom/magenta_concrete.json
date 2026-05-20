@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "concretemixer_custom",
+  "inputs": [
+    {
+      "item": "minecraft:magenta_concrete",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:magenta_concrete_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:magenta_concrete_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grid_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:mosaic_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stop_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grill_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:magenta_concrete_panel",
+      "count": 1
+    },
+    {
+      "item": "chipped:pegged_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:striped_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:wired_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:magenta_concrete_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:bolted_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:hazard_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:rusted_magenta_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:warning_magenta_concrete",
+      "count": 1
+    }
+  ]
+}

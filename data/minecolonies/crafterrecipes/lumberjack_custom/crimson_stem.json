@@ -1,0 +1,68 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:crimson_stem",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bundled_crimson_stem",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:center_cut_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:damaged_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:edge_cut_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:firewood_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:glittering_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:glowing_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:mixed_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:nailed_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:planked_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:rotten_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:shrooming_crimson_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_crimson_stem",
+      "count": 1
+    }
+  ]
+}

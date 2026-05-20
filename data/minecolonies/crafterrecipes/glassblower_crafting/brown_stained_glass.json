@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "glassblower_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:brown_stained_glass",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:circular_brown_stained_glass",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:large_diamond_brown_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:square_brown_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_stiped_brown_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_brown_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:arched_brown_stained_glass_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_brown_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_brown_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:raster_brown_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_brown_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_brown_stained_glass",
+      "count": 1
+    }
+  ]
+}

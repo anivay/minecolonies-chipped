@@ -1,0 +1,80 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:red_terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:red_terracotta_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:red_terracotta_tile",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:chiseled_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:crossed_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:layered_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:triangular_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_terracotta_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_terracotta_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_red_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:curled_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:circular_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_red_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_red_terracotta",
+      "count": 1
+    }
+  ]
+}

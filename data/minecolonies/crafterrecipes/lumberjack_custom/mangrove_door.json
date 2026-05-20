@@ -1,0 +1,80 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:mangrove_door",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:barred_mangrove_door",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:beach_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:boarded_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:dual_paneled_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:fortified_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:gated_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:glass_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:heavy_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:paneled_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:paper_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:pressed_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:secret_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:sliding_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:supported_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:tile_windowed_mangrove_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:windowed_mangrove_door",
+      "count": 1
+    }
+  ]
+}

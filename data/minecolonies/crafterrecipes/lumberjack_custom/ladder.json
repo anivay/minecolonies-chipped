@@ -1,0 +1,52 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:ladder",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:crooked_ladder",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:crooked_plank_ladder",
+      "count": 1
+    },
+    {
+      "item": "chipped:crooked_ropeplank_ladder",
+      "count": 1
+    },
+    {
+      "item": "chipped:metal_ladder",
+      "count": 1
+    },
+    {
+      "item": "chipped:mossy_ladder",
+      "count": 1
+    },
+    {
+      "item": "chipped:plank_ladder",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_ladder",
+      "count": 1
+    },
+    {
+      "item": "chipped:rope_planked_ladder",
+      "count": 1
+    },
+    {
+      "item": "chipped:roped_ladder",
+      "count": 1
+    },
+    {
+      "item": "chipped:strong_ladder",
+      "count": 1
+    }
+  ]
+}

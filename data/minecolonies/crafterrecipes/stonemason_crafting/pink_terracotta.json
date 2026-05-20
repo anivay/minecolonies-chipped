@@ -1,0 +1,80 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:pink_terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:pink_terracotta_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:pink_terracotta_tile",
+      "count": 1
+    },
+    {
+      "item": "chipped:pink_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:chiseled_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:crossed_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:layered_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:triangular_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:pink_terracotta_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:pink_terracotta_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_pink_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:curled_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:circular_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_pink_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_pink_terracotta",
+      "count": 1
+    }
+  ]
+}

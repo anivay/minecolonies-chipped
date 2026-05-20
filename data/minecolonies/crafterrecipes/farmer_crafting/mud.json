@@ -1,0 +1,324 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:mud",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:mud_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:mud_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:mud_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:mud_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angled_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:arrow_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:button_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:centered_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:chiseled_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_mud_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crunched_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:double_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:eye_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_chiseled_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:heart_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:horned_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:keyhole_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:large_tiled_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:leaning_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:mini_tiled_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pancake_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:panelled_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:placed_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_mud_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:quad_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_panelled_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:rune_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:sigil_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_mud_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiral_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:star_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:symbol_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:symbolic_mud_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:hard_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_mud_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:scaly_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_mud",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_mud_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_mud_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_mud_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_mud_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_mud_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_mud_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_mud_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:diamond_mud_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:large_mud_sigil",
+      "count": 1
+    },
+    {
+      "item": "chipped:loreful_mud",
+      "count": 1
+    }
+  ]
+}

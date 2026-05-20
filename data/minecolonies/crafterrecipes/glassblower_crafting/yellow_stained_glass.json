@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "glassblower_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:yellow_stained_glass",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:circular_yellow_stained_glass",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:large_diamond_yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:square_yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_stiped_yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:arched_yellow_stained_glass_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:raster_yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_yellow_stained_glass",
+      "count": 1
+    }
+  ]
+}

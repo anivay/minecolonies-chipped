@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "glassblower_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:blue_stained_glass_pane",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:circular_blue_stained_glass_pane",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:large_diamond_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "chipped:square_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_stiped_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "chipped:arched_blue_stained_glass_pane_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "chipped:raster_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_blue_stained_glass_pane",
+      "count": 1
+    }
+  ]
+}

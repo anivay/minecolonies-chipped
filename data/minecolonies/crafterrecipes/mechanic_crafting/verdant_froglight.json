@@ -1,0 +1,44 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:verdant_froglight",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:ad_astra_verdant_froglight",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:ancient_verdant_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:barred_verdant_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:elemental_verdant_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:exposed_verdant_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:glass_verdant_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_verdant_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:round_verdant_froglight",
+      "count": 1
+    }
+  ]
+}

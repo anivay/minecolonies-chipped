@@ -1,0 +1,100 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:bamboo_trapdoor",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:barred_bamboo_trapdoor",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:checkered_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_windowed_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobweb_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:distorted_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_barred_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:heavy_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:iron_barred_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:leafy_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:meshed_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:pointless_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:slotted_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:solid_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:suspicious_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:twisted_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:vined_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:warted_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:windowed_bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_bamboo_trapdoor",
+      "count": 1
+    }
+  ]
+}

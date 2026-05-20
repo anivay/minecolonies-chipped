@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "concretemixer_custom",
+  "inputs": [
+    {
+      "item": "minecraft:pink_concrete",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:pink_concrete_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:pink_concrete_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grid_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:mosaic_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stop_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grill_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:pink_concrete_panel",
+      "count": 1
+    },
+    {
+      "item": "chipped:pegged_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:striped_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:wired_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:pink_concrete_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:bolted_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:hazard_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:rusted_pink_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:warning_pink_concrete",
+      "count": 1
+    }
+  ]
+}

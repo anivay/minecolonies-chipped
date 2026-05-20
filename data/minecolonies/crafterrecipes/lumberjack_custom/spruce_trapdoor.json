@@ -1,0 +1,100 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:spruce_trapdoor",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:airy_spruce_trapdoor",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:barred_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_windowed_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobweb_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:distorted_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_barred_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:iron_barred_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:leafy_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:meshed_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:pointless_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:slotted_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:solid_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:suspicious_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:twisted_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:vined_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:warted_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:windowed_spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_spruce_trapdoor",
+      "count": 1
+    }
+  ]
+}

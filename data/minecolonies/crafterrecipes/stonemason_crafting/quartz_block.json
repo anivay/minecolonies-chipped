@@ -1,0 +1,260 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:quartz_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:quartz_block_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:quartz_block_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:quartz_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:quartz_block_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_quartz_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_quartz_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_quartz_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_quartz_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_quartz_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_quartz_block_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_quartz_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_quartz_block_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_quartz_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_quartz_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_quartz_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_quartz_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_quartz_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_quartz_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_quartz_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_quartz_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_quartz_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_quartz_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_quartz_block_bricks",
+      "count": 1
+    }
+  ]
+}

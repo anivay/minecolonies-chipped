@@ -1,0 +1,68 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:crimson_roots",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:budding_crimson_roots_bulb",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:budding_crimson_roots",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_roots_bloom",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_roots_bramble",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_roots_bud",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_roots_bulb",
+      "count": 1
+    },
+    {
+      "item": "chipped:crimson_roots_floret",
+      "count": 1
+    },
+    {
+      "item": "chipped:flowered_crimson_roots_bulb",
+      "count": 1
+    },
+    {
+      "item": "chipped:flowered_crimson_roots",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_crimson_roots_bud",
+      "count": 1
+    },
+    {
+      "item": "chipped:sprouting_crimson_roots_bulb",
+      "count": 1
+    },
+    {
+      "item": "chipped:sprouting_crimson_roots",
+      "count": 1
+    },
+    {
+      "item": "chipped:wilted_crimson_roots_bud",
+      "count": 1
+    },
+    {
+      "item": "chipped:wilted_crimson_roots_bulb",
+      "count": 1
+    }
+  ]
+}

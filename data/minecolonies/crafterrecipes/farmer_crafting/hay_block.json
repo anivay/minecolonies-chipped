@@ -1,0 +1,44 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:hay_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:antique_hay_block",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:bundled_hay_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:detailed_hay_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:fertile_hay_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:jungle_hay_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:pale_hay_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:rich_hay_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:swampy_hay_block",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:pointed_dripstone",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:andesite_pointed_dripstone",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:calcite_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:deepslate_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:diorite_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_basalt_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:granite_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:stone_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tuff_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:basalt_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:blackstone_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:endstone_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:netherrack_pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "chipped:packed_ice_pointed_dripstone",
+      "count": 1
+    }
+  ]
+}

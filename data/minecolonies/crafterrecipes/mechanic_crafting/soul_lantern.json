@@ -1,0 +1,120 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:soul_lantern",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:blue_paper_soul_lantern",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:blue_tube_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_iron_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:gray_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:iron_bowl_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:orange_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_red_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:wooden_cage_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:yellow_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:blue_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:blue_tube_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_iron_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:gray_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:iron_bowl_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:orange_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_red_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:wooden_cage_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:yellow_paper_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:big_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:donut_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:tall_soul_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:wide_soul_lantern",
+      "count": 1
+    }
+  ]
+}

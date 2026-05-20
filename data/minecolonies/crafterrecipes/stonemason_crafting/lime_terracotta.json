@@ -1,0 +1,80 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:lime_terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:lime_terracotta_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:lime_terracotta_tile",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:chiseled_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:crossed_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:layered_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:triangular_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_terracotta_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:lime_terracotta_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_lime_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:curled_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:circular_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_lime_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_lime_terracotta",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:warped_stem",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bundled_warped_stem",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:center_cut_warped_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:damaged_warped_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:edge_cut_warped_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:firewood_warped_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:nailed_warped_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:planked_warped_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:rotted_warped_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:shrooming_warped_stem",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_warped_stem",
+      "count": 1
+    }
+  ]
+}

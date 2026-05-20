@@ -1,0 +1,164 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:acacia_planks",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:acacia_planks_mosaic",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:acacia_planks_shavings",
+      "count": 1
+    },
+    {
+      "item": "chipped:basket_woven_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:boxed_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bond_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:bricky_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cross_laced_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:crossed_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:detailed_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:diagonal_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:diamond_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:double_herringbone_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_vertical_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:herringbone_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:hewn_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:laced_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:nailed_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:shifted_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:slanted_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:thin_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:versailles_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertically_railed_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:wickered_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:acacia_planks_panel",
+      "count": 1
+    },
+    {
+      "item": "chipped:cornered_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:crated_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:enclosed_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:framed_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:natural_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pegged_acacia_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:whirlwind_acacia_planks",
+      "count": 1
+    }
+  ]
+}

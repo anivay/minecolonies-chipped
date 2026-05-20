@@ -1,0 +1,80 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:terracotta_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:terracotta_tile",
+      "count": 1
+    },
+    {
+      "item": "chipped:terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:chiseled_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:crossed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:layered_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:triangular_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:terracotta_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:terracotta_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:curled_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:circular_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_terracotta",
+      "count": 1
+    }
+  ]
+}

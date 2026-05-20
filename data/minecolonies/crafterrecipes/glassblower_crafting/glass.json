@@ -1,0 +1,96 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "glassblower_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:circle_oak_glass",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:fancy_leaded_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:large_diamond_leaded_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:lead_woven_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_snowflake_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:square_leaded_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_leaded_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:arched_leaded_glass_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:clear_leaded_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_bared_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_bordered_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_diamond_bordered_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_horizontal_lined_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_large_diamond_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_line_bared_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_ornate_bared_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:oak_woven_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_leaded_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:raster_leaded_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_diamond_leaded_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:square_oak_glass",
+      "count": 1
+    }
+  ]
+}

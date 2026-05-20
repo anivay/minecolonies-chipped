@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:magma_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:magma_block_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:magma_block_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:magma_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:magma_block_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:magma_block_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_magma_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_magma_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_magma_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_magma_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_magma_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_magma_block_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_magma_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_magma_block_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_magma_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_magma_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_magma_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_magma_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_magma_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_magma_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_magma_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_magma_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_magma_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_magma_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_magma_block_bricks",
+      "count": 1
+    }
+  ]
+}

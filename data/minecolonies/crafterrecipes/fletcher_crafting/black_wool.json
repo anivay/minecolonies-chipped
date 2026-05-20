@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:black_wool",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:barky_black_wool",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:blocky_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:bundled_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cross_haired_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cubed_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:knitted_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:patched_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:rectangle_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:ribbled_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:scaled_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:soft_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:stringed_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:tripped_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:wickered_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:windmill_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:woved_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cornered_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:crafted_black_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:harsh_quilted_black_wool",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:cobblestone",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:cobblestone_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:cobblestone_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobblestone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobblestone_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobblestone_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_cobblestone_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_cobblestone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_cobblestone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_cobblestone_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_cobblestone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_cobblestone_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_cobblestone_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_cobblestone_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_cobblestone_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_cobblestone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_cobblestone_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_cobblestone_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_cobblestone_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_cobblestone",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_cobblestone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_cobblestone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_cobblestone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_cobblestone_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_cobblestone_bricks",
+      "count": 1
+    }
+  ]
+}

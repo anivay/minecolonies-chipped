@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:prismarine",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:prismarine_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:prismarine_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismarine_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismarine_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_prismarine_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_prismarine_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_prismarine_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_prismarine_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_prismarine_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_prismarine_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_prismarine_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_prismarine_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_prismarine_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_prismarine_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_prismarine_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:granite_prismarine",
+      "count": 1
+    }
+  ]
+}

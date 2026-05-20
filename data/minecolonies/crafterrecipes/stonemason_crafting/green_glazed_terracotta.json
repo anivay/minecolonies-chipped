@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:green_glazed_terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:green_glazed_terracotta_pillar_sides",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:green_glazed_terracotta_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:green_glazed_terracotta_smooth_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:green_glazed_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_green_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_green_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:minimized_green_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:paved_green_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:shrunken_green_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_green_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:waved_green_glazed_terracotta",
+      "count": 1
+    }
+  ]
+}

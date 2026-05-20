@@ -1,0 +1,80 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:yellow_terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:yellow_terracotta_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:yellow_terracotta_tile",
+      "count": 1
+    },
+    {
+      "item": "chipped:yellow_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:chiseled_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:crossed_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:layered_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:triangular_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:yellow_terracotta_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:yellow_terracotta_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_yellow_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:curled_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:circular_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_yellow_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_yellow_terracotta",
+      "count": 1
+    }
+  ]
+}

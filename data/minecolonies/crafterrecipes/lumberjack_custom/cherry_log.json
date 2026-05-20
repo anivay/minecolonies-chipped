@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:cherry_log",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bundled_cherry_log",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:center_cut_cherry_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:damaged_cherry_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:edge_cut_cherry_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:firewood_cherry_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:flowering_cherry_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:mixed_cherry_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:nailed_cherry_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_cherry_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:planked_cherry_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_cherry_log",
+      "count": 1
+    }
+  ]
+}

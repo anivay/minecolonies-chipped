@@ -1,0 +1,68 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:red_mushroom",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bulbed_red_mushroom",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:button_red_mushroom",
+      "count": 1
+    },
+    {
+      "item": "chipped:clustered_red_mushroom",
+      "count": 1
+    },
+    {
+      "item": "chipped:double_red_mushroom",
+      "count": 1
+    },
+    {
+      "item": "chipped:franken_red_mushroom",
+      "count": 1
+    },
+    {
+      "item": "chipped:hooded_red_mushroom",
+      "count": 1
+    },
+    {
+      "item": "chipped:micro_red_mushroom",
+      "count": 1
+    },
+    {
+      "item": "chipped:mini_red_mushroom",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_mushroom_bulb",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_mushroom_bushel",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_mushroom_cluster",
+      "count": 1
+    },
+    {
+      "item": "chipped:red_mushroom_trio",
+      "count": 1
+    },
+    {
+      "item": "chipped:umbrella_red_mushroom",
+      "count": 1
+    },
+    {
+      "item": "chipped:wicked_red_mushroom",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "glassblower_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:cyan_stained_glass",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:circular_cyan_stained_glass",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:large_diamond_cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:square_cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_stiped_cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:arched_cyan_stained_glass_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:raster_cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_cyan_stained_glass",
+      "count": 1
+    }
+  ]
+}

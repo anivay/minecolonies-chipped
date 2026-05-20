@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:tuff",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:tuff_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:tuff_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:tuff_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:tuff_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:tuff_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_tuff_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_tuff_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_tuff_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_tuff_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_tuff_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_tuff_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_tuff_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_tuff_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_tuff_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_tuff_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_tuff_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_tuff_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_tuff_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_tuff",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_tuff_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_tuff_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_tuff_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_tuff_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_tuff_bricks",
+      "count": 1
+    }
+  ]
+}

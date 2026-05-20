@@ -1,0 +1,272 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:mossy_stone_bricks",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:mossy_stone_bricks_mini_tiles",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:mossy_stone_bricks_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:mossy_stone_bricks_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:mossy_stone_bricks_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_mossy_stone_bricks_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_mossy_stone_bricks_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_mossy_stone_bricks_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_mossy_stone_bricks_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_mossy_stone_bricks_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_mossy_stone_bricks_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_mossy_stone_bricks_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_mossy_stone_bricks_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_mossy_stone_bricks_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_mossy_stone_bricks_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_mossy_stone_bricks_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_mossy_stone_bricks_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_mossy_stone_bricks_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_mossy_stone_bricks_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_mossy_stone_bricks_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_mossy_stone_bricks_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_mossy_stone_bricks_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_mossy_stone_bricks_bricks",
+      "count": 1
+    }
+  ]
+}

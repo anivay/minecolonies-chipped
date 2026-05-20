@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:gray_wool",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:barky_gray_wool",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:blocky_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:bundled_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cross_haired_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cubed_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:knitted_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:patched_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:rectangle_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:ribbled_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:scaled_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:soft_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:stringed_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:tripped_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:wickered_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:windmill_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:woved_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:cornered_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:crafted_gray_wool",
+      "count": 1
+    },
+    {
+      "item": "chipped:harsh_quilted_gray_wool",
+      "count": 1
+    }
+  ]
+}

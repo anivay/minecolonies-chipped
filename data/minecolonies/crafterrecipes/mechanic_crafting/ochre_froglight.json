@@ -1,0 +1,44 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:ochre_froglight",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:ad_astra_ochre_froglight",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:ancient_ochre_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:barred_ochre_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:elemental_ochre_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:exposed_ochre_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:glass_ochre_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_ochre_froglight",
+      "count": 1
+    },
+    {
+      "item": "chipped:round_ochre_froglight",
+      "count": 1
+    }
+  ]
+}

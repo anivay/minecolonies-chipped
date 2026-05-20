@@ -1,0 +1,272 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:dark_prismarine",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:dark_prismarine_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:dark_prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:dark_prismarine_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:dark_prismarine_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_dark_prismarine_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_dark_prismarine_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_dark_prismarine_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_dark_prismarine_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_dark_prismarine_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_dark_prismarine_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_dark_prismarine_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_dark_prismarine_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_dark_prismarine_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_dark_prismarine_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_dark_prismarine_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_dark_prismarine_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_dark_prismarine_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_dark_prismarine",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_dark_prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_dark_prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_dark_prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_dark_prismarine_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_dark_prismarine_bricks",
+      "count": 1
+    }
+  ]
+}

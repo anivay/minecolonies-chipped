@@ -1,0 +1,96 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:mangrove_trapdoor",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:airy_mangrove_trapdoor",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:barred_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_windowed_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobweb_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_barred_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:heavy_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:iron_barred_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:leafy_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:meshed_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:pointless_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:slotted_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:solid_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:suspicious_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:twisted_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:vined_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:warted_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:windowed_mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_mangrove_trapdoor",
+      "count": 1
+    }
+  ]
+}

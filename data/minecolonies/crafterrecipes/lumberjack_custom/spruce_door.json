@@ -1,0 +1,88 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:spruce_door",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:barred_spruce_door",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:beach_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:dual_paneled_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:fortified_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:gated_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:glass_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:heavy_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:paneled_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:paper_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:pressed_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:screen_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:secret_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:shack_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:sliding_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:supported_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:tile_windowed_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_spruce_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:windowed_spruce_door",
+      "count": 1
+    }
+  ]
+}

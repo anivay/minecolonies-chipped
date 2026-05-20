@@ -1,0 +1,68 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:nether_wart_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bubbling_nether_wart_block",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:crumbled_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:dried_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:erratic_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:eyed_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:patched_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:porous_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:scabbed_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:scaled_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:seared_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:semi_spongy_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:speckled_nether_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:spongy_nether_wart_block",
+      "count": 1
+    }
+  ]
+}

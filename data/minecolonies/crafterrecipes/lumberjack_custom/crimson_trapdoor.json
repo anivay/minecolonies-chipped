@@ -1,0 +1,100 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:crimson_trapdoor",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:airy_crimson_trapdoor",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:barred_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:classic_windowed_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobweb_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:distorted_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:golden_barred_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:heavy_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:iron_barred_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:leafy_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:meshed_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:pointless_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:slotted_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:solid_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:twisted_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:vined_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:warted_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:windowed_crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_crimson_trapdoor",
+      "count": 1
+    }
+  ]
+}

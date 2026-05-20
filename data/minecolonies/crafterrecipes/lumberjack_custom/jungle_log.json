@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:jungle_log",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bundled_jungle_log",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:center_cut_jungle_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:damaged_jungle_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:edge_cut_jungle_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:firewood_jungle_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:flowering_jungle_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:mixed_jungle_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:nailed_jungle_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_jungle_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:planked_jungle_log",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_jungle_log",
+      "count": 1
+    }
+  ]
+}

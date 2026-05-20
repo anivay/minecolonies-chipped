@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "plantation_custom",
+  "inputs": [
+    {
+      "item": "minecraft:vine",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:droopy_vine",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:flowery_vine",
+      "count": 1
+    },
+    {
+      "item": "chipped:ivy_vine",
+      "count": 1
+    },
+    {
+      "item": "chipped:leafy_vine",
+      "count": 1
+    },
+    {
+      "item": "chipped:long_vine",
+      "count": 1
+    },
+    {
+      "item": "chipped:lush_vine",
+      "count": 1
+    },
+    {
+      "item": "chipped:nether_vine",
+      "count": 1
+    },
+    {
+      "item": "chipped:poisonous_vine",
+      "count": 1
+    },
+    {
+      "item": "chipped:thicc_vine",
+      "count": 1
+    },
+    {
+      "item": "chipped:thin_vine",
+      "count": 1
+    },
+    {
+      "item": "chipped:warped_vine",
+      "count": 1
+    }
+  ]
+}

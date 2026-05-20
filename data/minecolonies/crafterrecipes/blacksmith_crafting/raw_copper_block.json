@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:raw_copper_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:raw_copper_block_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:raw_copper_block_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:raw_copper_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:raw_copper_block_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:raw_copper_block_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_raw_copper_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_raw_copper_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_raw_copper_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_raw_copper_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_raw_copper_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_raw_copper_block_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_raw_copper_block_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_raw_copper_block_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_raw_copper_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_raw_copper_block_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_raw_copper_block_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_raw_copper_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_raw_copper_block_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_raw_copper_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_raw_copper_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_raw_copper_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_raw_copper_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_raw_copper_block_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_raw_copper_block_bricks",
+      "count": 1
+    }
+  ]
+}

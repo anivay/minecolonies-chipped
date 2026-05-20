@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:orange_glazed_terracotta",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:orange_glazed_terracotta_pillar_sides",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:orange_glazed_terracotta_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:orange_glazed_terracotta_smooth_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:orange_glazed_terracotta_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:decorated_orange_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:hexagonical_orange_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:minimized_orange_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:paved_orange_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:shrunken_orange_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:starry_orange_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "item": "chipped:waved_orange_glazed_terracotta",
+      "count": 1
+    }
+  ]
+}

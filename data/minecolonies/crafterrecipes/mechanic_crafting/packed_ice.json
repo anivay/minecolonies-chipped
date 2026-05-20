@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:packed_ice",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:packed_ice_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:packed_ice_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:packed_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:packed_ice_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:packed_ice_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_packed_ice_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_packed_ice_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_packed_ice_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_packed_ice_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_packed_ice_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_packed_ice_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_packed_ice_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_packed_ice_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_packed_ice_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_packed_ice_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_packed_ice_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_packed_ice_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_packed_ice_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_packed_ice",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_packed_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_packed_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_packed_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_packed_ice_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_packed_ice_bricks",
+      "count": 1
+    }
+  ]
+}

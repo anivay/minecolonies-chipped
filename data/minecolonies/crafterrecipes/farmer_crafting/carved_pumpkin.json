@@ -1,0 +1,100 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:carved_pumpkin",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:anguished_carved_pumpkin",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:bad_time_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:boo_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:creepy_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:devious_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:end_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:end_purple_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:horrified_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:kitty_faced_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:nether_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:overjoyed_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:owo_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:silly_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:slight_smile_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:smiling_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:spooky_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:squished_cute_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:suspicious_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_smug_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:traditional_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:upside_down_carved_pumpkin",
+      "count": 1
+    },
+    {
+      "item": "chipped:wide_eyed_carved_pumpkin",
+      "count": 1
+    }
+  ]
+}

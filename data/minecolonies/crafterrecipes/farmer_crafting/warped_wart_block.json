@@ -1,0 +1,68 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:warped_wart_block",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:bubbling_warped_wart_block",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:crumbled_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:dried_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:erratic_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:eyed_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:patched_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:porous_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:scabbed_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:scaled_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:seared_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:semi_spongy_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:speckled_warped_wart_block",
+      "count": 1
+    },
+    {
+      "item": "chipped:spongy_warped_wart_block",
+      "count": 1
+    }
+  ]
+}

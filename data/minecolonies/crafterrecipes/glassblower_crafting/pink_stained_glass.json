@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "glassblower_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:pink_stained_glass",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:circular_pink_stained_glass",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:large_diamond_pink_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:square_pink_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_stiped_pink_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_pink_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:arched_pink_stained_glass_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_pink_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_pink_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:raster_pink_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_pink_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_pink_stained_glass",
+      "count": 1
+    }
+  ]
+}

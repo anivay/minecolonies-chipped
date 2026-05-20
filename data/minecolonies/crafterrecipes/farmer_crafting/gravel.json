@@ -1,0 +1,40 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:gravel",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:andesite_gravel",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:dirty_gravel",
+      "count": 1
+    },
+    {
+      "item": "chipped:dusty_gravel",
+      "count": 1
+    },
+    {
+      "item": "chipped:orange_gravel",
+      "count": 1
+    },
+    {
+      "item": "chipped:rought_gravel",
+      "count": 1
+    },
+    {
+      "item": "chipped:sandy_gravel",
+      "count": 1
+    },
+    {
+      "item": "chipped:sifted_gravel",
+      "count": 1
+    }
+  ]
+}

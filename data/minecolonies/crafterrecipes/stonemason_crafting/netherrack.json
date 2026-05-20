@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:netherrack",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:netherrack_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:netherrack_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:netherrack_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:netherrack_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:netherrack_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_netherrack_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_netherrack_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_netherrack_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_netherrack_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_netherrack_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_netherrack_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_netherrack_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_netherrack_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_netherrack_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_netherrack_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_netherrack_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_netherrack_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_netherrack_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_netherrack",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_netherrack_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_netherrack_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_netherrack_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_netherrack_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_netherrack_bricks",
+      "count": 1
+    }
+  ]
+}

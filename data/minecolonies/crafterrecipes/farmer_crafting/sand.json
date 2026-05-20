@@ -1,0 +1,60 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:sand",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:ash_sand",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:coarse_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:desert_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:kelp_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:lush_red_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:pearl_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:soft_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:tar_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:wet_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:wet_red_sand",
+      "count": 1
+    },
+    {
+      "item": "chipped:white_sand",
+      "count": 1
+    }
+  ]
+}

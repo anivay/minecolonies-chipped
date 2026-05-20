@@ -1,0 +1,56 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "glassblower_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:lime_stained_glass",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:circular_lime_stained_glass",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:large_diamond_lime_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:square_lime_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_stiped_lime_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:woven_lime_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:arched_lime_stained_glass_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_lime_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_lime_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:raster_lime_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_lime_stained_glass",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_lime_stained_glass",
+      "count": 1
+    }
+  ]
+}

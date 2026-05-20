@@ -1,0 +1,164 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:birch_planks",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:birch_planks_mosaic",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:birch_planks_shavings",
+      "count": 1
+    },
+    {
+      "item": "chipped:basket_woven_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:boxed_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bond_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:bricky_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cross_laced_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:crossed_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:detailed_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:diagonal_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:diamond_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:double_herringbone_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_vertical_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:herringbone_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:hewn_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:laced_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:nailed_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:shifted_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:slanted_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:thin_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:versailles_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertically_railed_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:wickered_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:birch_planks_panel",
+      "count": 1
+    },
+    {
+      "item": "chipped:cornered_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:crated_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:enclosed_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:framed_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:natural_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pegged_birch_planks",
+      "count": 1
+    },
+    {
+      "item": "chipped:whirlwind_birch_planks",
+      "count": 1
+    }
+  ]
+}

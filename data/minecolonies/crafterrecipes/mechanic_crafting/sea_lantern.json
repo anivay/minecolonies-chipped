@@ -1,0 +1,80 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:sea_lantern",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:broken_sea_lantern",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:bulbed_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:double_inlayed_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:fancy_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:framed_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:hived_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:sea_lodestone_side",
+      "count": 1
+    },
+    {
+      "item": "chipped:shimmering_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:special_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_sea_lantern",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_sea_lantern_pillar",
+      "count": 1
+    }
+  ]
+}

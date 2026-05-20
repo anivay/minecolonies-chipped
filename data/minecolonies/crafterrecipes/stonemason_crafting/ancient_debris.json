@@ -1,0 +1,276 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:ancient_debris",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:ancient_debris_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:ancient_debris_mini_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:ancient_debris_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ancient_debris_pillar_top",
+      "count": 1
+    },
+    {
+      "item": "chipped:ancient_debris_scales",
+      "count": 1
+    },
+    {
+      "item": "chipped:angry_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:blank_ancient_debris_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:carved_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:checkered_ancient_debris_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:cobbled_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_disordered_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:cracked_flat_ancient_debris_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_ancient_debris_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:crying_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_blank_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:glad_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:duh_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:engraved_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:eroded_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:etched_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:flat_ancient_debris_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:inlayed_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:inscribed_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:layed_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:loded_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:offset_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:pillar_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:prismal_ancient_debris_remnants",
+      "count": 1
+    },
+    {
+      "item": "chipped:rough_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:rounded_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:runic_carved_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:sad_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:sanded_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:small_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_inlayed_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ringed_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:smoothed_double_inlayed_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:spider_ancient_debris_carving",
+      "count": 1
+    },
+    {
+      "item": "chipped:spiraled_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_layered_ancient_debris_slabs",
+      "count": 1
+    },
+    {
+      "item": "chipped:trodden_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:unamused_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_cut_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:vertical_disordered_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:weathered_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:bordered_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:brick_bordered_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:cut_ancient_debris_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:edged_ancient_debris_bricks",
+      "count": 1
+    },
+    {
+      "item": "chipped:overlapping_ancient_debris_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:polished_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_ancient_debris_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:thick_inlayed_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_ancient_debris_column",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_bordered_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiny_brick_bordered_ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "chipped:curly_ancient_debris_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:fine_ancient_debris_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:ornate_ancient_debris_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:simple_ancient_debris_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:massive_ancient_debris_bricks",
+      "count": 1
+    }
+  ]
+}

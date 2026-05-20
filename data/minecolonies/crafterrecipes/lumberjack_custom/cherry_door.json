@@ -1,0 +1,88 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "minecraft:cherry_door",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:barred_cherry_door",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:beach_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:boarded_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:dual_paneled_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:fortified_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:gated_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:glass_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:heavy_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:overgrown_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:paneled_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:paper_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:pressed_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:screen_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:secret_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:shack_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:sliding_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:supported_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:tile_windowed_cherry_door",
+      "count": 1
+    },
+    {
+      "item": "chipped:tiled_cherry_door",
+      "count": 1
+    }
+  ]
+}

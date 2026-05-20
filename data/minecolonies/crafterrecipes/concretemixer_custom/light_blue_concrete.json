@@ -1,0 +1,92 @@
+{
+  "type": "minecolonies:crafterrecipe",
+  "crafter": "concretemixer_custom",
+  "inputs": [
+    {
+      "item": "minecraft:light_blue_concrete",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "chipped:light_blue_concrete_bricks",
+    "count": 1
+  },
+  "alternate-output": [
+    {
+      "item": "chipped:light_blue_concrete_tiles",
+      "count": 1
+    },
+    {
+      "item": "chipped:creeper_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grid_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:mosaic_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stacked_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:stop_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:grill_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:light_blue_concrete_panel",
+      "count": 1
+    },
+    {
+      "item": "chipped:pegged_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:smooth_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:striped_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:wired_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:light_blue_concrete_pillar",
+      "count": 1
+    },
+    {
+      "item": "chipped:bolted_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:hazard_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:railed_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:reinforced_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:rusted_light_blue_concrete",
+      "count": 1
+    },
+    {
+      "item": "chipped:warning_light_blue_concrete",
+      "count": 1
+    }
+  ]
+}
