@@ -7,6 +7,7 @@
       "count": 1
     }
   ],
+  "intermediate": "minecraft:air",
   "result": {
     "item": "chipped:airy_warped_trapdoor",
     "count": 1

@@ -7,6 +7,7 @@
       "count": 1
     }
   ],
+  "intermediate": "minecraft:air",
   "result": {
     "item": "chipped:blooming_mushroom_stem",
     "count": 1

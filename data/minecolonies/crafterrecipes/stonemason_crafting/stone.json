@@ -7,6 +7,7 @@
       "count": 1
     }
   ],
+  "intermediate": "minecraft:air",
   "result": {
     "item": "chipped:stone_mini_tiles",
     "count": 1

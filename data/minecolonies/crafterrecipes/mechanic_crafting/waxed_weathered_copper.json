@@ -7,6 +7,7 @@
       "count": 1
     }
   ],
+  "intermediate": "minecraft:air",
   "result": {
     "item": "chipped:ancient_waxed_weathered_copper",
     "count": 1

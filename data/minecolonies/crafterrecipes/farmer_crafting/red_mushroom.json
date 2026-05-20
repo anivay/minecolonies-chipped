@@ -7,6 +7,7 @@
       "count": 1
     }
   ],
+  "intermediate": "minecraft:air",
   "result": {
     "item": "chipped:bulbed_red_mushroom",
     "count": 1
