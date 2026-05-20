@@ -1,5 +1,5 @@
 {
-  "type": "minecolonies:crafterrecipe",
+  "type": "recipe",
   "crafter": "stonemason_crafting",
   "inputs": [
     {

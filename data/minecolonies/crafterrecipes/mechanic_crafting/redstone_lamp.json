@@ -1,5 +1,5 @@
 {
-  "type": "minecolonies:crafterrecipe",
+  "type": "recipe",
   "crafter": "mechanic_crafting",
   "inputs": [
     {
